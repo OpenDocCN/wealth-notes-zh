@@ -1,4 +1,4 @@
-# 财富笔记
+# 财富自由·自由职业·远程工作·独立开发者笔记
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
