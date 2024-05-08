@@ -3,6 +3,7 @@
 +   [5 分钟商学院精细笔记](docs/biz5min/README.md)
 +   [陈昌文](docs/chenchangwen/README.md)
 +   [缠中说禅 108 课](docs/chzhshch/README.md)
++   [电鸭社区访谈录](docs/eleduck/README.md)
 +   [果老板](docs/guolaoban/README.md)
 +   [红杉汇创业知识手册 V2.0 版](docs/hsh-stup-v2/README.md)
 +   [记忆承载文章合集](docs/jiyichengzai/README.md)
