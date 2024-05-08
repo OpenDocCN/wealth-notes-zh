@@ -1,0 +1,3 @@
+# 红杉汇创业知识手册 V2.0 版
+
+来源：[`mp.weixin.qq.com/s?__biz=MzAwODE5NDg3NQ==&mid=2651226372&idx=1&sn=ac919e9bfa44fdd6dded9a23d78b933b&pageName=tab_subscribe&utm_source=wechat_session&from=singlemessage&ascene=1&devicetype=android-28&version=2607033d&nettype=WIFI&abtest_cookie=BAABAAoACwATABQABAAmlx4AV5keAJuZHgCdmR4AAAA%3D&lang=zh_CN&pass_ticket=Kx7aNcdIPWWuPLaewBtUKNpCAXFrpUEW3ehW5KlGYLg%3D&wx_header=1`](https://mp.weixin.qq.com/s?__biz=MzAwODE5NDg3NQ==&mid=2651226372&idx=1&sn=ac919e9bfa44fdd6dded9a23d78b933b&pageName=tab_subscribe&utm_source=wechat_session&from=singlemessage&ascene=1&devicetype=android-28&version=2607033d&nettype=WIFI&abtest_cookie=BAABAAoACwATABQABAAmlx4AV5keAJuZHgCdmR4AAAA%3D&lang=zh_CN&pass_ticket=Kx7aNcdIPWWuPLaewBtUKNpCAXFrpUEW3ehW5KlGYLg%3D&wx_header=1)
