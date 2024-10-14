@@ -1,0 +1,392 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P113：11_决策标准.zh_en
+    - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Welcome back to Corporate Finance。 Last time we applied our forecast drivers
+    to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/963bec46078c8b50dd4828559918c59e_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: our free cash flow formula to forecast free cash flows for our tablet project。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Today I want to take those free cash flows and apply our different decision。
+  prefs: []
+  type: TYPE_NORMAL
+- en: criteria to come up with decisions regarding our project。 Let's get started。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Hi everyone welcome back to Corporate Finance。 Today we're going to talk about。
+  prefs: []
+  type: TYPE_NORMAL
+- en: decision criteria but before doing so let's recap our previous lecture in which。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we forecasted free cash flows。 Specifically we took our forecast drivers our。
+  prefs: []
+  type: TYPE_NORMAL
+- en: assumptions about what would happen in the future and applied them to generate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: dollar forecasts of all of the components of the free cash flow formula which
+    we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: then built up aggregated into free cash flow forecasts。 Today we're going to
+    turn。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to what to do with those forecasts by looking at different decision criteria。
+    So let's get started。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So what do we do with our cash flows from last time？ One。
+  prefs: []
+  type: TYPE_NORMAL
+- en: thing we can do is we can compute the NPV and I'm going to assume a discount。
+  prefs: []
+  type: TYPE_NORMAL
+- en: rate of 12% that is r equals 12% and if we do that and apply it to our free。
+  prefs: []
+  type: TYPE_NORMAL
+- en: cash flows that we computed in the last lecture what we're going to see is that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: this project this tablet project has an NPV of 708。42 million dollars。 Not bad。
+  prefs: []
+  type: TYPE_NORMAL
+- en: What that means is that firm value debt plus equity is going to increase by
+    708。42。
+  prefs: []
+  type: TYPE_NORMAL
+- en: million dollars in expectation if the project is undertaken。 So from a decision。
+  prefs: []
+  type: TYPE_NORMAL
+- en: making standpoint undertake the project。 That's what the NPV rule tells us。
+    It says。
+  prefs: []
+  type: TYPE_NORMAL
+- en: accept all projects with a positive NPV， reject all projects with a negative
+    NPV。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and while this has boiled it down to one number I want to be careful especially。
+  prefs: []
+  type: TYPE_NORMAL
+- en: when we start doing our sensitivity analysis to recognize that we don't want。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to pin all our hopes to that one number。 Now another thing we can do is we can。
+  prefs: []
+  type: TYPE_NORMAL
+- en: compute the internal rate of return。 The internal rate of return of a project。
+  prefs: []
+  type: TYPE_NORMAL
+- en: recall is the one discount rate such that the net present value of the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: project's free cash flow is equal zero。 We've actually already seen this when
+    we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: were talking about yields。 Remember the yield is the one discount rate such
+    that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: when you discount the cash flows by the yield you get the price but the NPV
+    is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: nothing more than the price minus the present value of all the future cash，
+    flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So IRR and yield are really one and the same。 So what's the IRR for this， project？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well we write our NPV formula we set our NPV equal to zero and then we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: solve for the one discount rate such that when we discount all of our free cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: flows we get an NPV of zero。 If we do that we find that the IRR on this project
+    is， 43。7 percent。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well is that good？ Is it bad？ Before getting there I just want to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: mention typically we're going to need to solve this numerically unless you have。
+  prefs: []
+  type: TYPE_NORMAL
+- en: figured out some amazing way to solve higher order polynomials。 You can use。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the IRR function in Excel I think you can use goal seek in Excel you can try
+    trial。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and error though that's really inefficient if you're using another software
+    program。
+  prefs: []
+  type: TYPE_NORMAL
+- en: or a financial calculator you can do this as well。 So what is what do we do
+    with， this 43。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 7 percent IRR？ Well we're going to compare it to our cost of capital our。
+  prefs: []
+  type: TYPE_NORMAL
+- en: hurdle rate and what we're going to do is we're going to undertake the project。
+  prefs: []
+  type: TYPE_NORMAL
+- en: because the IRR is greater than the hurdle rate。 Intuitively it makes sense。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and this is one of those cases where intuition actually works。 It costs us。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 12% to raise money in the capital markets to fund our investments to create
+    value。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If this project generates a return of 43。7 percent that's substantially larger。
+  prefs: []
+  type: TYPE_NORMAL
+- en: than what it costs us to raise the funds。 That sounds good that makes sense
+    and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: so what the IRR rule says is accept all projects whose IRR is greater than R。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and reject all projects whose IRR is less than R where R is our hurdle rate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Hurdle rate cost of capital our discount rate。 Now I do want to mention the
+    IRR rules informative it's also somewhat intuitive。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and appeals a lot to investors who tend to think in terms of returns but it's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: got a number of shortcomings that we're going to explore in greater detail and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: topic four return on investment。 Now one picture I'd like to show you is the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/963bec46078c8b50dd4828559918c59e_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: following。 I've plotted the cost of capital on the horizontal axis and the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: project NPV on the vertical axis and what the blue line shows is it shows how
+    the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: NPV of the project varies as I vary the cost of capital。 Two points are worth，
+    noting。
+  prefs: []
+  type: TYPE_NORMAL
+- en: First is this point right here which is the 12% cost of capital of the， project。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You'll notice that generates an NPV as we saw earlier of a little bit， over
+    700 million dollars。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The second point I want to point out is this point。 The， point where the graph
+    crosses the x-axis。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That's the point at which the NPV is， zero which as we know from our definition
+    earlier is just the IRR。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That's 43。7%。 Now I think this graph is let me clear this up a little bit。 This
+    graph is useful。
+  prefs: []
+  type: TYPE_NORMAL
+- en: because from a sensitivity analysis or a robustness perspective。 Look this R
+    is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: an estimate and to be honest with you it's typically a noisy one。 What I see
+    here。
+  prefs: []
+  type: TYPE_NORMAL
+- en: is I see a really wide gap between my estimated cost of capital and the point。
+  prefs: []
+  type: TYPE_NORMAL
+- en: at which this project just breaks even。 So even if we disagree on the cost of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: capital and you're taking a more conservative view and you think it's up。
+  prefs: []
+  type: TYPE_NORMAL
+- en: or you know our real cost of capital is 20% that's okay。 This project is still。
+  prefs: []
+  type: TYPE_NORMAL
+- en: NPV positive it's still value-accretive and so what this gap here shows is it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: shows that I've got a lot of room for error at least on the discount rate， dimension。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The third thing we can do with our cash flows our free cash flows is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/963bec46078c8b50dd4828559918c59e_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: compute a payback period which is the duration or the time until the cumulative。
+  prefs: []
+  type: TYPE_NORMAL
+- en: free cash flows turn positive。 So let's look at our project here are free cash，
+    flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I'm going to accumulate them year over year so this 510 - 510。4 is just， the
+    376。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 8 in year 0 plus the -133。16 year 1 and on and on for years 2 through 5。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And then I'm going to look at the cumulative free cash flows and ask when， do
+    they turn positive？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well they turn positive right here in year 3 so our， payback period is year
+    3。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We turn cash flow positive in year 3。 Some people might。
+  prefs: []
+  type: TYPE_NORMAL
+- en: say it takes three years to recover your investment。 Is that good？ Is it bad？
+    How do。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we know if 3 is good？ How does that help us in our decision of whether or not
+    to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: undertake the project？ Well what we do is we compare it to some threshold and
+    so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the payback period rule is says accept all projects with a payback period less。
+  prefs: []
+  type: TYPE_NORMAL
+- en: than the threshold reject all projects with payback periods greater than that，
+    threshold。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But it should be immediately clear that the payback rule or the payback。
+  prefs: []
+  type: TYPE_NORMAL
+- en: period rule has several shortcomings the first of which is it's ignoring the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: time value of money and risk of cash flows the first sin that we learned way。
+  prefs: []
+  type: TYPE_NORMAL
+- en: back at the start of the course。 But fortunately that's actually quite easy，
+    to deal with。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We can compute the discounted payback period by discounting， the free cash flows
+    right？
+  prefs: []
+  type: TYPE_NORMAL
+- en: The discounted payback period of a project is just the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: duration until the cumulative discounted free cash flows turn positive。 And
+    so on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: this slide I computed those discounted free cash flows using our cost of capital。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of 12% and then I accumulate them and wait or count until they turn positive。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which is right here in year four。 So our discounted payback period is four which。
+  prefs: []
+  type: TYPE_NORMAL
+- en: is greater than our payback period of three。 But even using the discounted payback。
+  prefs: []
+  type: TYPE_NORMAL
+- en: period this has this rule has a number of shortcomings。 For example it ignores。
+  prefs: []
+  type: TYPE_NORMAL
+- en: cash flows after the cutoff and that's going to lead to myopic decision making。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let me go back a slide。 What if this cash flow in year five was 20， billion
+    dollars？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well 20 billion 114 million dollars。 It'd be a shame you know。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to ignore that and the implication for that of that cash flow。 So by ignoring。
+  prefs: []
+  type: TYPE_NORMAL
+- en: those cash flows you get myopic decision making。 Number two it's not。
+  prefs: []
+  type: TYPE_NORMAL
+- en: telling us the value implications of our decision。 Right it's not helping us。
+  prefs: []
+  type: TYPE_NORMAL
+- en: quantify the effects of any decision that we make。 It's also not helpful in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: choosing among projects with similar payback periods。 So I've got three。
+  prefs: []
+  type: TYPE_NORMAL
+- en: projects they all have payback periods of four which one do I choose if I can。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/963bec46078c8b50dd4828559918c59e_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: only choose one。 Alright so let's bring this all back together。 Let's bring
+    it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/963bec46078c8b50dd4828559918c59e_9.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: into a full circle。 So there's several decision criteria NPV is unambiguously。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the best and should always be used。 But I want to emphasize that others such
+    as。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the internal rate of return and payback period or it's discounted cousin that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: they're all informative and the key is to understand the shortcomings of these。
+  prefs: []
+  type: TYPE_NORMAL
+- en: alternative decision criteria to avoid any mistakes that feed into the ultimate，
+    decision。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So what I want to turn to in our next class is sensitivity analysis。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Which is an integral component of any DCF。 Thanks again and I look forward to，
+    seeing you。
+  prefs: []
+  type: TYPE_NORMAL

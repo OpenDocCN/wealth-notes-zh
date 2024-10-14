@@ -1,0 +1,409 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P137：21_过程能力和6西格玛.zh_en
+    - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: I don't like to talk about politics in my class， but today I will make an exception。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/09aef728586600b460610acd6f387c8e_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: European Union Commission Regulation， No。 1677-88， state that Q-commerce allowed
+    a bent of 10。
+  prefs: []
+  type: TYPE_NORMAL
+- en: millimeters per 10 centimeters of length。 Q-commerce has been more than this，
+    do not。
+  prefs: []
+  type: TYPE_NORMAL
+- en: qualify as class 1 or extra class Q-commerce。 Class 2 Q-commerce allowed to
+    bend twice， as much。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you were a cynic， you might say that resolutions like this were the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: reason why our British friends left the EU。 But allow me to backpedal just a
+    little。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/09aef728586600b460610acd6f387c8e_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: bit。 First， to my knowledge， the EU has since changed this resolution。 Second
+    and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: maybe more importantly， the resolution speaks to a fundamental problem in， quality
+    management。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you want to sort floor units into good units and de facto， units。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you have to define what is good and what is bad。 The decision is based on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: what we call a specification。 The Commission acknowledges that Q-commerce come
+    in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: different shapes and sizes reflecting the variation inherent in any process。
+  prefs: []
+  type: TYPE_NORMAL
+- en: certainly one involving mother nature。 Now according to the EU bureaucrats，
+    they。
+  prefs: []
+  type: TYPE_NORMAL
+- en: exist in ideal Q-commerce shape in the form of a straight line。 And in their，
+    view。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the more Q-commerce bends， the less desirable it is。 But how much bend is， tolerable？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Where is the cutoff？ As you wrestle with these types of quality， management
+    questions。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you realize that as observed this rule might be， it's， actually pretty smart。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You have a specification and you measure the output， against the specification。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now after measuring the coverage of Q-commerce for， a couple of years。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I needed a somewhat sweeter research topic so I got interested， in the production
+    process for M&Ms。
+  prefs: []
+  type: TYPE_NORMAL
+- en: On the labels of M&MX it says that there are， 47。9 grams of chocolate in there。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I have a couple of questions for you。 Ask， yourself how much do you think a
+    bag of M&M actually weighs？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Moreover， what is a， standard deviation of that weight？ If I would take a thousand
+    bags。
+  prefs: []
+  type: TYPE_NORMAL
+- en: how many of， them would be below 47 grams and about 53 grams？ And then the last
+    question I。
+  prefs: []
+  type: TYPE_NORMAL
+- en: have for you， can you think of a product from M&M that has a relatively high。
+  prefs: []
+  type: TYPE_NORMAL
+- en: degree of variation in weight？ Now arguably these are critical questions that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: deserve careful academic analysis。 Put me on pause and think about the questions。
+    Alright。
+  prefs: []
+  type: TYPE_NORMAL
+- en: let's look at the last question first。 Which M&M product has the most， variation？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Did you get that one right？ Is the M&Ms was peanuts？ Why is that？ Well。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/09aef728586600b460610acd6f387c8e_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: peanuts are grown maybe not organically but they are biologically produced so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: there's more environmental variation in the production process compared to，
+    regular M&Ms。
+  prefs: []
+  type: TYPE_NORMAL
+- en: To find the answers to the other three questions， here's what I did。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I went to the store bought all the M&Ms I could get a hold of。 Then I got my
+    hands。
+  prefs: []
+  type: TYPE_NORMAL
+- en: on at a high precision scale and here's what I found。 So I created myself a
+    sample， of 125 bags。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the sample I found an average weight of 50。0 grams。 The， standard deviation
+    of the sample was 1。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 03。 I would say from all the things that， you can eat or drink。
+  prefs: []
+  type: TYPE_NORMAL
+- en: there's a very low standard deviation。 Making M&Ms， especially， those without
+    peanuts。
+  prefs: []
+  type: TYPE_NORMAL
+- en: is highly industrialized and it's probably one of， the lowest amount of variation
+    that you can see。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now you see a histogram over， here and you see the raw data from the sample
+    in an Excel spreadsheet。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Ask yourself， would you bet your life on the fact that no bag of M&Ms is below
+    47 or about 53。
+  prefs: []
+  type: TYPE_NORMAL
+- en: grams？ I looked at the data in my sample and I don't see a single instance of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: such outliers in the process but I would like the art such outliers。 Are they。
+  prefs: []
+  type: TYPE_NORMAL
+- en: absolutely impossible？ As you can see the outcomes， the weights of the bags
+    of， M&Ms。
+  prefs: []
+  type: TYPE_NORMAL
+- en: they really follow some sort of a normal distribution。 If we agree that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: everything below 47 grams is a defect because it doesn't have enough chocolate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: in it and the customer might get upset and everything above 53 is a defect。
+  prefs: []
+  type: TYPE_NORMAL
+- en: because customers might sue us because they get obese or if we agree to those。
+  prefs: []
+  type: TYPE_NORMAL
+- en: specifications then we can draw a picture like this。 You see the normal。
+  prefs: []
+  type: TYPE_NORMAL
+- en: distribution and then at the tails are the defects。 Now of course if there's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: something we could do to reduce the standard deviation to have less variation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: in the outcomes that would be good in the sense that we would have lower。
+  prefs: []
+  type: TYPE_NORMAL
+- en: probabilities at the tails。 So you see here in this picture that in the upper。
+  prefs: []
+  type: TYPE_NORMAL
+- en: distribution I can go three standard deviations from the mean before I'm gonna。
+  prefs: []
+  type: TYPE_NORMAL
+- en: hit a specification limit i。e。 before my bag becomes a defect and now in the
+    lower。
+  prefs: []
+  type: TYPE_NORMAL
+- en: distribution I can go six standard deviations before things go wrong。 To。
+  prefs: []
+  type: TYPE_NORMAL
+- en: capture that idea we'll introduce a new concept and that is a concept of， process
+    capability。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We define the CP score where a C stands for capability of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the process as a ratio between the difference of the upper specification， limit，
+    the USL。
+  prefs: []
+  type: TYPE_NORMAL
+- en: minus a lower specification limit， the LSL and we're going to divide。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that by six times the standard deviation and the process。 So in our M&M example。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that gets me 53 minus 47 divided by six times 1。03。 So that is a number that
+    is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: just about one that capability tells you how likely you're gonna incur a defect。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you have many standard deviations between the mean and the specification。
+  prefs: []
+  type: TYPE_NORMAL
+- en: limit defects are unlikely。 In the case of a six sigma process CP is gonna be，
+    equal to two。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In that case defects are highly highly highly unlikely。 We're， talking about
+    two in a billion units。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you have a three sigma process you're， gonna have three standard deviations
+    from the mean to the defect level and so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: defects are probable but very unlikely。 And if you only have a CP score of 0。333。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you're gonna have defects 31% of the time。 So the CP scores are really good
+    way to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: capture the amount of variation in the process relative to the width of the，
+    specification interval。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now beyond analyzing chocolate the capability analysis。
+  prefs: []
+  type: TYPE_NORMAL
+- en: comes in handy when dealing with manufacturing tolerances。 This is a。
+  prefs: []
+  type: TYPE_NORMAL
+- en: context for which most of this quality machinery has been developed。 For example。
+  prefs: []
+  type: TYPE_NORMAL
+- en: my friend and colleague Carl Oryk has a kick scooter company。 You see his product。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the Zooter in many urban centers around the world。 Here's a picture。 A college。
+  prefs: []
+  type: TYPE_NORMAL
+- en: challenge for Carl has been the steers support column。 If the unit is too small，
+    below 79。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 9 millimeter the scooter starts to rattle especially if you go over a， bumpy
+    road。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If the unit is bigger than 80 millimeters it becomes hard to， manufacture it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You really have to squeeze it in。 So what we did is we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: collected some data from his production process and we calculated the capability，
+    score。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Again it's a USL minus the LSL。 In this case it would be 80 millimeters minus，
+    79。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 9 millimeters and we divide this by 6 times the empirical standard deviation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that we found in this plant。 To my great surprise statistics worked。 Those。
+  prefs: []
+  type: TYPE_NORMAL
+- en: measurements were normally distributed and it turned out that this CP score。
+  prefs: []
+  type: TYPE_NORMAL
+- en: for his factory the capability of his process was almost exactly the same as
+    the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: one for M&M's crazy world。 All right time for practice problem。 So you see this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: very creative question about the chicken egg production process here with， three
+    sub questions。
+  prefs: []
+  type: TYPE_NORMAL
+- en: As usual put me on hold and see how far you can get on your， own。 All right
+    here we go again。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So the weight of the chicken eggs follows， something that looks like a normal
+    distribution and the weight is on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: average 47 grams and there's a standard deviation which we said is 3 grams and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: then there's a specification limits。 A lower specification limit LSL which is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 44 and an upper specification limit USL which is 50 and then the CP score as
+    we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: defined is really the USL minus the LSL divided by 6 times the standard。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/09aef728586600b460610acd6f387c8e_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: deviation。 So in our problem here that is simply 50 minus 44 divided by 6 times
+    3。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So that is 1/3 or 60 divided by 18。 So 0。33 is the CP score and with that we
+    can。
+  prefs: []
+  type: TYPE_NORMAL
+- en: look into the table that we have on the previous slide。 The CP score of 1/3
+    means。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that you have a defect probability so that you're outside the specification，
+    limits of 0。317。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But the question I asked was for inside the specification limit。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Within the specification limit it is just 1 minus its stupid probability right。
+    So。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that is 1 minus 0。317 and that gets us just around 68 69 percent。 Next this
+    farmer。
+  prefs: []
+  type: TYPE_NORMAL
+- en: or the chicken of this farmer want to become more consistent right。 To find。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the required standard deviation we have to set we have to equate that CP score，
+    to 2/3。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well this is now an equation with one unknown。 The unknown is really the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: required standard deviation and so that is 6 divided by the 6 times sigma that
+    we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: had before and that ratio is to be equal to 2/3。 So we're gonna solve now for。
+  prefs: []
+  type: TYPE_NORMAL
+- en: sigma this is a linear equation and sigma so it's really not that hard to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: solve and we get a sigma of 1。5 grams。 Quality problems result from variability。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you always get it wrong you would not be in business for long。 If you always。
+  prefs: []
+  type: TYPE_NORMAL
+- en: get it right we would need a module on quality。 This is a little like my serve，
+    in tennis。
+  prefs: []
+  type: TYPE_NORMAL
+- en: My first serve is too short and goes into the net and the second serve。
+  prefs: []
+  type: TYPE_NORMAL
+- en: is too long and it's called out but on average my serve is just fine。 So once。
+  prefs: []
+  type: TYPE_NORMAL
+- en: again we're stuck talking about variability。 In the next video I want to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: introduce some definitions of variability that help us monitor process over
+    time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: so that we rapidly detect when there exists some change in outcome。 I see you，
+    then。 >> Okay。
+  prefs: []
+  type: TYPE_NORMAL

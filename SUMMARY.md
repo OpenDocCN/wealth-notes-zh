@@ -17,5 +17,6 @@
 +   [培训机构分析报告（TI Analysis）](docs/ti-analysis/README.md)
 +   [挖矿指南](docs/wakuang/README.md)
 +   [通往财富自由之路精细笔记](docs/wealfree/README.md)
++   [沃顿商学院全套笔记](docs/wharton/README.md)
 +   [中国社会阶层调查研究](docs/zhongguo-shehui-diaocha-yanjiu/README.md)
 +   [资本主义个人反抗指南](docs/zibenzhuyi-geren-fankang-zhinan/README.md)

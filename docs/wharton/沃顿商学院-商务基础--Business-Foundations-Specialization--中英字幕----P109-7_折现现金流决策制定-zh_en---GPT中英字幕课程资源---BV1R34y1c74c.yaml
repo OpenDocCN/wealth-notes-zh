@@ -1,0 +1,364 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P109：7_折现现金流决策制定.zh_en
+    - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Welcome back to Corporate Finance。 This time we're going to turn to a new topic。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/6d1a2e133cca4e4aac7e5f769a519dbb_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: discounted cash flow analysis。 But before doing so， I want to briefly recap
+    our， last topic。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest rates。 We started off discussing interest rate quotes and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: how they differed from the interest rates we use to discount cash flows。 We。
+  prefs: []
+  type: TYPE_NORMAL
+- en: then discussed how to discount cash flow streams when the cash flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: arrived at frequencies other than annual and when the compounding of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest was something other than annual as well。 We closed off the topic by。
+  prefs: []
+  type: TYPE_NORMAL
+- en: discussing the term structure of interest rates and the yield curve both of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which summarized the relationship between interest rates and the term of， the
+    investment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Today we turn to discounted cash flow analysis and I want。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to start the topic off by discussing how firms or people more generally should
+    be， making decisions。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let's get started。 Hey everybody， welcome back to Corporate， Finance。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Today we're going to be shifting gears to a new topic， discounted cash， flow
+    analysis。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But before doing so， I want to briefly recap our last topic， interest rates。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So in that topic we started off by introducing the notion of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: APR and EAR and a periodic discount rate。 The difference being as follows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: APR is our annual percentage rate or a means to quote interest rates。 Whereas，
+    EAR。
+  prefs: []
+  type: TYPE_NORMAL
+- en: effective annual rate and the periodic interest rate are actually， discount
+    rates。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They're economically relevant。 They're what we care about。
+  prefs: []
+  type: TYPE_NORMAL
+- en: they're what we use to discount cash flows and make decisions。 Then we use。
+  prefs: []
+  type: TYPE_NORMAL
+- en: those discount rates to value and assess cash flow streams that were no longer。
+  prefs: []
+  type: TYPE_NORMAL
+- en: arriving on an annual basis and to deal with the compounding of interest on
+    a， non-annual basis。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Then we closed off the topic with a discussion of the term。
+  prefs: []
+  type: TYPE_NORMAL
+- en: structure of interest rates which is the relation between the interest rate
+    and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the term of the investment or the duration of the investment。 And we discussed，
+    yield curves。
+  prefs: []
+  type: TYPE_NORMAL
+- en: loosely how to construct them， what the yield means， where it comes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: from and how to interpret these graphs。 Now we're going to switch over to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: discounted cash flow analysis and I want to start by motivating the topic and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: providing a little bit of background by discussing decision making。 So let's
+    get， started。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let's start with a question。 How should we make financial decisions？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well a reasonable answer might be to undertake those actions that create value。
+  prefs: []
+  type: TYPE_NORMAL
+- en: value for those affected by the decision， value for the owners of a firm for
+    example。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But which actions create value？ And well that's a complicated question， a sort
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: general answer that seems reasonable would be to consider actions in which the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: benefits exceed the costs。 But here's a little wrinkle。 What if the costs and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: benefits arrive at different times？ Well actually we're well equipped to deal。
+  prefs: []
+  type: TYPE_NORMAL
+- en: with that wrinkle because we can compare the present value of the benefits to
+    the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: present value of the costs。 See because by computing the present value we know。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that the discount rate R will adjust both for the timing and the risk of the，
+    cash flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So that brings us to our first lesson which is that the NPV。
+  prefs: []
+  type: TYPE_NORMAL
+- en: decision rule that is NPV which stands for net present value NPV。 The NPV。
+  prefs: []
+  type: TYPE_NORMAL
+- en: decision rule says that we should accept all projects with a positive NPV and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: reject all projects with a negative NPV where NPV is nothing more than the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: difference between the present value of the benefits and the present value of，
+    the costs。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In other words if the present value of the benefits is big is bigger。
+  prefs: []
+  type: TYPE_NORMAL
+- en: than the present value of the costs that's a good thing that creates value and
+    we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: want to undertake that project or make that decision that leads to positive
+    NPV。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And while this formula right here looks somewhat vague and ambiguous it's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: actually masking something that we're already very familiar with and that's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: just discounted cash flows。 NPV is nothing more than discounted cash flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: except now instead of cash flow CF I have this F in front of all the cash flows。
+    So， it's F CF。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The F simply stands for free。 So these are free cash flows but they're。
+  prefs: []
+  type: TYPE_NORMAL
+- en: still just cash flows nonetheless。 There's nothing special there。 I'm going
+    to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: formally define and discuss how to compute free cash flows in our next。
+  prefs: []
+  type: TYPE_NORMAL
+- en: lecture but for the time being just recognize we're doing nothing new here。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We're simply taking a stream of cash flows FCF not FCF one through FCF T and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we're discounting them back to today by a discount rate R to get a present value。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a net present value。 That's it。 And so the decision rule just says if the NPV
+    is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: greater than zero except the project if the NPV is less than zero reject the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: project sorry reject the project and while that seems fairly easy and straightforward。
+  prefs: []
+  type: TYPE_NORMAL
+- en: actually implementing it is quite a bit more subtle and we're going to talk
+    about。
+  prefs: []
+  type: TYPE_NORMAL
+- en: those subtleties as we move along throughout this topic。 So before moving on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to some of the mechanics of a DCF analysis I want to talk about decision。
+  prefs: []
+  type: TYPE_NORMAL
+- en: making in practice briefly because it's useful to motivate it and to understand。
+  prefs: []
+  type: TYPE_NORMAL
+- en: what people in different areas of both finance and non-financial sectors are。
+  prefs: []
+  type: TYPE_NORMAL
+- en: doing when they're making decisions。 So the first thing I want to look at is
+    this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: or show you is this survey evidence from a survey by John Graham and Cam Harvey。
+  prefs: []
+  type: TYPE_NORMAL
+- en: former colleagues at Duke in which they surveyed CFOs from the Fortune 500 and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: other domestic US domestic firms and they asked them how frequently do you use。
+  prefs: []
+  type: TYPE_NORMAL
+- en: capital budgeting different capital budgeting techniques and what you can see。
+  prefs: []
+  type: TYPE_NORMAL
+- en: is that there actually a variety of responses I've listed six here but the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: majority or the predominant number of responses point to net present value and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: internal rate of return as the most popular decision criteria that CFOs use。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that's followed somewhat closely by the payback rule and to a lesser extent
+    the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: discounted payback rule and in our in our discussion of DCF well NPV is going
+    to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: be center stage we're actually going to spend a fair amount of time discussing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: all of these decision rules because each one actually has important。
+  prefs: []
+  type: TYPE_NORMAL
+- en: information for the decision-making process though each one also has certain。
+  prefs: []
+  type: TYPE_NORMAL
+- en: limitations that we need to understand now that's in the non-financial corporate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/6d1a2e133cca4e4aac7e5f769a519dbb_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: sector if we look at what in vain investment bankers do when they are。
+  prefs: []
+  type: TYPE_NORMAL
+- en: value in companies in fairness opinions you can see that the large majority
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: investment bankers are also relying on discounted cash flow analysis you know。
+  prefs: []
+  type: TYPE_NORMAL
+- en: something akin to NPV but they're also using a host of comparables methods or。
+  prefs: []
+  type: TYPE_NORMAL
+- en: relying on multiples and while this is going to take us a little bit outside
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the scope of our course I might mention if we have some time how we use multiples。
+  prefs: []
+  type: TYPE_NORMAL
+- en: in in in valuation exercises if not I might post some additional material and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/6d1a2e133cca4e4aac7e5f769a519dbb_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: finally there's a recent survey by Paul Gomper Steve Kaplan and Vladimir。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Mukaraliya Mav I hope I'm not butchering that name too poorly but they have
+    a。
+  prefs: []
+  type: TYPE_NORMAL
+- en: really interesting survey of private equity firms and in which they investigate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: among among many things which criterion PE investors use to evaluate an。
+  prefs: []
+  type: TYPE_NORMAL
+- en: investment and what's interesting here is is the vast majority rely on internal。
+  prefs: []
+  type: TYPE_NORMAL
+- en: rate of return by a wide margin over any other criterion so let's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/6d1a2e133cca4e4aac7e5f769a519dbb_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: summarize this so we're gonna move through this topic of DCF discounted。
+  prefs: []
+  type: TYPE_NORMAL
+- en: cash flow emphasizing to a certain extent the NPV rule because that is the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: optimal rule in terms of always leading you to making the decision that creates。
+  prefs: []
+  type: TYPE_NORMAL
+- en: value that said I'm gonna take a much more practical perspective to corporate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: decision-making or decision-making more financial decision-making more broadly。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and recognize that other rules are still informative they're still useful and
+    so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: it's not surprising that we see their use by practitioners whether it's PE。
+  prefs: []
+  type: TYPE_NORMAL
+- en: private equity investors or investment bankers or CFOs they're still。
+  prefs: []
+  type: TYPE_NORMAL
+- en: informative but the important thing to keep in mind is that these other rules。
+  prefs: []
+  type: TYPE_NORMAL
+- en: have certain weaknesses that we need we need to understand and we need to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: recognize the limitations of these rules so that we can use multiple rules in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: conjunction to come to the best decision so what's next we're gonna dive into。
+  prefs: []
+  type: TYPE_NORMAL
+- en: how to compute free cash flows are the first stage in understanding how to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: execute a DCF so I look forward to seeing you in the next lecture thanks so
+    much。
+  prefs: []
+  type: TYPE_NORMAL

@@ -1,0 +1,759 @@
+- en: 沃顿商学院《实现个人和职业成功（成功、沟通能力、影响力）｜Achieving Personal and Professional Success》中英字幕
+    - P81：17_网络结构.zh_en - GPT中英字幕课程资源 - BV1VH4y1J7Zk
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: In this lecture， we'll drop into a little more detail on network structure。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_2.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Let's start with asking you a question。 What do you think the best position
+    is to hold in a network structure？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_4.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: What's your intuition for it？ And you might answer that by thinking about what
+    do you believe the benefits of being。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_6.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: in a network are？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_8.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: What benefits are you looking for from your informal networks？
+  prefs: []
+  type: TYPE_NORMAL
+- en: So people come up with all kinds of things on this， but the obvious ones are，
+    you know。
+  prefs: []
+  type: TYPE_NORMAL
+- en: let's be humans。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_10.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Affiliation， warmth， companionship， entertainment， that kind of thing。 Professionally。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we think about opportunity， resources， information。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And it's really that last one that we're going to focus on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We're going to move towards some models here and a necessary part of working
+    with a model。
+  prefs: []
+  type: TYPE_NORMAL
+- en: is that you simplify the world。 And one of the simplifications that people make
+    in this research area is we think about。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the benefits first and foremost as being information。 What about cost？
+  prefs: []
+  type: TYPE_NORMAL
+- en: What do you consider the cost of being in a network？ And this is a little more
+    ambiguous。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but one that most people seem to get and resonates， especially with our oversubscribed
+    students。
+  prefs: []
+  type: TYPE_NORMAL
+- en: are the time involved with maintaining your， network。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Most of us have difficulty spending as much time with the friends and professional
+    contacts。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that we have。 And it's pretty obvious to us that there's a scarce resource there。
+    It's our time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And so we can come up with other costs。 But for this exercise to understand
+    the basic ideas in this field。
+  prefs: []
+  type: TYPE_NORMAL
+- en: let's think about the， benefits being information and the cost being time。 So
+    you might think。
+  prefs: []
+  type: TYPE_NORMAL
+- en: all right， given that set up， what does it mean about where we want， to be？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Do we want to have a strong ally， for example？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_12.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: That's one way of thinking about it。 I want to be wherever the network， the
+    strongest person is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_14.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: It gives you an advocate in hiring and promotion， provides training， maybe a
+    little mentorship。
+  prefs: []
+  type: TYPE_NORMAL
+- en: maybe a little support。 It's a reasonable thing to say。 Or you might say， well。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I don't really care where I am。 I just want to be in a cohesive network。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I want to work with people who know each other， they understand each other。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Maybe they all coordinate very easily。 There are lots of benefits from that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And so that's understandable as well。 Others say， I want a large network as
+    many ties as possible。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_16.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: This is probably the most common answer， the most intuitive answer。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If we're going to talk about networks， we're impressed with people who can maintain
+    big networks。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_18.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Others say， well， size is one thing， but I'll take centrality。 I want to be
+    at the center of things。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I have to be at the heart。 Everyone has to come through me。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_20.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: That's reasonable as well。 There are benefits。 There are some costs to all of
+    these things。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_22.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: I think these are all relatively intuitive。 Because of that， I really want to
+    emphasize another one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a different one。 That is this notion of a structural hole。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Structural holes will unpack it in more detail momentarily。
+  prefs: []
+  type: TYPE_NORMAL
+- en: These are basically centrally placed people with ties to those who are not cohesive。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_24.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_25.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The idea is that in networks， everyone's not connected to everybody else。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you can sit between disconnected groups， you're spanning this structural
+    hole。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Maybe there's some real value in doing that。 Let's look at a picture and make
+    this more plain。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here is， let's say， a network of six people。 Consider especially the person
+    in the red dot there。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is what is considered a dense network。 They're all connected to each other。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is what might be considered a disconnected network。 A larger number of
+    people。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but the big feature here that differs across the two is that the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: one on the left is dense and the other on the right is disconnected。
+  prefs: []
+  type: TYPE_NORMAL
+- en: What happens when you remove the red dot？ The person in the position of the
+    red dot。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you remove that person from the dense structure。 Everybody still talks to everybody。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Information flows the same way。 Not a whole lot changes。 On the other hand。
+  prefs: []
+  type: TYPE_NORMAL
+- en: in the disconnected network， if you remove the person in the position of， the
+    red dot。
+  prefs: []
+  type: TYPE_NORMAL
+- en: all of a sudden these groups don't talk to each other at all。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The organization is in a very different place。 Information doesn't flow and
+    something is going to function very differently。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Clearly， a person who is in the role of the red dot will play a very different
+    role in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the organization if they're in that dense structure when they're in the disconnected
+    structure。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That gap， the gap that the red dot is spanning there in the disconnected structure
+    is what。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we consider a structural hole or a disconnect。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_27.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: We really want to talk about the benefits of that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_29.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: It's going to drive pretty much everything else that follows here。 A dense structure。
+  prefs: []
+  type: TYPE_NORMAL
+- en: relatively few structural holes， people are highly connected。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They have mutual influence on each other。 This is often a cohesive， similar
+    group。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They work closely together， might think alike。 They probably have what the economists
+    would call or the sociologists would call redundant。
+  prefs: []
+  type: TYPE_NORMAL
+- en: information。 They're often tapping a restricted set of resources。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Contrast that with the disconnected structure where there are many structural
+    holes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This more often reflects a non-cohesive heterogeneous group。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They provide opportunities in terms of differentiated， non-redundant information
+    and they access。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a wider array of these resources。 This idea comes from research originally by
+    Mark Granovett or on week ties and then really。
+  prefs: []
+  type: TYPE_NORMAL
+- en: built out by the sociologist Ron Burt。 We want to dig into it in a little more
+    detail。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here's another picture to talk about how you might think as you grow a network
+    from four。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to eight to 16 individuals， what it would look like if you did that in a very
+    disconnected。
+  prefs: []
+  type: TYPE_NORMAL
+- en: way versus a very dense way。 We're going to use the terms redundant versus efficient。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_31.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: These terms， again， there's very much an economics base to the work on social
+    networks。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It comes out of sociology， but this part of sociology is highly connected to
+    economics。
+  prefs: []
+  type: TYPE_NORMAL
+- en: These guys think about utility maximization。 The actors here are highly rational。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They're going to very much like economics talk about costs and benefits and
+    they're just。
+  prefs: []
+  type: TYPE_NORMAL
+- en: going to find the optimal solution given to costs and benefits。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_33.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: They're going to use terms like redundant and efficiency。 These are modeling
+    terms。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but let's explain to you what they mean。 The top there， it's network A， B and
+    C as you move。
+  prefs: []
+  type: TYPE_NORMAL
+- en: for example， from network A where you， have four connections and network B you
+    have eight connections and network C you have 16。
+  prefs: []
+  type: TYPE_NORMAL
+- en: connections。 In this case， every time you add someone to the network。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you're adding a new relationship。 You're going from four to eight to 16 relationships。
+    Great。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you've got more people， but we know there are costs associated with that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It is what the economists and sociologists would call redundant ties。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Contrast that with the three on the bottom， A prime， B prime and C prime。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This person goes from four to eight to 16 always with four relationships。 In
+    each case。
+  prefs: []
+  type: TYPE_NORMAL
+- en: they have perfectly efficient networks。 They're spanning these structural holes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is a disconnected network and with the same four relationships， they're
+    able to tap。
+  prefs: []
+  type: TYPE_NORMAL
+- en: in to 16 people now because of the way they built it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Sociologists would consider the bottom networks efficient and the top networks
+    redundant because。
+  prefs: []
+  type: TYPE_NORMAL
+- en: for much less at much less costs are tapping into the same information。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_35.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The assumption here is that the resources needed to maintain relationships，
+    time and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: emotion are scarce。 I think that's a very reasonable assumption。 But given that
+    assumption。
+  prefs: []
+  type: TYPE_NORMAL
+- en: these guys are just kind of taking it to its extreme and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_37.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: asking， "Well， if you've got scarce resources， maybe you want to think about
+    building a more。
+  prefs: []
+  type: TYPE_NORMAL
+- en: efficient network。"， With these ideas out there， let's start talking about how
+    networks might differ if you took。
+  prefs: []
+  type: TYPE_NORMAL
+- en: them seriously， consider diversifying your network。 In this picture。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we begin with what is a very dense network。 A person has five relationships
+    tapping into something like 10 or 12 individuals。
+  prefs: []
+  type: TYPE_NORMAL
+- en: most of， whom are connected to other people in the same network。 And then after
+    diversification。
+  prefs: []
+  type: TYPE_NORMAL
+- en: after taking this theory really seriously， you've got the， same five relationships。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but now it taps into a much broader， maybe 20 plus individuals。
+  prefs: []
+  type: TYPE_NORMAL
+- en: many of whom do not connect with other people。 And so you're tapping into more
+    highly varied resources。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is what the sociologists would claim are benefits of a more disconnected
+    structure。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They would advocate even pursuing a more efficient network and eschewing redundancy
+    that you。
+  prefs: []
+  type: TYPE_NORMAL
+- en: see in the denser networks。 So there are many benefits， of course。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The people in the disconnected networks will be the first to know information
+    outside of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: each pocket。 There are many benefits。 Partnerships if they want to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: they can play rival factions against each other。 And they might be sought out
+    as a broker to introduce。
+  prefs: []
+  type: TYPE_NORMAL
+- en: make contacts， make introductions， from one part of their organization to another。
+  prefs: []
+  type: TYPE_NORMAL
+- en: There are many benefits。 They fall right out of it。 We don't want to ignore
+    the cost。
+  prefs: []
+  type: TYPE_NORMAL
+- en: What do you think the cost might be of this？ And we'll spend a little more time
+    on that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_39.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: But I think it's fair to say that while extreme， these guys are mostly just
+    making plain something。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_41.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: that many of us do intuitively。 And in fact， I would push you to reflect a little
+    bit on how is it that you're deciding。
+  prefs: []
+  type: TYPE_NORMAL
+- en: where to spend your time， who to invest in， what relationships to cultivate，
+    what relationships。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to let ride。 It's something that many people want to avoid。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It's a little bit uncomfortable to think about。 But the economic model and the
+    sociological model takes us a starting place that we've。
+  prefs: []
+  type: TYPE_NORMAL
+- en: got scarce resources。 We derive utility from things like relationships。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And we're essentially maximizers。 We're going to try to maximize how much utility
+    we can get from our scarce resources。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You bring that model to relationships， and this is the kind of thing that we
+    end up with。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I'm not going to say you should all think about it this way。 That you should
+    act exactly like this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That you should be as efficient to network as possible。 But I like the conversation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And I like having it on the table。 Not least because I think we're all doing
+    something like this anyway。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And let's put it。 Let's be a little bit more explicit about it。 Let's talk about
+    the trade-offs。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And then let's see how we can exercise these ideas。
+  prefs: []
+  type: TYPE_NORMAL
+- en: How we can use these tools in a way that isn't offensive to us。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We don't want to act in a way that isn't in the spirit of how we want to live。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We don't want to act in a way because the sociologist tells us this is more
+    efficient。
+  prefs: []
+  type: TYPE_NORMAL
+- en: just for that reason。 But can we borrow those ideas？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Can we borrow those tools and do it in a way that actually fits with the way
+    we want to， live？
+  prefs: []
+  type: TYPE_NORMAL
+- en: That's where we're coming from。 So a little more motivation for considering
+    it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: There's work here by Ron Burt。 This was empirical work。 So far we've just talked
+    theory。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Burt went out and ran a big study in a large organization that looked at how
+    employees rose。
+  prefs: []
+  type: TYPE_NORMAL
+- en: through the ranks there。 What rate of promotion they got over time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And he compared that to the networks they had when they began。
+  prefs: []
+  type: TYPE_NORMAL
+- en: What he found was strong relationship。 Social science goes this is a very strong
+    relationship between those who had many disconnects。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So when a relatively disconnected structure compared to those who had few disconnects。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and more dense and formal structure。 Those with more disconnects showed a higher
+    rate of promotion in the organization over。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_43.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_45.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So this was kind of the beginning of what has turned into a huge industry and
+    academic work。
+  prefs: []
+  type: TYPE_NORMAL
+- en: on what are the empirical consequences of these various network structures。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And a little bit of motivation for well maybe it's not more than just theory。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Maybe these are things that do make a difference。 This idea that by tapping
+    into a more diverse network we get information and opportunities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that we wouldn't if we tapped into a more homogenous， more dense， more dense
+    network。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So are there limitations？ Of course there are limitations。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We've named a few but we always want to mind these limitations and we want to
+    in other parts。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of the course we unpack them more explicitly。 But if you think about， okay。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I'm going to maximize the efficiency of my organization， my network， what's
+    the risk here？
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you're sitting there on the right hand side with four relationships into
+    16 people。
+  prefs: []
+  type: TYPE_NORMAL
+- en: what's the risk？ Obviously one of the biggest risk is what happens if that one
+    contact that you have in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a cluster of four goes away？ What happens if that person moves or something
+    goes wrong in that relationship？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Then your only bridge into that group is gone。 So this is fine with the sociologists。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They'll just say， look， we can still deal with that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you have an especially important cluster of people then you need to have
+    more than one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: relationship in there。 You need some redundancy just in case something goes
+    wrong。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They can drop that right into their model， run the utility maximizing thing
+    again and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: it's going to give that kind of answer。 The more important the group。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the more important that you have some redundant ties into it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_47.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Let me give you one small example from politics in the United States that ends
+    with a quote。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that I love that captures this pretty well。 "Jim Wright was a longtime congressman
+    from the Dallas Fort Worth area in Texas。
+  prefs: []
+  type: TYPE_NORMAL
+- en: He was in Congress for 34 years and finally near the end of his career there
+    he took over。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a speaker of the house。 He seceded Tip O'Neill who was a longtime and famous
+    speaker of the house。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So Jim Wright goes in and he only the last two years and this poor guy was in
+    Congress。
+  prefs: []
+  type: TYPE_NORMAL
+- en: for 34 years and he gets indicted as Speaker of the House and has to resign。
+    Why did that happen？
+  prefs: []
+  type: TYPE_NORMAL
+- en: This was the beginning of Newt Gingrich。 Gingrich took it on himself to run
+    right out basically。
+  prefs: []
+  type: TYPE_NORMAL
+- en: He wanted more power。 He wanted to undermine the Democratic Party and so he
+    found ways to run him out。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Gingrich， there's a lot of detail on this and that doesn't matter as much for
+    the moment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But what Gingrich said about Wright is very relevant to us today。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Gingrich says that when he began initiating formal investigations into Wright，
+    this is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_49.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: in late 1987， he said， "I've watched my colleagues body language toward me。
+    It's actually improved。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If I had gone after Tip O'Neill this hard， I would have been a social outcast。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Wright should get a solid A for performance。 As a technician of power， he's
+    done a great job。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The downside is he's a loner still。 There's no deep body of affection for him。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Being a loner eliminates the safety net of both information and goodwill。 That
+    line says a lot。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is why we tell the story。 This line from Gingrich， "Hoo， whatever you feel
+    about Gingrich。
+  prefs: []
+  type: TYPE_NORMAL
+- en: he's got some insight， into power politics。"， He says about Wright being a loner
+    eliminates the safety net of both information and goodwill。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is something that applies to all of us。 It's not just about speakers of
+    the house。
+  prefs: []
+  type: TYPE_NORMAL
+- en: He puts it in just perfect way。 Information and goodwill is both of these things。
+    Of course。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that even that simplifies things too much， but that's a nice two bucket summary。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of what we're looking for in informal networks。 Okay， a few caveats before we
+    leave it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Birds approach， characterized very much by cost-benefit calculations， a lot
+    of intentionality。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and strategy here。 There are trade-offs。 This is inherent to the traditional
+    sociological model of networks。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We've presented very quickly kind of an extreme version of this。 We want to
+    be provocative。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We want to push you。 We also want to stay kind of simple。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We want to give you a simple framework for thinking about this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We want you to reflect on how much of you're doing a lot of this tacitly already。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is more or less just a theoretical benchmark。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It's going to push us to think about the opportunity costs of the way we build
+    our。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_51.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: relationships and the way we move through organizations。 Thank you。 [end of
+    transcript]。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[ Silence ]。'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/a24723ebf46f6e68d3de12188cbd4521_53.png)'
+  prefs: []
+  type: TYPE_IMG

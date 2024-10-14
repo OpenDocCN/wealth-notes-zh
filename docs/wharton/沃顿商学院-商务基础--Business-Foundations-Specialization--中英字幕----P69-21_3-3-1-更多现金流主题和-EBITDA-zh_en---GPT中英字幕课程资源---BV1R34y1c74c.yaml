@@ -1,0 +1,1171 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P69：21_3 3 1 更多现金流主题和
+    EBITDA.zh_en - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Hello， I'm Professor Brian Boucher。 Welcome back。 In this video。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we're going to tackle a number of miscellaneous cash flow topics that I haven't，
+    gotten to yet。
+  prefs: []
+  type: TYPE_NORMAL
+- en: First we'll talk about how to treat a gain or loss on sale of profit-print equipment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: on the cash flow statement。 Then we'll talk about some complications in how
+    things are classified on the statement。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of cash flows。 And we'll wrap up with a discussion of earnings versus cash flow
+    versus EBITDA versus free。
+  prefs: []
+  type: TYPE_NORMAL
+- en: cash flows。 It's a big agenda， so let's get to it。 First。
+  prefs: []
+  type: TYPE_NORMAL
+- en: let's look at an example of how to treat a gain on sale of profit-print and
+    equipment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: under the indirect method cash flow statement。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So let's say we sold property-plant equipment worth $70 on the books for $75
+    cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: How are we able to sew PPE for more than it is worth？
+  prefs: []
+  type: TYPE_NORMAL
+- en: I bet that never ever happens in the real world。 We're correct that we can't
+    really sell something for more than it's worth because what somebody。
+  prefs: []
+  type: TYPE_NORMAL
+- en: pays for it is essentially what the asset is worth。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But I said how much it's worth on the books or the financial statements。 And
+    remember。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the book value of property-plant equipment is going to be a function of our。
+  prefs: []
+  type: TYPE_NORMAL
+- en: depreciation assumptions because it equals the original cost minus the accumulated
+    depreciation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So if the depreciation assumptions are incorrect， which they always are， then
+    we're going to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: end up selling it for more or less than it's on the books。 So they give it this
+    way。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If we depreciate something too much， we drop its value too much， we end up having
+    a gain， on sale。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which sort of brings it to the true amount of depreciation over the life of
+    the， asset。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If we depreciate something too little， then we'll have a loss on sale， which
+    again gets。
+  prefs: []
+  type: TYPE_NORMAL
+- en: us to the true level of depreciation on the asset over its life。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So this gain or loss on sale helps us adjust our incorrect assumptions and get
+    the true。
+  prefs: []
+  type: TYPE_NORMAL
+- en: amount of economic depreciation over the life of the asset。 Anyway。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that's going to result in a gain of $5， which will go on the income statement。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Excuse me， does this $5 gain count as revenue？ Excellent question。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Although this gain will go on the income statement and increase the income just
+    like revenue， would。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we're not going to consider a top-line revenue because it's not part of our
+    core。
+  prefs: []
+  type: TYPE_NORMAL
+- en: business activities。 In other words， we're not in the business of buying and
+    selling buildings。
+  prefs: []
+  type: TYPE_NORMAL
+- en: On an application of this example， it's because it's not a core business activity，
+    it's going。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to be an investing activity， and because it's an investing activity， we need
+    to remove that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: gain out of the operating section and place it into the investing section。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_9.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So we're going to consider all $75 of cash that we receive as an investing activity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_11.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: which is another indication that we don't treat this as a revenue activity because
+    if。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_13.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: it was， it would be part of operating cash flow。 So I'm going to bring back
+    one of the basic examples we did early on where we have all。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_15.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: of our sales in cash， all of our cost of goods sold in cash， and then depreciation
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_17.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: $10。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_19.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: We're going to add to that the gain on sale of property plant equipment， which
+    goes on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_21.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: the income statement， which would make our net income 35。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_23.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Under the direct method cash flow， all of our sales were cash， so we have collections。
+  prefs: []
+  type: TYPE_NORMAL
+- en: from customers of 100。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_25.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: All of our cost of goods sold was in cash， so we have payments as suppliers
+    of 60。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_27.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Depreciation of course is not cash， and the gain on sale of property plant equipment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_29.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: we want to consider that part of the investing cash flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So we ignore that and we end up with operating cash flow of 40， and then we
+    have investing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_31.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: cash flow as the full $75 proceeds from sale of PPE。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_33.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Under the indirect method， we start with net income， which is 35。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_35.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: We add back depreciation expense of 10 because it's a non-cash expense， and
+    then we have。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_37.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: to remove the gain， otherwise we'll double count that cash flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_39.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Again increases net income， so to remove it we need to subtract the gain。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_41.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Once we do that， we end up with operating cash flow of 40， so it's the same
+    under the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_43.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: indirect and direct method， and then we have again the full cash flow from the
+    sale of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_45.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: the PPE 75 as an investing cash flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_47.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: I believe that some students could be confused by this example。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Could you provide the view of the handy algorithm for remembering how to adjust
+    for such gains？
+  prefs: []
+  type: TYPE_NORMAL
+- en: I do have a little memory device that I use when I teach this on campus， but
+    I'm trying。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to think about whether I'm too embarrassed to put this on video。 Ah， what the
+    heck， let's do it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So the way to remember how to deal with gains and losses on investing activities
+    in the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_49.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: operating section is the hokey-pokey。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_51.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: I don't know if you remember this little song and dance， but it goes something
+    like this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You put the gain in， you take the gain out， you put the gain in， and you shake
+    it all。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_53.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: about， you do the hokey-pokey and you turn yourself around。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_55.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: That's what it's all about。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_57.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Next， I want to talk about some of the complications that you may run into when
+    looking at a statement。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_59.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: of cash flows。 These are not things that we're going to explicitly cover in
+    the course。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but I want you。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_61.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: to be aware of them because you will run into them in practice。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_63.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And all these complications surround the question， why doesn't the change in
+    the balance sheet。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_65.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: numbers often equal the number on the statement of cash flows？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_67.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So in all the examples that we've done so far， when you look at the change in
+    the balance。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_69.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: sheet numbers for， say， accounts receivable， it's the exact same number that
+    you see in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the operating section on the statement of cash flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_71.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: But in real financial statements， you often see it's not the case for one of
+    these four。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_73.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: reasons。 First， there could be non-cash investing and financing activities that
+    relate to the working。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_75.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: capital accounts in the operating section。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_77.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: An example would be， let's say one of our customers who owes us an account receivable。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_79.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: can't pay us cash， so instead they give us a piece of land。 Well。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that would be a non-cash transaction。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_81.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: It would be disclosed at the bottom of the statement of cash flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It would also affect the balance sheet number for accounts receivable， but it
+    wouldn't show。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_83.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: up on the cash flow statement because there's no cash involved。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_85.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: A more common example would be acquisitions or divestitures of businesses。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_87.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: All the cash that companies pay when they acquire another company is considered
+    an investing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_89.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: cash flow。 But part of the things that companies acquire are working capital
+    assets and liabilities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_91.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So for instance， let's say a company made an acquisition， part of the acquisition
+    they。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_93.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: acquired some accounts receivable。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_95.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: As accounts receivable would show up on the balance sheet， but would not be
+    part of the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: number in the operating section because we want to call that cash flow and invest
+    in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_97.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: cash flow and we don't want to double count it， so we break it out。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_99.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Third， there are foreign currency translation adjustments。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_101.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: For multinational companies， which have subsidiaries in multiple countries and
+    different currencies。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_103.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: what we do is we take any effect of exchange rate movements and break them out
+    of the operating。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_105.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: section of the cash flow showing them at the bottom。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_107.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So a foreign exchange rate movement would affect the balance of say accounts
+    receivable。
+  prefs: []
+  type: TYPE_NORMAL
+- en: or inventory in the balance sheet， but we wouldn't show it in the operating
+    section。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_109.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: of the statement of cash flows。 Foreign currency， what's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: does anyone even do these in the real world？ Do you mean the MTV show the real
+    world or in practice？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Because we're talking about the MTV show the real world。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I don't think they did any foreign currency translation adjustments。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It seems more like a Jersey shore thing。 Anyway， this is a pretty advanced topic。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It's something I cover in a second year elective， so we're not going to go into
+    this in detail。
+  prefs: []
+  type: TYPE_NORMAL
+- en: in this course。 I just wanted you to be aware of the fact that all of the effects
+    of exchange rate movements。
+  prefs: []
+  type: TYPE_NORMAL
+- en: on the cash flow statement are broken out on one line item in the bottom so
+    that when。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you look at the operating section what you're seeing are changes and accounts
+    due to real。
+  prefs: []
+  type: TYPE_NORMAL
+- en: activities not due to exchange rate movements。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_111.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The last complication is that sometimes companies have subsidiaries in different
+    industries which。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_113.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: affect what is considered operating versus investing activities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_115.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So let's think back to our company before that made the pills to cure gray hair。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_117.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Not that gray hair needs to be cured。 Let's say this company goes out and buys
+    a real estate subsidiary。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_119.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: What would happen then is the pharmaceutical company buys land。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_121.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: It would be considered an investing activity but if the real estate subsidiary
+    buys land。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_123.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: it would be considered an operating activity because that's part of their core
+    operations。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_125.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So the same transaction of buying land could show up as either operating or
+    investing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_127.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Now companies in this situation will sometimes produce separate cash flow statements
+    to help。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_129.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: investors see these different activities match up in the different subsidiaries。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_131.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: First I want to talk about disagreements that analysts and investors have over
+    the FASB classification。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_133.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: a couple items。 I know it's hard to believe that people would disagree with
+    the FASB but there are a couple。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_135.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: disagreements out there。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_137.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The first many investors and analysts prefer to classify interest payments as
+    a financing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: activity and interest and dividends received on an investment as an investing
+    activity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_139.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_140.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Under IFRS a company could put those activities in the different buckets but
+    remember under。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_142.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: US GAAP you're required to call those operating。 So one thing the FASB did is
+    they required a disclosure of cash paid for interest so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_144.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: if investors or analysts want to take it out of operating they can easily subtract
+    it because。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_146.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: that disclosure is provided。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_148.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Another disagreement is that all income tax effects are shown in the operating
+    section。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_150.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: even if the income relates to financing or investing activities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_152.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So if there's an income tax effect from getting say again on selling property
+    plant equipment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_154.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: which would be an investing activity the tax effects show up as operating。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_156.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So the FASB requires that all cash taxes paid must be disclosed。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_158.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Again so if you don't think that cash taxes should be part of operating you
+    can take them。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_160.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: all out in your calculation。 Next I want to talk about this measure EBITDA which
+    is defined as earnings before interest。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_162.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: taxes depreciation and amortization。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_164.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: EBITDA is often used by investors and analysts as a proxy for operating cash
+    flow and because。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_166.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: it excludes interest in taxes it solves for that problem that we talked about
+    on the last。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_168.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: slide。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_170.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: However EBITDA does not do a good job of measuring cash flow if there are large
+    changes in working。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_172.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: capital like accounts receivable or inventory and in fact it suffers from the
+    same manipulation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_174.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: potential as net income。 For example let's think of a company that does channel
+    stuffing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_176.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Channel stuffing is a situation where at the end of a quarter the company is
+    trying to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_178.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: meet an earnings target so they ship a bunch of product to customers in order
+    to book the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_180.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: revenue which would then increase earnings and of course then increase EBITDA。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_182.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: But there's no cash that's collected that customers haven't paid us yet instead
+    accounts。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_184.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: receivable go up。 So EBITDA would consider this channel stuffing as a cash flow
+    but it's not a cash flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_186.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Now if we took EBITDA and adjusted for this increase in accounts receivable
+    then we would。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_188.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: have a good measure of cash flow and I'm going to talk about this more in the
+    next video。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_190.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: I believe this is not correct。 Everyone knows that EBITDA is the best measure
+    of cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now I feel pretty strongly that EBITDA is not a good measure of cash flow because
+    unless。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you adjust for these changes in working capital then EBITDA is just as easy
+    to manipulate as。
+  prefs: []
+  type: TYPE_NORMAL
+- en: earnings is。 What we're going to do in the next video is a case where we'll
+    highlight some of these。
+  prefs: []
+  type: TYPE_NORMAL
+- en: drawbacks of EBITDA and I'll show you when it's not a great measure of cash
+    flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_192.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And then one more point on this。 You often hear people talking about cash is
+    king implying that you should only look at。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_194.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: cash from operations or EBITDA as a proxy for cash from operations and not even
+    look。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_196.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: at earnings because it's too easy to manipulate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_198.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Well there's actually been a lot of academic research that's looked at this
+    question of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_200.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: earnings versus cash flow and it finds that earnings are a better predictor
+    of future cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: flows than current cash flow from operations。 The reason is that earnings is
+    trying to measure the creation of value。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It's trying to answer the question are you able to price your product or service
+    high。
+  prefs: []
+  type: TYPE_NORMAL
+- en: enough to cover all the costs of doing business。 If so you tend to get high
+    cash flows in the future even if it turns out you don't happen。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to have a high cash flows this period。 Whereas cash from operations can be much
+    more susceptible to timing effects which is something。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we'll look at in the next video。 But the good news is you don't have to choose
+    one or the other。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You get both earnings and cash flow from operations and academic research is
+    very clear that if。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you put both measures in together you get the best predictions of how a company
+    is going。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to do in the future in terms of its future cash flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I bet that accounting professors did the research to show that earnings is better
+    than cash flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Is that truly the case in the real world？ Yes it was mostly accounting researchers
+    that did this research but is there anything wrong。
+  prefs: []
+  type: TYPE_NORMAL
+- en: with that？ The data that they looked at though came from real companies looking
+    at long time series。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of data from 1962 to the present and it's a very robust result that earnings
+    are a better。
+  prefs: []
+  type: TYPE_NORMAL
+- en: predictor of future cash flows than current cash flows but again the research
+    emphasizes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the best prediction comes from including both measures together。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The last topic of this video is that I want to briefly talk about free cash
+    flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_202.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: This is more of a finance topic where they use free cash flow a lot but since
+    we've been。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_204.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: talking about cash flows and these finance approaches generally pull cash flow
+    numbers。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_206.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: out of the finance statements I wanted to briefly give you some cautions that
+    you should。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_208.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: have in dealing with free cash flows。 People talk about free cash flow they
+    generally mean operating cash flow minus cash used for。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_210.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: long term investments。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_212.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: There's valuation models out there that show if you forecast out a company's
+    free cash flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_214.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: discount them back to present value you'll get a measure of how much the company
+    should。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_216.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: be worth what its stock price should be。 The problem is that if you look across
+    these measures of free cash flow there's often。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_218.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: no standard measure for operating cash flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_220.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So I've got a number of accounting and finance textbooks lying around my office
+    and they all。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_222.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: seem to define operating cash flows differently。 One book defines it as cash
+    from operations before interest expense so using the FASB number。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_224.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: and then adjusting for interest expense。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_226.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Another defines it as no-plat which is net operating profits less to just a
+    taxes which。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_228.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: would be EBITDA minus cash tax on EBITDA which is not a good measure of cash
+    flow because。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_230.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: it doesn't measure cash without changes in working capital you won't get a measure
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_232.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: cash。 The next one no-pat minus increases in working capital is a better measure
+    no-pat is net。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_234.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: income adding back interest expense and then adjusting for changes in working
+    capital to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_236.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: get closer to cash flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_238.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Another book called it net income adjusted for depreciation and other non-tax
+    non-cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: items minus an increase in working capital which I guess would be okay as long
+    as the depreciation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_240.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: was after tax because net income is after tax。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_242.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Another said gross up earnings before interest in taxes and had depreciation
+    and a lot of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_244.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: them just say EBITDA without defining what it is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_246.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: On top of this another problem you'll encounter is companies will offer disclose
+    free cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: flows using their own custom definition and what you'll find is that definition
+    often。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_248.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: changes across companies or companies will change it across years so if you're
+    using。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_250.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: any kind of cash flow measure the most important thing is to figure out how
+    it's actually defined。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_252.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/2c94ac770b25466cb8a412e98fb60ac1_253.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: because some of these measures are defined much better than others。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I believe a better approach than telling us everyone is wrong would be telling
+    us what， is correct。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I'm not saying everyone is wrong I'm just saying some people are more correct
+    than others。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I think there's two approaches that would give you a really good cash flow from
+    operations， number。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The first approach would be to take the cash from operations from the cash flow
+    statement。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which uses the FASV classification and then subtract out cash paid for interest
+    and cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: paid for taxes which are disclosed somewhere else in the report。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The second way would be to start with EBITDA and then adjust for these changes
+    in working。
+  prefs: []
+  type: TYPE_NORMAL
+- en: capital like receivables inventories and payables using the balance sheet equation
+    like we do。
+  prefs: []
+  type: TYPE_NORMAL
+- en: under the indirect method。 In the next video we'll look at a case which will
+    better highlight some of these advantages。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and disadvantages of these different measures for cash from operations。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So I know that was a lot to throw at you in one video。
+  prefs: []
+  type: TYPE_NORMAL
+- en: What we're going to do in the next video is look at a couple examples which
+    will give。
+  prefs: []
+  type: TYPE_NORMAL
+- en: us more practice on putting together cash flow statements under the indirect
+    method。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It'll give us some practice on handling gains and losses on sale a property
+    plan equipment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: in the cash flow statement and it will allow us to continue our discussion of
+    earnings。
+  prefs: []
+  type: TYPE_NORMAL
+- en: versus cash flow versus EBITDA。 I'll see you then。 I believe that we will see
+    you next video。 。 。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[BLANK_AUDIO]。'
+  prefs: []
+  type: TYPE_NORMAL

@@ -1,0 +1,213 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P120：4_绘制过程流程图.zh_en
+    - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: As we discussed in the last video， the framework that we will use to look at
+    the world in this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/64574e366d8fd93e346a32e02566bd89_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: course is process analysis。 There sounds a little dry and technical， but don't
+    worry。
+  prefs: []
+  type: TYPE_NORMAL
+- en: this is really not brain surgery。 In this video I want to practice these definitions。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Though most of my work relates to service operations， a number of years ago
+    I did some。
+  prefs: []
+  type: TYPE_NORMAL
+- en: work on an iron-on processing plant。 Though the headquarters of the company
+    we worked with was in Cleveland。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Ohio， the plant itself， was entrinodent。 Here is a brief cut of iron ore produced
+    by the plant。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let's see how it is made。 When you're landing entrinodent you actually see the
+    plant from the airplane。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is a plant。 It takes iron ore finds as input and it spits out these lovely
+    brickheads as output。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It looks like a big monster。 The monster is a highly sophisticated plant。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a real masterpiece of engineering。 The plant is the size of several football
+    fields。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I spare you the technical details。 Here you see the engineering drawings of
+    the plant。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It looks a bit like a blueprint when you're building a house。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You see a number of large machines that will be the resources in all processes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now in this course we look at a plant not as an engineering drawing but as a
+    process flow， diagram。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Remember in a process flow diagram there are boxes， arrows and triangles。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This like the brickheading machine shown in this photo capture resources。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Resources are adding value to the flow unit。 They help advance the flow unit
+    on its journey。
+  prefs: []
+  type: TYPE_NORMAL
+- en: As we discussed in the last video resources have capacities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: At any given moment of time some flow units are sitting in these resources。
+  prefs: []
+  type: TYPE_NORMAL
+- en: For example tons of iron ore will be in the reactors of the plant。 But most
+    of the iron ore。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the real inventory， sits at the beginning of the plant between。
+  prefs: []
+  type: TYPE_NORMAL
+- en: resources or at the end of the process。 This is visualized with the triangles。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Often times we refer to those triangles as buffers。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The key distinction setting buffers apart from resources is that they do not
+    add value。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The flow unit does not have to spend time at a buffer and it still can come
+    out as a good， unit。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can be a happily completed flow unit and have never spent a minute in a
+    buffer。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/64574e366d8fd93e346a32e02566bd89_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So here is what the process flow diagram looks like。
+  prefs: []
+  type: TYPE_NORMAL
+- en: What I do here is I overlay the process flow diagram with the engineering drawings。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You don't have to do this but I thought it would be kind of cool from a pedagogical，
+    perspective。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So that explains the arrangements of the boxes。 You see the input and the output。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The pile of iron ore finds are the input and the piles of briquettes are the
+    output。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And then you see the main processing steps。 Starting with a preheater all the
+    way to the briqueting machine。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Seven steps， seven boxes。 What we want to do is to find the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: How much can this plan produce？ What is the process capacity？
+  prefs: []
+  type: TYPE_NORMAL
+- en: To answer these questions we have to find the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So when looking for the bottleneck we have to look at the resources and their
+    capacity， levels。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In this example we have the preheater， the lock hoppers， the first reactor，
+    the second， reactor。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the flesh eater， the discharge and finally that briqueting machine。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Note that the triangles are inventories and they're not in the race for being
+    the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We have to look for the resource with the lowest capacity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That clearly is the second reactor with the capacity of 100 tons per hour。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So that is the bottleneck。 And that's the process capacity is 100 tons per hour。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The chain is only as strong as its weakest link。 To find the flow rate remember
+    the flow rate is the minimum between demand and capacity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Assuming there's enough iron ore to be processed and enough demand to sell this
+    stuff our flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: rate would be equal to the process capacity at 100 tons per hour。 My father
+    is an engineer。
+  prefs: []
+  type: TYPE_NORMAL
+- en: my brother is an engineer， I'm not。 And believe me they have reminded me many
+    times。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But in order to understand and improve an operation even something as complex
+    as an iron。
+  prefs: []
+  type: TYPE_NORMAL
+- en: ore plant you don't necessarily need an engineering degree。 All these technical
+    details， heaters。
+  prefs: []
+  type: TYPE_NORMAL
+- en: different types of reactors， heat exchangers， yes somebody， better understands
+    how this stuff works。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But that somebody doesn't have to be you。 Notice that at the end of the day
+    few of these details actually matter。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In fact for most business related calculations the single most important number
+    is the capacity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: at the bottleneck。 This plant produces 100 tons per hour。 That is a crucial
+    information。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The bottleneck is a constraint on the system。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/64574e366d8fd93e346a32e02566bd89_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And as I said before the bottleneck is really the key concept in this course。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So when you look at an operation always ask yourself where is the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: See you in the next video。 [BLANK_AUDIO]。
+  prefs: []
+  type: TYPE_NORMAL

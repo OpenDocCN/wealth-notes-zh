@@ -1,0 +1,570 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P108：6_期限结构.zh_en -
+    GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Welcome back to Corporate Finance。 Last time we talked about interest rates。
+    In。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: particular， we talked about how interest rates are quoted versus how。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest rates are used to discount cash flows。 We also talked about how to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: deal with cash flow streams when the cash flows arrived more than once a year。
+  prefs: []
+  type: TYPE_NORMAL
+- en: or less frequently than once a year and when the compounding frequency wasn't，
+    annual。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This time I want to talk about how interest rates or discount rates。
+  prefs: []
+  type: TYPE_NORMAL
+- en: can vary over time and how that relationship is captured via a term。
+  prefs: []
+  type: TYPE_NORMAL
+- en: structure of interest rates and yield curve。 Let's get started。 Hi everybody。
+  prefs: []
+  type: TYPE_NORMAL
+- en: welcome back to Corporate Finance and our second lecture on interest rates。
+    So。
+  prefs: []
+  type: TYPE_NORMAL
+- en: last time we introduced the topic by talking about interest rate quotes versus。
+  prefs: []
+  type: TYPE_NORMAL
+- en: discount rates and we talked about an APR annual percentage rate which was a。
+  prefs: []
+  type: TYPE_NORMAL
+- en: means of quoting interest rates that financial institutions often use and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that's often distinct from what we care about for discounting cash flows which
+    is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: an EAR effective annual rate or a periodic discount rate and we talked about
+    how。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to move between these concepts or these constructs and then we showed how to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: apply them to non-annual cash flows and in situations where we have non-annual，
+    compounding。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Say monthly， semi-annual， whatever you might have。 Today I want to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: talk about the term structure of interest rates and the yield curve and this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: lecture is a little bit different in that it's not geared towards solving。
+  prefs: []
+  type: TYPE_NORMAL
+- en: problems per se at least not directly because that's going to take us into a。
+  prefs: []
+  type: TYPE_NORMAL
+- en: fixed income valuation which is beyond the scope of this course。 Rather what
+    it's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: going to do is it's going to be important to understand what these concepts
+    are。
+  prefs: []
+  type: TYPE_NORMAL
+- en: because they're going to be used for corporate decision making later on。 So，
+    let's get started。
+  prefs: []
+  type: TYPE_NORMAL
+- en: All right， thus far we've assumed discount rates are constant。
+  prefs: []
+  type: TYPE_NORMAL
+- en: through time they just don't change and what do I mean by that？ Well if I look
+    at。
+  prefs: []
+  type: TYPE_NORMAL
+- en: my present value formula right I take my cash flows and I discount them by one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: plus the discount rate but notice that's the same discount rate it's the same。
+  prefs: []
+  type: TYPE_NORMAL
+- en: number for every cash flow regardless of when the cash flow arrives。 Now in
+    reality。
+  prefs: []
+  type: TYPE_NORMAL
+- en: it seems as if interest rates vary with the term of the investment。 Let me give
+    you， some examples。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here's a screenshot of home mortgage refinancing rates that I。
+  prefs: []
+  type: TYPE_NORMAL
+- en: took not too long ago and you can see that as the term of the mortgage。
+  prefs: []
+  type: TYPE_NORMAL
+- en: refinancing varies so too does the rate or APR and consequently so does the
+    EAR。 The discount rate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Likewise when I looked at fixed term CD rates where I remember。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: CDs or just certificates of deposits their rates tend to vary with the term
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the investment as well and there's a lot of numbers here so let me focus your，
+    attention here。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here we have the term of the investment and here we have the APR。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and the EAR and you can see that as the term increases or changes so too do
+    the， interest rate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now what's the point here？ Well as the term of the investment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: changes quite often but not always quite often the interest rate will change
+    and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: the term structure is nothing more than the relation between the investment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: term and the interest rate。 The yield curve is just a graph of that relation
+    so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: let me show you a treasury yield curve from July 24th 2014 on the horizontal。
+  prefs: []
+  type: TYPE_NORMAL
+- en: axis we have the maturity of the treasury security so the here here's a one
+    month。
+  prefs: []
+  type: TYPE_NORMAL
+- en: T-bill right here's a 30 year T bond here's a five year T note so these are
+    just。
+  prefs: []
+  type: TYPE_NORMAL
+- en: different treasury securities that vary by maturity across the horizontal axis
+    and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: on the y-axis is the yield which for the time being and in this context you
+    can。
+  prefs: []
+  type: TYPE_NORMAL
+- en: think of loosely as the discount rate R and the point is is that as the maturity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of the security varies so too does the discount rate right in other words when。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the when the government borrows for 30 years it's getting and or paying an。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest rate just above 3% whereas when it's borrowing over a。
+  prefs: []
+  type: TYPE_NORMAL
+- en: short horizon say 30 days it's paying basically zero now let me come back to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_9.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: this notion of a yield and what a yield is a yield y is the one discount rate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that when applied to the promised cash flows of the security recovered the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: price of the security and that is a mouthful so let me actually show you a。
+  prefs: []
+  type: TYPE_NORMAL
+- en: little formula that you're familiar with to hopefully clarify this see I take。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the price of the security on the last slide the price of the T-bill the price。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of the T bond and I lay out all of the promised cash flows to the security I。
+  prefs: []
+  type: TYPE_NORMAL
+- en: discount them back and I ask what is the discount rate such that when I discount。
+  prefs: []
+  type: TYPE_NORMAL
+- en: these cash flows I get the price that is the yield or yield to maturity so to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: build the yield curve that's just a matter of simply computing the yield for。
+  prefs: []
+  type: TYPE_NORMAL
+- en: securities of different maturities and so without getting into the institutional。
+  prefs: []
+  type: TYPE_NORMAL
+- en: details and the semi-annual compounding and quoting conventions associated with。
+  prefs: []
+  type: TYPE_NORMAL
+- en: treasuries let me just let me just talk conceptually so if I want the one year。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the one year yield I would just take this say cash flow at year one divide by
+    one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: plus y one set it equal to the current price and solve for y if I want the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: second healed I would take the second which the second security with maybe。
+  prefs: []
+  type: TYPE_NORMAL
+- en: annual cash flows of one and you know CF one and CF two and I would solve for
+    the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: one discount rate y two let's call it such that when I discount these cash flows。
+  prefs: []
+  type: TYPE_NORMAL
+- en: CF one and CF two I get the price P2 and we do that for all different。
+  prefs: []
+  type: TYPE_NORMAL
+- en: maturities and the why is that come out Y1 Y2 Y3 dot dot dot dot all the way
+    down。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to Yt that represents the yield curve those are the points on the yield curve。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but that's the same as computing the discount rate for securities with。
+  prefs: []
+  type: TYPE_NORMAL
+- en: different maturities hence the link between discount rates and yields now。
+  prefs: []
+  type: TYPE_NORMAL
+- en: there is a difference between discount rates and yields having to do with。
+  prefs: []
+  type: TYPE_NORMAL
+- en: promise versus expected cash flows but that's a little bit outside the scope
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the course so let's leave that aside for now and in the context of treasuries
+    yields。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and expected returns are relatively close now one thing I want to emphasize
+    is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_11.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: that yield curves in other words interest rates they move around a lot or at
+    least。
+  prefs: []
+  type: TYPE_NORMAL
+- en: they can and so to illustrate that fact I've plotted three yield curves here
+    the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: purple one is from 2012 the blue one is from 2000 and the red one is from 1981。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and you can see that the rate at which the government was borrowing has very。
+  prefs: []
+  type: TYPE_NORMAL
+- en: dramatically over time right today for short-term loans they're not paying any。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest the interest rates basically zero back in 1981 the interest rate was。
+  prefs: []
+  type: TYPE_NORMAL
+- en: around 15 percent the other thing I want to point out is that the the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: relationship between the short end of the yield curve short-term interest rate
+    and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: long end of the yield curve long-term interest rates that can vary over time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: as well here at least in 2012 we see that the curve is upward sloping so that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest rates short-term loans to the government are less costly than long-term。
+  prefs: []
+  type: TYPE_NORMAL
+- en: loans whereas back in 1981 we see that long-term interest rates were actually。
+  prefs: []
+  type: TYPE_NORMAL
+- en: below shorter-term interest rates at least over a stretch here so it was it
+    was。
+  prefs: []
+  type: TYPE_NORMAL
+- en: cheaper for the government to borrow at longer rates or over longer terms at
+    least。
+  prefs: []
+  type: TYPE_NORMAL
+- en: at a lower interest rate now this raises the question well what does this mean。
+  prefs: []
+  type: TYPE_NORMAL
+- en: what does the what does the upward sloping curve in 2012 mean as opposed to
+    the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: downward sloping curve in 1981 well there's a lot of academic debate about。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that but one popular opinion is that the slope reflects expectations of future。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest rates so when the yield curve is upward sloping as it is in 2012 this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: suggests that future interest rates are likely to be higher whereas back in
+    1981。
+  prefs: []
+  type: TYPE_NORMAL
+- en: this downward sloping portion also actually in 2000 it looks slightly。
+  prefs: []
+  type: TYPE_NORMAL
+- en: downward sloping as well the downward sloping curve suggests that future。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest rates are gonna be lower treasury yield curves what they're doing is。
+  prefs: []
+  type: TYPE_NORMAL
+- en: they're graphing the relationship between interest rates on on risk-free loans
+    and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: loan maturity so that they have a very special meaning when we talk about the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: risk-free rate we're really talking about the interest rate or the yield on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: treasuries but we can plot yield curves for a host of different securities and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that's what I've done on this next slide is I've got three different yield curves。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the blue curve is the yield curve for high quality corporate debt so you can。
+  prefs: []
+  type: TYPE_NORMAL
+- en: see that for what do I mean by high quality that's investment grade think。
+  prefs: []
+  type: TYPE_NORMAL
+- en: triple B or higher so when high quality or highly credit rated firms were。
+  prefs: []
+  type: TYPE_NORMAL
+- en: borrowing for say 29 years it's costing them about 5% per annum at least as
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: July 2014 whereas on the when they're borrowing short term say two years it's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a little over a percent the green curve is the yield curve from。
+  prefs: []
+  type: TYPE_NORMAL
+- en: municipal bonds triple a rated municipal bonds as of July 2014 and then the
+    red。
+  prefs: []
+  type: TYPE_NORMAL
+- en: curve is the treasury curve and what's sort of interesting to note is that the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: yields or the cost of borrowing was higher appears to be higher for the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: federal government over at least certain periods than it was for municipalities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which is strange if you think that our federal government is is a much safer。
+  prefs: []
+  type: TYPE_NORMAL
+- en: bet than a municipality even a triple a rated municipality but what's going
+    on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: there is mostly a tax differential as well as some liquidity issues all right
+    so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_13.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: what's the lesson here well look yields vary by maturity and risk so to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: illustrate that point I'm gonna look at corporate bond the yields on corporate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: bonds and you can see as the ratings credit rating improves from triple B to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: triple A which is the best rating the yield goes down and I know drawing the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: up arrow isn't helping but but the numbers are getting smaller and they're。
+  prefs: []
+  type: TYPE_NORMAL
+- en: getting smaller within each maturity bucket one to two two to five five to ten。
+  prefs: []
+  type: TYPE_NORMAL
+- en: ten plus and that's a result of decreasing or credit risk right these are。
+  prefs: []
+  type: TYPE_NORMAL
+- en: these are safer bond these are safe these are less safe but still relatively
+    safe。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the other thing to notice is that within a credit rating say triple A the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: yields or the interest rates are different now in this case they're。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_15.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: increasing but as we showed a few slides ago right they don't always have to
+    be。
+  prefs: []
+  type: TYPE_NORMAL
+- en: increasing with maturity they could be decreasing the point is that they're。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_17.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: different across the maturity spectrum now all of these interest rates that
+    we've。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_19.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: discussed as far referred to as spot rates what are spot rates they're the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: interest rate for a loan that's made today now typically there's a different。
+  prefs: []
+  type: TYPE_NORMAL
+- en: spot rate for loans of different maturities and different risks that's what。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_21.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: we showed right here these are spot rates they vary by credit risk and they
+    vary。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_23.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: by maturity now what's one of the big punchlines or takeaways from all of this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: aside from just general knowledge and information understanding interest。
+  prefs: []
+  type: TYPE_NORMAL
+- en: rates well this present value formula that we've been working with is in many。
+  prefs: []
+  type: TYPE_NORMAL
+- en: ways just an approximation because we know interest rates vary over time so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: it's really an approximation for this now it's not such a bad approximation
+    when。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the yield curve is flat so when we have a yield curve here's maturity here's。
+  prefs: []
+  type: TYPE_NORMAL
+- en: yield when the yield curve is flat r1 r2 r3 are the same so these two things。
+  prefs: []
+  type: TYPE_NORMAL
+- en: would be equal the problem let's see if I can erase some stuff here the problem。
+  prefs: []
+  type: TYPE_NORMAL
+- en: is when the yield curve is say upward sloping severely or even downward。
+  prefs: []
+  type: TYPE_NORMAL
+- en: sloping now there's going to be a pretty big difference from using some sort
+    of。
+  prefs: []
+  type: TYPE_NORMAL
+- en: average discount rate r as a proxy for all of the different spot rates okay
+    so。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_25.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: let's wrap up here what did we talk about today we talked about the term。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/286a2ff9b295209d6dbaf6201a5adca1_27.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: structure of interest rate which captures the relation between interest。
+  prefs: []
+  type: TYPE_NORMAL
+- en: rates and the investment term right loans or savings of different。
+  prefs: []
+  type: TYPE_NORMAL
+- en: maturities different terms will often have different interest rates and that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: relation is captured by the term structure the yield curve simply graphs。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the term structure right it plots on the horizontal axis the maturity on the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: vertical axis the yield or the interest rate and that shows us the relationship。
+  prefs: []
+  type: TYPE_NORMAL
+- en: between investment term and interest rate we also learned that in the interest。
+  prefs: []
+  type: TYPE_NORMAL
+- en: rates will vary by the risk of the investment though we discussed that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: earlier on back in our I think our first lecture and we talked about spot rates。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which are the interest rates for a loan that's made today so what's up next
+    we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: turn to a new topic discounted cash flow I look forward to seeing you then thanks，
+    a lot。
+  prefs: []
+  type: TYPE_NORMAL

@@ -1,0 +1,432 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P125：9_学习回顾和实践问题.zh_en
+    - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: In the last video， I promised you will be flying to Mars today。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/33f0c691f580eb471581a7d4b7c88a94_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: I will keep my word， but first， I want to annoy you with some rather earthly
+    calculations。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I want to first repeat the definitions that we have covered until now in this
+    module。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the set of videos we talked about the labor content， the cycle time， the
+    idle time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the labor utilization， and the cost of direct labor。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We also talked about the idea of line balancing。 Now that we have arrived at
+    the end of this module。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I want you to be comfortable computing the cycle time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: finding the labor content and the labor utilization， and computing the cost
+    of direct labor。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You should also be able to determine how long it takes to produce X units starting
+    with an empty system。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And finally， you should now be able to find tech time and the target manpower。
+  prefs: []
+  type: TYPE_NORMAL
+- en: as well to think about some process improvement strategies。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Down here you see the key formulas that you will need to remember from this
+    module。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The problem I have chosen for this module is Mr。 Kears， here's someone。 Mr。
+  prefs: []
+  type: TYPE_NORMAL
+- en: K is a problem that's somewhat similar to the sub-work case in the sense that
+    there are multiple activities that are done by a set of workers。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let me emphasize that there are five activities。 There are five activities，
+    not five workers。
+  prefs: []
+  type: TYPE_NORMAL
+- en: There are three workers and five activities， and the five activities are spread
+    out。
+  prefs: []
+  type: TYPE_NORMAL
+- en: as you can see in the question。 As usual， I want you to put me on hold while
+    you're tackling the problem by yourself first。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So pause now。 Alright， here we go again。 We start by looking at the bottleneck。
+    And for that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we draw a simple process flow diagram。 So we have a box for the first worker
+    or a triangle。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a box for the second worker， another triangle， and a box for the third worker。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So then it's our process flow diagram。 And then for the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we need to find the capacity level， and that requires computing the processing
+    times first。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The processing times we are at 10 minutes per guess at the first， 20 at the
+    second。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and 30 minutes per guess at the third resource。 And to get to the capacity level。
+  prefs: []
+  type: TYPE_NORMAL
+- en: what we do is we're going to take M divided by the processing time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And since it's a one worker per station， it's simply one divided by the processing
+    time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So it is one divided by 10 as a capacity for the first resource， one by 20，
+    one by 30。 Okay。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And this is now expressed in guess per minute。 Alright。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that makes it clear that the third resource is going to be the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and that answers our question。 Next， let's look at average labor utilization。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I mentioned in the module two ways of finding the average labor utilization。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And so let me illustrate how both of them would work。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The labor utilization we said is labor content， which is a sum of the processing
+    time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: divided by three times the cycle time。 Okay， so what does this mean？
+  prefs: []
+  type: TYPE_NORMAL
+- en: The labor content is 10 plus 20 plus 30， the sum of the processing time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and that's 60 minutes per unit。 And we're going to be on a 30 minute cycle。
+  prefs: []
+  type: TYPE_NORMAL
+- en: so three times 30 is 90 minutes， which gets us a 66% labor utilization。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now the other way that I mentioned in the video， we could compute the same thing
+    by looking at the labor content。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and then divide it by the labor content plus the idle time。 Now again。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we're on a 30 minute cycle here， and so that means that my first resource has
+    a 20 minutes of an idle time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: processing time is 10 minutes， and the cycle time is 30， so 20 minutes of an
+    idle time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The second one has 10 minutes of idle time， and the third one is zero。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So that means we have a total idle time of 30 minutes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So 60 divided by 60 plus 30 is going to be my labor utilization。 Same result。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And then finally at the wage rate of $20 per hour， what is the cost of direct
+    labor per customer？
+  prefs: []
+  type: TYPE_NORMAL
+- en: For that， we have to look at three people， each make 20 bucks per hour， so it's
+    $60 per hour。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and we're going to divide it by the floor rate。 We're serving two guests per
+    hour。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that's our floor rate。 And so the per hour is going to cancel out。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and we're going to get a cost of direct labor that is $30 per guest。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here's the next batch of questions。 How long would it take the process to serve
+    10 customers starting out empty？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well， let's think about that。 How long would it take to serve one customer？
+    Well。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that's going to be 10 minutes at the first resource， the first employee。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 20 minutes at the second employee， 30 minutes at the third employee。
+  prefs: []
+  type: TYPE_NORMAL
+- en: so after 60 minutes we're going to have our first customer out。
+  prefs: []
+  type: TYPE_NORMAL
+- en: From then onwards we need to serve nine more， and those nine are going to come
+    out at the rate of the cycle time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which is 30。 So 60 plus nine times 30， and that gives us 330 minutes。 All right。
+  prefs: []
+  type: TYPE_NORMAL
+- en: how could this process be improved by offloading the bottling？ Well。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that question kind of gives the way the answer， so we have to move work away
+    from the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And we saw the bottleneck was station number three， right？
+  prefs: []
+  type: TYPE_NORMAL
+- en: And so when you look at the activities here， station number three is doing the
+    hair。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but also spending five minutes here on the checkout。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And if you could move these five minutes to somebody who has less work to do。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and the key suspect I guess here is going to be station number one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you would offload the bottleneck。 So in short， what you would be doing here
+    is you would move five minutes of work from station number three。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the third employee， which is currently the bottleneck， and this is going to
+    be super busy。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You're going to take these five minutes to station number one who really has
+    nothing to do。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That doesn't always work because it might be precedence relationship。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It's a good move you should consider。 All right， what's the tack time that we
+    need to achieve if we want to have 40 customers per day served？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Remember， when we look at tack time， we look at the available times of 10 hours
+    or 600 minutes per day。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and we're going to divide it by the demand rate， which we said is a target demand。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and we said that this year 40 customers per day。 So the per day cancels out。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and we have 600 by 40 that is 15 minutes between customers。 That's going to
+    be our tack。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We're going to be serving a customer every 15 minutes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And the tack time intern allows us to compute the target manpower。 For the target
+    manpower。
+  prefs: []
+  type: TYPE_NORMAL
+- en: remember we have to look at the labor content， and the labor content divided
+    by the tactics simply going to give us a target manpower。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So again， labor content， we already computed there was 60 minutes per customer。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and we're going to divide it by the 15 minutes per customer that we just computed
+    as a tack。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So that means at the very minimum， if everything goes super smoothly and there's
+    no idle time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we're going to need a total of four employees。 My philosophy， the observation
+    of today。
+  prefs: []
+  type: TYPE_NORMAL
+- en: relates to the difference between project management and process management。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Many of you likely have experience with managing a project。 You define activities，
+    set an end goal。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and you look for something known as a critical path。 Recently。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I heard an interesting quote from Elon Musk。 Think of Elon Musk whatever you
+    like。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but Tesla and SpaceX are arguably remarkable businesses。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Elon was talking a bit about his favorite topic， which is flying to Mars。
+  prefs: []
+  type: TYPE_NORMAL
+- en: He said flying to Mars is more of a D-day operation than it is an Apollo mission。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let me repeat this。 Flying to Mars is more of a D-day operation than it is an
+    Apollo mission。
+  prefs: []
+  type: TYPE_NORMAL
+- en: What did he mean？ The Apollo was an amazing project with a single mission and
+    a historical success。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/33f0c691f580eb471581a7d4b7c88a94_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: On July 20， 1969， NASA landed the Apollo 11 and its astronauts on the moon。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/33f0c691f580eb471581a7d4b7c88a94_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Personally， I don't remember it。 I was exactly 100 days old when that happened。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Land a man on the moon。 Though ultimately， multiple people walked on the surface
+    of the moon。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the entire management focus of the Apollo mission was on landing one man on
+    the moon。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The mission of D-day and the invasion of Normandy by the Western Allied forces
+    was different。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It was not about landing one boat in Normandy。 On June 6， 1944， the Americans。
+  prefs: []
+  type: TYPE_NORMAL
+- en: British and the French began sending over 150，000 soldiers to Normandy coastline。
+  prefs: []
+  type: TYPE_NORMAL
+- en: including the famous Utah Beach， Omaha Beach， Juneo Beach， and Swart Beach。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I like this picture here of American airplane production before the invasion。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/33f0c691f580eb471581a7d4b7c88a94_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The focus of management was not to build a boat or build a plane。 It was building
+    many of them。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Process management ultimately only makes sense if you are repeating something。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Elon Musk doesn't want to build one rocket to fly to Mars。
+  prefs: []
+  type: TYPE_NORMAL
+- en: He intends and in fact has even started to build many starships。
+  prefs: []
+  type: TYPE_NORMAL
+- en: His dream is to establish a colony on Mars。 For management problems， so you
+    only do something once。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you should take a course on project management。 If however you want to do something
+    multiple times。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you have to think about process flows。 For most of us， I propose。
+  prefs: []
+  type: TYPE_NORMAL
+- en: planning a wedding is a project you plan for one marriage。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The wedding planner in contrast thinks that weddings is a process。 Other examples。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The more units flow through the process， the easier would it be to use process
+    analysis as a tool。
+  prefs: []
+  type: TYPE_NORMAL
+- en: When in the late 1800s， Gottlieb Diamond built the first car。
+  prefs: []
+  type: TYPE_NORMAL
+- en: he at first did think about bottlenecks， utilization or inventory。
+  prefs: []
+  type: TYPE_NORMAL
+- en: His focus was on managing one project which was building a beautiful car。
+  prefs: []
+  type: TYPE_NORMAL
+- en: When three decades later Henry Ford mass produced cars。
+  prefs: []
+  type: TYPE_NORMAL
+- en: he would make a vehicle roughly every minute。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/33f0c691f580eb471581a7d4b7c88a94_9.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: For Ford， it was all about the process。 Similarly in healthcare。
+  prefs: []
+  type: TYPE_NORMAL
+- en: big emergency rooms see between 100 and 200 patients per day。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Even something medically challenging as a bypass surgery is not thought of as
+    a process。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In contrast when Dr。 Daniel Williams preferred to perform the first heart surgery。
+  prefs: []
+  type: TYPE_NORMAL
+- en: he most likely thought of it as a project。 So you see that when work gets repeated。
+  prefs: []
+  type: TYPE_NORMAL
+- en: when we move from the first units to the end unit。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we need to change our focus on project management to process management。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And that is really what this course is all about。 [BLANK_AUDIO]。
+  prefs: []
+  type: TYPE_NORMAL

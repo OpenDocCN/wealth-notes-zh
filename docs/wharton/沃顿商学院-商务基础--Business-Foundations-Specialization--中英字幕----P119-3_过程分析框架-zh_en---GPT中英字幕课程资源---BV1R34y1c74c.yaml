@@ -1,0 +1,428 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P119：3_过程分析框架.zh_en
+    - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Operations management is looking at the way people and machines work。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/91d1a39082b90fe439a588ae8141fce7_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Genji Genbutsu is a concept of the famous Toyota production system。 No， I don't
+    speak Japanese。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but it means go and see for yourself。 The literal Japanese meaning I've been
+    told is real location and real thing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: but the， message is the same。 In order to understand the problem。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you have to observe what is happening on site， where。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the work takes place rather than sitting in an armchair or conference room。
+    At the 30。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 000 foot levels， all companies more or less look the same。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They create products or services and hopefully I'm able to sell them for more
+    money than。
+  prefs: []
+  type: TYPE_NORMAL
+- en: it costs them to create those products and services。 But on the ground， at the
+    zero foot level。
+  prefs: []
+  type: TYPE_NORMAL
+- en: every operation is unique。 Now， there's no point in taking an academic operations
+    management course to learn about。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the uniqueness of one particular operation。 I owe you tools and frameworks that
+    are generalizable。
+  prefs: []
+  type: TYPE_NORMAL
+- en: that you can apply to the many settings that， you encounter in your career。
+    And to be frank。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I'm not sure I would be any good in teaching you a particular trait other。
+  prefs: []
+  type: TYPE_NORMAL
+- en: than how to be a business school professor。 So the perspective we will be taking
+    in this course is a compromise between the 30。
+  prefs: []
+  type: TYPE_NORMAL
+- en: 000 foot， level of your strategy and the frontline perspective of a specific
+    job。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Maybe we should call it the 5，000 foot level of view。 At this level。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I want you to think about the process with which work gets done。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Process analysis is a framework I want to use in this course to analyze and
+    improve operations。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let me elaborate what I mean with this。 Every operation can be thought of as
+    a process。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In a process， their inputs and their outputs。 These are pictures from a guitar
+    plant that PV a guitar shows on the internet。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And you can see here there's wood flowing in and guitars flowing out。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/91d1a39082b90fe439a588ae8141fce7_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: When you do the analysis of the process， you have to pick what I will call a
+    flow unit。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/91d1a39082b90fe439a588ae8141fce7_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: A flow unit is really the atomic unit of analysis that you track as a journey
+    through the process。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/91d1a39082b90fe439a588ae8141fce7_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: It's a guitar in a guitar plant。 It's a patient in a hospital。 It's a kind amount
+    of motive plant。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It might be a ton of oral or a ton of steel in a big refinery or steam。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And as a flow unit's journey from being an input into being an output， it will
+    be in one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of two states。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/91d1a39082b90fe439a588ae8141fce7_9.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: It can either be with a resource。 A resource is visualized as a box and what
+    we define in a moment as a process flow diagram。
+  prefs: []
+  type: TYPE_NORMAL
+- en: A resource adds value。 It helps the flow unit on its journey from being an input
+    to being an output。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Those might be machines or those might be people。 Most of the time， however。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the flow unit is just sitting around doing nothing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You see this pile of guitars here and the symbol that we use to visualize this
+    is a， triangle。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It's like a pile of stuff sitting around。 Arrows then capture the flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And so really a process flow diagram is a map。 It's a map of how a flow unit
+    journeys from input to output。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now in every resource， the flow unit would have to take some time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It might take a doctor 20 minutes to do a primary care examination。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It would take an assembly line work of 37 seconds to install a review mirror。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It might take an underwrite and a bang 35 minutes to approval on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We call those numbers the processing times。 Now rather than looking at the processing
+    time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I can look at one over the processing time， and I call this the capacity。 One
+    over 20 minutes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a 20th patient per minute in what a doctor can see in primary care。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Capacity tells us how many units can work a see per unit of time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But let's just assume that you're having one doctor or one machine。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This generalizes to multiple say M resources and here simply the capacity of
+    those doctors。
+  prefs: []
+  type: TYPE_NORMAL
+- en: those underwriters those machines together as a resource pool is computed as
+    M divided。
+  prefs: []
+  type: TYPE_NORMAL
+- en: by the processing time。 Now the chain is only as strong as its weakest length
+    and so somewhere along the journey。
+  prefs: []
+  type: TYPE_NORMAL
+- en: in this process， there will be one resource that has a lowest capacity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We will refer to this resource as the bottleneck。 We will not be able to get
+    more flow through this process than the bottleneck has capacity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Again， the step with the lowest capacity is called the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The lowest capacity is not just the capacity of that bottleneck resource but
+    it's really。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the capacity of the entire process。 So we say the process capacity is the capacity
+    of the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: With this as a foundation， we can now define the three most important measures
+    in any process。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They are flow rate， inventory and flow time。 So let me define them one by one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Flow rate is oftentimes referred to as throughput。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I will use flow rate and throughput interchangeably。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Flow rate captures how many flow units will go through the process per unit
+    of time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: A hundred patients per day go through the emergency room。
+  prefs: []
+  type: TYPE_NORMAL
+- en: A thousand cars per shift go through the auto plant。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Fifty thousand tons of steel per month come out of the steel mill。
+  prefs: []
+  type: TYPE_NORMAL
+- en: These are throughputs or flow rates。 I like the term flow rate because it reminds
+    us that there is a flow going on。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now the flow rate would depend on two things。 The capacity of the process which
+    we just saw was determined by the bottleneck or the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: demand rate。 It's a smaller of those two。 If you have a process that can make
+    a hundred thousand cars per quarter and you only have。
+  prefs: []
+  type: TYPE_NORMAL
+- en: demand for seventy thousand cars per quarter， well， you're only selling and
+    making seventy。
+  prefs: []
+  type: TYPE_NORMAL
+- en: thousand cars。 So once you have the flow rate， you know how much flows through
+    the process or flows through。
+  prefs: []
+  type: TYPE_NORMAL
+- en: every resource。 Next you can compute the utilization。 Evaluation is flow rate
+    divided by capacity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: How much am I producing flow rate divided by what I could be producing if I
+    ran out？
+  prefs: []
+  type: TYPE_NORMAL
+- en: That's capacity。 Again utilization applies to the level of the resource。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You might say station ten is utilization of seventy five percent on my assembly
+    line right， now。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Or utilization can apply to the entire process。 You oftentimes see people say
+    in the Wall Street Journal that our plant has a utilization。
+  prefs: []
+  type: TYPE_NORMAL
+- en: of ninety five percent。 And by definition utilization can never exceed one hundred
+    percent。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Depending on whether you're constrained by demand or you're constrained by capacity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we say the process is demand constrained or capacity constrained。 If you are
+    capacity constrained。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you're held back by your bottleneck。 If you're demand constrained。
+  prefs: []
+  type: TYPE_NORMAL
+- en: you're really limited by your marketing。 The quality of your product。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the demand rate or your sales generation。 Capacity or demand constrained。
+  prefs: []
+  type: TYPE_NORMAL
+- en: What is the constraint in your business right now？ Well that's flow rate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The next measure is inventory。 Inventory is the number of flow units in the
+    system。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let me repeat this。 Inventory is the number of flow units in the system。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I want to do be precise on that because it's different from what inventory is
+    called in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the world of accounting。 Let me give you an example。 I work a lot with hospitals
+    and in hospitals。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Patients will be the flow unit and so the number of flow units in the system
+    is my inventory。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The number of patients that are currently in the waiting rooms and in the exam
+    rooms。
+  prefs: []
+  type: TYPE_NORMAL
+- en: are my inventory。 Now you look from an accounting perspective and you look at
+    the balance sheet of the hospital。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and I promise you you will not see patients as an inventory。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That's not because I'm right and the accounts are wrong。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It's just we have different understandings of inventory。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So again inventory is the number of flow units in the system。 The third measure
+    is flow time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This is a measure that I find student oftentimes get most confused with。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Flow time captures how long will it take the flow unit to go from the beginning
+    of the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: process to the end of the process。 It includes all work that is done on the
+    flow unit but it also includes all the time the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: flow unit spans in inventory sitting around doing nothing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Again think maybe last time that you went through a hospital process or you
+    applied for， a mortgage。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Sometimes what you see there most of the time the process takes on the flow
+    unit。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Most of the flow time it really spans on waiting as opposed to actual work time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So flow rate inventory and flow time。 Again in my view these are the most important
+    measures in any process。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now you notice that they don't directly appear on financial statements but to
+    state the obvious。
+  prefs: []
+  type: TYPE_NORMAL
+- en: flow rate times price is your revenue。 The inventory has a huge impact on your
+    working capital productivity and flow time has to。
+  prefs: []
+  type: TYPE_NORMAL
+- en: do with this inconvenience of time that we talked about in the introduction
+    module in。
+  prefs: []
+  type: TYPE_NORMAL
+- en: the form of delays。 One more footnote or comment on this slide。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Oftentimes people talk about flow time and user terms such as lead times and
+    cycle times。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/91d1a39082b90fe439a588ae8141fce7_11.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: I don't like these terms because they are used very differently across different
+    industries。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and we will see that lead times is actually very different from flow times different
+    from。
+  prefs: []
+  type: TYPE_NORMAL
+- en: cycle time。 So I haven't introduced these concepts not yet。 For now let's just
+    stick with flow time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Today we have covered a lot of definitions。 We talked about flow units。
+  prefs: []
+  type: TYPE_NORMAL
+- en: resources and process flow diagrams。 We talked about inventory， flow rate and
+    flow time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We talked about capacity， utilization and the concept of the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Of those if you ask me to pick my favorite I pick the idea of the bottleneck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Every process is only as good as its bottleneck。 It somewhat resembles team
+    time trials and cycling。
+  prefs: []
+  type: TYPE_NORMAL
+- en: It doesn't matter in the total form team trials when the first rides over the
+    finish line。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The performance of the team depends on the weaker riders。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So whenever you want to improve an operation that is capacity constrained your
+    first job。
+  prefs: []
+  type: TYPE_NORMAL
+- en: is finding the bottleneck。 In the next session we will do some specific calculations
+    to practice these definitions。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I see you then。 [BLANK_AUDIO]。
+  prefs: []
+  type: TYPE_NORMAL

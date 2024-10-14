@@ -1,0 +1,794 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P75：27_4 4 Plainview技术案例部分3.zh_en
+    - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: Hello， I'm Professor Brian Boucher。 Welcome back。 In this video。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we're going to talk about liquidity ratios， both short-term and long-term， liquidity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: and then we'll apply those ratios to the plainview technology case。 Let's get
+    started。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here's an overview of all the liquidity ratios we're going to look at， and you
+    can put them。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: into three buckets， two short-term buckets and one long-term bucket。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: First， we have a number of ratios that are going to tell us whether we have
+    enough assets。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: that are going to turn into cash to cover our liabilities in the next period。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Then the next bucket will look at specifically whether we have enough liquidity
+    to meet interest。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_9.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: obligations。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_11.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And the third bucket is going to be the long-term liquidity ratios。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_13.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And these are going to be more about the notion of riskiness。 Is the firm too
+    highly levered？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_15.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Is there a potential risk of bankruptcy down the road that may cause equity
+    investors。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_17.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: to lose their investment？ What's the company's borrowing capacity？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_19.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Those are all the questions that this set of ratios will get at。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So going to that first bucket of short-term liquidity ratios， we're trying to
+    answer the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_21.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: question， does the company have enough cash coming in to cover its obligations
+    to pay。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_23.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: out cash in the near term？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_25.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Ideally， all the ratios that we look at would be over one， which means there's
+    more cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: coming in than cash we have to pay out。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_27.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: But again， you'd have to benchmark this with the industry， the firm across time，
+    because。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_29.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: for some industries， these are not greater than one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_31.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The first ratio is called the current ratio。 It's current assets over current
+    liabilities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_33.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And basically what this is trying to get at is if current assets are going to
+    turn into。
+  prefs: []
+  type: TYPE_NORMAL
+- en: cash in the next year， current liabilities have to be paid in cash in the next
+    year， do。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_35.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: we have enough assets turning to cash to cover the liabilities that we have
+    to meet in cash？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_37.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: One drawback to this ratio is， as we know， not all current assets turning to
+    cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_39.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_40.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Some of them are things like prepaid rent， which never turn into cash。 Some
+    are inventory。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which take a longer time to turn into cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_42.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So there's another ratio called the quick ratio， which is just cash plus receivables
+    divided。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_44.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: by current liabilities。 Much more conservative ratio。
+  prefs: []
+  type: TYPE_NORMAL
+- en: saying do you have enough assets that are either cash or。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_46.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: going to turn into cash very quickly to cover your current liabilities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_48.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: One more ratio is cash flow from operations to current liabilities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So we divide cash from operations by average current liabilities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_50.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: This is more backward looking。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_52.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: It's saying over the past year， did you have enough cash generated from operations
+    to cover。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_54.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: your average level of current liabilities？ So here's what the ratios look like
+    for Plainview。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_56.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So why don't I put up the pause sign and you can take a look at them。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_58.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_59.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Okay I guess there are no insights or questions from the virtual students， so
+    I'll go on myself。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_61.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_62.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Starting with the current ratio it looks very healthy。 It's trended upwards
+    from 2。4 to 3。6。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_64.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So 3。6 means that Plainview has 3。5 times as much current assets as it does
+    current liabilities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_66.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Now as we talked about a problem with this measure is that inventory and prepades
+    are。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_68.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: not necessarily going to turn into cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_70.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So we have the quick ratio， which is cash plus accounts receivable over current
+    liabilities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_72.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: That also looks good。 It's been trending upward and it's now actually over one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_74.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: When we look at the cash flow to current liabilities ratio， it's not quite as
+    strong。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_76.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: We see the volatility and cash flow that we've seen earlier in our ratio analysis
+    and this。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_78.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: is trending down。 But overall I think we can say that Plainview's short-term
+    liquidity position looks pretty。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_80.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_81.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: strong。 They seem to have enough cash that's going to come in to cover the payments
+    they need。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_83.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: to make out。 Next we're going to look at the interest coverage ratios。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_85.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Here the question is does the company have enough cash coming in from operations
+    to cover。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_87.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: its interest obligations。 And again ideally these ratios would all be over one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_89.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The first ratio is the interest coverage ratio， which is operating income before
+    depreciation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_91.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: divided by interest expense。 So this is a picture of interest coverage from
+    an accrual accounting perspective。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_93.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So if we look at the sales revenue， we take out cost to get sold， we take out
+    SG&A and。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_95.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: then we ignore depreciation since that's not ever going to be a cash flow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_97.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Is that operating income enough to cover what we have an interest expense？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_99.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: We also have a purely cash based measure。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_101.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So cash interest coverage is cash from operations plus cash interest paid plus
+    cash taxes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_103.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: What we're doing there is those are subtracted from cash from operations but
+    we want to add。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_105.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: them back to get pure cash from operating the business。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_107.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The question is is that cash from operating the business enough to cover the
+    cash interest。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_109.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: paid。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_111.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So here are the interest coverage ratios for Plainview。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I will put up the pause sign and you can take a look。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_113.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Hmm。 Nothing again from the virtual students。 Why don't we go and check on them？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_115.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Hmm。 What does that say？ Dear professor， sorry we are studying for the exam。
+    See you next video。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Your students。 Okay。 I guess I have been going on too long about ratio analysis
+    and I do realize you've got。
+  prefs: []
+  type: TYPE_NORMAL
+- en: an exam to do。 So just give me a few more minutes and I'll wrap this up。 Okay。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So let me go through the interest coverage ratios。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_117.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The interest coverage ratio looks really strong。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_119.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: There's an upward trend and now it's 6。9 which means that Plainview's operating
+    income。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_121.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: before depreciation is almost seven times as much as its interest expense。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_123.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: When we look at the cash interest coverage it also looks strong except for that
+    one year。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_125.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: where there was the negative cash from operations。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_127.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So the current ratios 3。8 which means that Plainview's operations is generating
+    3。8 times。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_129.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: as much cash as they need to cover their cash interest costs。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_131.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So it looks like in general Plainview's in a good position in terms of generating
+    cash。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_133.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: to cover its interest obligations。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_135.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Now we're going to look at long term liquidity ratios。
+  prefs: []
+  type: TYPE_NORMAL
+- en: These ratios are going to tell us something about how the company is financing
+    its growth。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_137.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: as well as provide a measure of bankruptcy risk。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_139.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The idea is the higher the company's leverage， the bigger the risk that it may
+    have to default。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_141.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: on its debt payments and then the company gets forced into bankruptcy hurting
+    the equity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_143.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: investors。 First ratio is debt to equity which is just total liabilities over
+    shareholders' equity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_145.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So for each dollar of investment by shareholders how many dollars of liabilities
+    has the company。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_147.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: taken on。 Sometimes we put total assets in the denominator and we'll especially
+    do that if shareholders'。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_149.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: equity is really small because that could distort this ratio。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_151.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: The next ratio specifically looks at long term borrowing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_153.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So it's long term debt to equity， total long term debt divided by total shareholders'
+    equity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_155.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And this is getting at how the company is financing its long term growth。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_157.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Is it using equity or is it using long term borrowing？
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_159.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And the final ratio is a little tweak on that。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_161.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: It's long term debt to tangible assets so total long term debt divided by total
+    assets。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_163.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: minus intangible assets。 Intangible assets are things like contractual rights。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_165.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: They're not physical assets。 They're not property plant equipment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_167.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So essentially we're trying to get a measure of things like property plant equipment，
+    accounts。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_169.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: receivable， inventory and we're trying to get a measure of that because those
+    are the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: kind of assets that can be collateralized。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_171.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: In other words you can borrow the money with those assets as collateral whereas
+    intangible。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_173.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: assets are harder to collateralize。 So it's the borrowing capacity that the
+    company has based on its collateralizable assets if。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_175.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_176.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: collateralizable is the word。 So here are the long term debt ratios for plainview。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_178.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Let me go ahead and put up the pause sign and you can take a look。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_180.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_181.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Let's take a look at these long term debt ratios for plainview。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_183.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: In this case lower ratios are generally better than higher ratios because they
+    would indicate。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_185.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: less risk， more borrowing capacity to fund growth。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_187.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So plainview's debt to equity has risen over this period but it's still only
+    1。05 which。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_189.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: means that for every dollar of equity investment， plainview has about a dollar
+    in liabilities。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_191.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: which is a fairly low leverage ratio。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_193.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: If we look specifically at long term debt to equity we see that this went up
+    for a little。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_195.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: bit probably as they were expanding and building the new factories and then
+    it has come back。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_197.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: down and is less than one。 Similarly for long term debt to tangible assets the
+    ratio went up a little bit。
+  prefs: []
+  type: TYPE_NORMAL
+- en: came back down。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_199.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_200.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: These are still pretty low ratios indicating that plainview has a lot of debt
+    capacity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_202.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: that they could use to borrow more money to fund further growth。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_204.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So the conclusion for plainview from liquidity ratios is that they're in a strong
+    short term。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_206.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: cash position。 Quick ratio is greater than one。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_208.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: They generally have high interest coverage ratios。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They've managed their long term leverage wealth through their expansion and
+    growth。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_210.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: There's been some small increases in debt to equity and long term debt to tangible
+    asset。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_212.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: ratios but they're still not that big and if we compare them to other companies
+    in the。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_214.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: industry we would see that they're probably in line with what other companies
+    have。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_216.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: So liquidity is not a major concern for plainview technology。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_218.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: '![](img/80cacceb3cbd3495683f60a53aa53acd_219.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: And that's a wrap for the plainview technology case。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We have looked at all of the major ratios that people tend to use and so hopefully
+    you can。
+  prefs: []
+  type: TYPE_NORMAL
+- en: now add these tools to your toolbox when you're analyzing financial statements。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I'll see you next time。 [ Silence ]。
+  prefs: []
+  type: TYPE_NORMAL

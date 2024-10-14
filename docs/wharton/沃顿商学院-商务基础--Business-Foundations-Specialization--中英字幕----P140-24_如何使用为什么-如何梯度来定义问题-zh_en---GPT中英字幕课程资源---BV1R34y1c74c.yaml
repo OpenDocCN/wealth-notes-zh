@@ -1,0 +1,458 @@
+- en: 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P140：24_如何使用为什么-如何梯度来定义问题.zh_en
+    - GPT中英字幕课程资源 - BV1R34y1c74c
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: In the last video， we talked about the five wire framework。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/6adf108cf82862f9ae100b5cf12c20b5_1.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: We kept on asking why until we got deeper into the problem。 And once we found
+    the root cause。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we wanted to eliminate it so that future problems don't occur。 You also noticed
+    that by asking why。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we shifted from looking at the problem as a bad outcome。
+  prefs: []
+  type: TYPE_NORMAL
+- en: to looking at the problem as a poor process， to ultimately looking at the bigger
+    structure。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Outcomes are determined by processes and processes are designed in the bigger
+    structure。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This nesting of structure， process and outcome is pretty common across industries。
+    In healthcare。
+  prefs: []
+  type: TYPE_NORMAL
+- en: it is known as a Donabedian model of quality。 It is named after Evades， Donabedian。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a physician and formerly a professor at the University of Michigan。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/6adf108cf82862f9ae100b5cf12c20b5_3.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Moving from outcome to process and from process to structure is something I
+    do like about the five wire framework。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In today's video， I want to talk about some limitations of the tool however。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I also want to introduce you to a related tool that I found very effective for
+    this type of work。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So here we go。 Consider the case of the spread of the COVID-19 pandemic and
+    the various measures that a community like our university or a business can take
+    to limit the number of infections。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/6adf108cf82862f9ae100b5cf12c20b5_5.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: As we know from epidemiology， the spread of the virus can be slowed or even
+    entirely stopped by appearing to standards of hygiene and social distancing。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In the world of operations management we would refer to new infections as bad
+    outcomes and thus defects。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Every day there are thousands of interactions between members of the community
+    and some of them knowingly or not are infected。
+  prefs: []
+  type: TYPE_NORMAL
+- en: We have countless opportunities for infection and thus defects。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now the vast majority of these interactions cause no infection but take some
+    of them due。
+  prefs: []
+  type: TYPE_NORMAL
+- en: With that said， again a variation in outcome。 If that variation consisted only
+    of randomness。
+  prefs: []
+  type: TYPE_NORMAL
+- en: we would refer to this as a common cause variation。 If however。
+  prefs: []
+  type: TYPE_NORMAL
+- en: as it has been documented in numerous studies， some term missions or submissions
+    occur because of poor adherence to good hygiene standards and social distancing
+    will speak of a signable cause variation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Next let's look at the usefulness of the five-wife framework。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let's think about a student here at Warden who got infected early on in the
+    pandemic。
+  prefs: []
+  type: TYPE_NORMAL
+- en: say spring of 2020。 Why did the student get infected？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well because he or she interacted with other students not wearing a face mask。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well why did the student not wear a face mask？ Well because at least in April
+    of 2020 it was hard to get good face masks here in Philadelphia。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well why was it hard to get a face mask in Philadelphia in April 2020？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Well because the US face a massive shortage of personal protective equipment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Why did the US face a massive shortage of personal protective equipment？
+  prefs: []
+  type: TYPE_NORMAL
+- en: You see where I'm going with this。 We've started out with a very concrete problem
+    of infection control here on campus and before we notice we're not facing a problem
+    that is deeply involved in the world of politics。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you're interested in the PPE supply chain topic。
+  prefs: []
+  type: TYPE_NORMAL
+- en: let me know and I'll share with you an editorial that's the CEO of Penn Medicine。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a colleague Kevin Wop and I wrote。 I wrote about the limitations of just in
+    time supply chains。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But to emphasize my point this is not a problem that can be solved next week。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So let me articulate a different process of defining the problem。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I would actually allegedly say if I were given one hour to save the planet I
+    would spend 59 minutes defining the problem and one minute to solve it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Whether this is true or not can be debated but clearly a good problem definition
+    is critical。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You begin the process of defining the process by stating the problem。
+  prefs: []
+  type: TYPE_NORMAL
+- en: I like to state problems setting with the words how might we or in what ways
+    might we。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Because that language is open ended and really focuses on the problem rather
+    than already baking in a solution。
+  prefs: []
+  type: TYPE_NORMAL
+- en: For example， we frame a quality project preventing COVID as how might we increase
+    the adherence to facial mask wearing here on campus。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write the statement down against that with how might we or in what ways。 Next。
+  prefs: []
+  type: TYPE_NORMAL
+- en: let's apply the logic of the five y's。 Ask yourself why？ Why would we want to
+    do that？
+  prefs: []
+  type: TYPE_NORMAL
+- en: What would be good about that？ In our case the answer might be well because
+    it would increase compliance with good hygiene standards。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Why？ What would be good about that？ Well it would reduce the spread of COVID
+    infections。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And again ask yourself why？ What would be good about that？
+  prefs: []
+  type: TYPE_NORMAL
+- en: We might say well that would lead to a healthy and safer campus environment。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now nothing wrong with that but do you really want to have your team work on
+    the problem how might we create a healthy and safe campus environment？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Again I think you get my point。 As we keep on asking why we're at risk of making
+    the problem too broad。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So how about doing the opposite rather than asking why let's simply ask how。
+  prefs: []
+  type: TYPE_NORMAL
+- en: One way in which we might be able to address a problem how might we increase
+    the adherence to facial mask wearing on campus is by reminding people to wear
+    a mask。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Another approach would be to make masks more widely available。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So we might now think of the problem how might we increase the availability
+    of face masks here on campus。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But we could focus our problem even further。 For example we might ask how might
+    we conveniently locate face masks。
+  prefs: []
+  type: TYPE_NORMAL
+- en: At some point however you really run the risk that you make the problem too
+    specific to narrow。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That creates such a narrow problem definition that you're really ruling out
+    many effective solution approaches that might prevent the spread of the virus
+    with less effort and at lower cost。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So my point is this。 Quality problems can be stated at various levels of specificity。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Write them down from the specific to the general。 The Wai-Hau letter is really
+    a very helpful tool that helps you in this exercise。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Eventually I want you to pick a problem formulation that you feel comfortable
+    with。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And in case of doubt I suggest you air on the side of making the problem a little
+    broader than you first envisioned it。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let me illustrate the power of the Wai-Hau letter as an approach towards defining
+    problems using an example of the rental car company Hertz。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Hertz a number of years ago oftentimes faces a problem of long lines and has
+    long grading times at the airport rental car stations which is arguably a really
+    bad quality outcome。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now a natural way to frame the problem that is to how might we shorten the time
+    in line。
+  prefs: []
+  type: TYPE_NORMAL
+- en: When you do this you really take the current process as a given and most likely
+    you end up with improvements such as better staffing or faster computers。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now don't get me wrong these are exactly the type of solutions we talked about
+    in much of the earlier parts of this course。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So I really like that。 But how about this？ Let's ask why。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Why would we want to shorten the line or what would be good about a shorter
+    line by doing so we broaden the problem。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So why shorten the line？ Well we really want customers to get out on their way
+    to the destinations faster。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Isn't that interesting？ Now we could tackle the problem how might we get our
+    customer to their way to the destination faster。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That is a related but it's a different problem。 We just broaden the problem。
+  prefs: []
+  type: TYPE_NORMAL
+- en: This allows us really to think outside the box。 Maybe we don't need a line at
+    all。
+  prefs: []
+  type: TYPE_NORMAL
+- en: How about customers go right to the car？ How about the car waits for them at
+    the gate？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Ultimately the idea of her school was that frequent flyers， frequent customers
+    offer us。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which is go right to their cars without standing in line at all。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That however was not a solution that you would have come up with。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you only work on the initial problem how might we have shortened the line。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Alright I think I digress a little bit here。 We're in the quality module and
+    your professor is talking about waiting lines。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So back to quality。 My idea behind the Y-Haul letter is that you now have a
+    framework that can help you define any type of problem。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And of course it includes quality problems。 But really quality problems are
+    somewhat special as you relate to deviations from standards and specifications。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So are there any specific tools， any standard tricks that we can play when dealing
+    with quality problems？
+  prefs: []
+  type: TYPE_NORMAL
+- en: Thank you for asking。 If you want to avoid bad outcomes you have to reduce variation
+    in the process and we have to avoid that these variations lead to bad outcome。
+  prefs: []
+  type: TYPE_NORMAL
+- en: That was really the whole idea behind this was cheese model。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So how can we avoid such deviations and how can we avoid such deviations that
+    still exists don't lead to that bad outcome。
+  prefs: []
+  type: TYPE_NORMAL
+- en: For that we have to build processes that are fail safe。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Expert oftentimes talk about foolproofing a process。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The term might be perceived as somewhat disrespectful and offensive so jumping
+    into the Japanese language once again might be helpful。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Let me define Polka Yoga as preventing mistakes from happening。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now strictly speaking with Polka Yoga mistakes should not happen inadvertently。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Grows negligence or really evil intent by the operator could still trigger a
+    bad outcome。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Baka Yoga in contrast means literally foolproofing an operation。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And Baka Yoga can thus be thought of as really an extreme form of Polka Yoga。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now the effort required to make a mistake with Baka Yoga would go up dramatically。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You really have to try hard to make a defect。 Now these two terms capture the
+    idea of a robust process that I mentioned in the first video of this module。
+  prefs: []
+  type: TYPE_NORMAL
+- en: A process is robust when random variations in input and environmental variables。
+  prefs: []
+  type: TYPE_NORMAL
+- en: which includes accidental mistakes are avoided。 And it's really robust when
+    not even a fool can trigger a bad outcome。
+  prefs: []
+  type: TYPE_NORMAL
+- en: As a difference between these definitions of Baka Yoga and Polka Yoga suggest。
+  prefs: []
+  type: TYPE_NORMAL
+- en: they are really multiple levels of error prevention。 Take the example of Baka
+    safety。
+  prefs: []
+  type: TYPE_NORMAL
+- en: a topic that you know by now is really close to my heart。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The most basic protection comes in the form of traffic law。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Traffic law in Pennsylvania states that drivers have to pass me a cyclist with
+    a four feet distance。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now most drivers don't know that law but it's good to know that the law is on
+    my side when I get hit by the truck。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The next level more fancy is to put a sign near the road。 I hate those signs。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They say share the road or watch for cyclists。 The reason why I share those
+    signs is they have little impact on the drivers。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They have you sharing the road is simply different from mine。
+  prefs: []
+  type: TYPE_NORMAL
+- en: But at least it's better than doing nothing。 The next level more fancy would
+    be not just to have a sign but clear markings on the road。
+  prefs: []
+  type: TYPE_NORMAL
+- en: In Philly we fortunately have a number of bike lanes。
+  prefs: []
+  type: TYPE_NORMAL
+- en: They work pretty well except for more recently they have really turned the bike
+    lanes into a over drop of end pickup lines。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The fourth level of making a process more robust is often referred to as a multi-sensory。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now an undesirable action is really hard on the operator。 Look at these little
+    barriers here。
+  prefs: []
+  type: TYPE_NORMAL
+- en: If that SUV driver wants to kill me he or she can still do so but now they really
+    need to make an effort。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '![](img/6adf108cf82862f9ae100b5cf12c20b5_7.png)'
+  prefs: []
+  type: TYPE_IMG
+- en: Drivers who accidentally drift over into the bike lane they get a very strong
+    feedback in the form of their car starting to rattle。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The ultimate foolproof way to keep our cyclists safe is to give us our own road
+    network。
+  prefs: []
+  type: TYPE_NORMAL
+- en: You see this really a lot in Holland and throughout Europe。
+  prefs: []
+  type: TYPE_NORMAL
+- en: And to be fair Philadelphia really has a great number of such bike paths。
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now even our stupid and evil driver will not be able to hit the cyclists。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The five wise and the why how letter are great tools that can help you think
+    about a problem at different levels of analysis。
+  prefs: []
+  type: TYPE_NORMAL
+- en: These two some provide you with answers but they do steer you towards asking
+    the right questions。
+  prefs: []
+  type: TYPE_NORMAL
+- en: When it comes to quality problems most of the action is making workers adherent
+    to some standards and some specifications。
+  prefs: []
+  type: TYPE_NORMAL
+- en: The five levels of prevention and foolproofing are not giving you an easy answer
+    but they force you to think about alternative ways to look for solutions。
+  prefs: []
+  type: TYPE_NORMAL
+- en: So I hope you found them useful as well。 That's all I got for today。 I'll see
+    you next time。
+  prefs: []
+  type: TYPE_NORMAL
+- en: '[ Silence ]。'
+  prefs: []
+  type: TYPE_NORMAL
