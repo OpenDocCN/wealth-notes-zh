@@ -14,6 +14,7 @@
 +   [赏味不足](docs/shangwei/README.md)
 +   [守夜人总司令文章合集](docs/shouyeren/README.md)
 +   [数字游民博客](docs/shuziyoumin/README.md)
++   [斯坦福 CS007 讲义](docs/stf-cs007/README.md)
 +   [培训机构分析报告（TI Analysis）](docs/ti-analysis/README.md)
 +   [挖矿指南](docs/wakuang/README.md)
 +   [通往财富自由之路精细笔记](docs/wealfree/README.md)
