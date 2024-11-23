@@ -4,13 +4,11 @@ CS 007：第一节
 
 ![0_image_0.png](img/0_image_0.png)
 
-个人
-
 ![0_image_1.png](img/0_image_1.png)
 
-财务为
+面向工程师的个人财务
 
-工程师
+
 
 # 信息披露
 
@@ -38,15 +36,7 @@ CS 007：第一节
 
 # 为什么是为工程师准备的？
 
-![3_Image_0.Png](img/3_Image_0.Png)
-
-![3_Image_1.Png](img/3_Image_1.Png)
-
-![3_Image_2.Png](img/3_Image_2.Png)
-
-![3_Image_3.Png](img/3_Image_3.Png)
-
-![3_Image_4.Png](img/3_Image_4.Png)
+![3_Image_0.Png](img/3-1.jpg)
 
 - 工程师通常在数学方面受过良好的教育，并且享受这一过程。
 
@@ -84,9 +74,7 @@ CS 007：第一节
 
 # 1: 你现在是几年级？
 
-![7_Image_0.Png](img/7_Image_0.Png)
-
-![7_Image_2.Png](img/7_Image_2.Png)
+![7_Image_0.Png](img/8-1.jpg)
 
 - 本课程已针对即将毕业的学生进行优化。
 
@@ -108,13 +96,14 @@ CS 007：第一节
 
 低：$10,000
 
-![8_image_1.png](img/8_image_1.png) 高：$1万亿
+高：$1万亿
 
 # 3: 你对父母了解多少？
 
+![](img/10-1.jpg)
+
 - 许多父母在如何与孩子谈论金钱时感到矛盾。
 
-![9_image_0.png](img/9_image_0.png)
 
 - 这并不奇怪，因为金钱往往不舒适地反映出个人的价值观和行为。
 
@@ -122,11 +111,10 @@ CS 007：第一节
 
 - 这堂课可能是你和家人一起学习的机会。
 
-![9_image_1.png](img/9_image_1.png)
 
 # 4: 购买股票、ETF还是共同基金？
 
-![10_Image_0.Png](img/10_Image_0.Png)
+![](img/11-1.jpg)
 
 - 64%的美国家庭拥有Amazon Prime，但只有52%拥有股票。（来源：Gallup）
 
@@ -136,15 +124,11 @@ CS 007：第一节
 
 - 投资股票，理想情况下通过指数基金，是最佳的投资方式之一。
 
-![10_image_1.png](img/10_image_1.png)
-
-![10_image_2.png](img/10_image_2.png)
-
-![10_image_3.png](img/10_image_3.png) 建立长期财富的方法。
+建立长期财富的方法。
 
 # 5: 你自己报过税吗？
 
-![11_Image_0.Png](img/11_Image_0.Png)
+![](img/12-1.jpg)
 
 - 如果你通过工作赚取收入，你应该报税。
 
@@ -156,6 +140,8 @@ CS 007：第一节
 
 # 6: 你负责偿还的学生贷款？
 
+![](img/13-1.jpg)
+
 - 国家学生贷款债务为$1.75万亿
 
 - 4500万学生贷款借款人。
@@ -163,20 +149,6 @@ CS 007：第一节
 +   2021年，每位借款人的平均债务为$39,351。
 
 - 25%的借款人在还款的前五年内违约。
-
-大约13%的联邦学生贷款仍未偿还，且欠款为$20K或更少……
-
-5% 8%
-
-17%
-
-32%
-
-38%
-
-![12_image_0.png](img/12_image_0.png)
-
-![12_image_2.png](img/12_image_2.png)
 
 * https://fred.stlouisfed.org/series/SLOAS
 
@@ -186,35 +158,12 @@ CS 007：第一节
 
 6 你是否有大学毕业后需要负责偿还的学生贷款？
 
-146人中有146人回答了这个问题：没有 117人回应   80.1%
 
-在$20K - $50K之间
-
-10人回应
-
-| 6.8%   |
-| --- |
-
-|--------|
-
-少于$20K
-
-8人回应
-
-5.5%
-
-| 6 受访者   | 4.1%   |
-| --- | --- |
-
-|-----------|--------|
-
-![12_image_1.png](img/12_image_1.png)
-
-在$50K - $100K之间
-
-![12_image_3.png](img/12_image_3.png)
+![](img/14-1.jpg)
 
 # 7: 你应该储蓄多少百分比的收入？
+
+![](img/15-1.jpg)
 
 · 花费低于收入。
 
@@ -226,82 +175,37 @@ CS 007：第一节
 
 - 储蓄意味着拥有更多资本用于投资，以实现你的目标。
 
-V
-
-![13_image_0.png](img/13_image_0.png)
 
 当你毕业时，你认为你每个月应该存下自己薪水的百分之几？
 
 146人中有146人回答了这个问题，超过20%的人回答了。
 
-98 反应率    67.1%
-
-15%
-
-30 反应率   20.5%
-
-10%
-
-17 反应率     11.6%
-
-| 0%   |
-| --- |
-
-|------|
-
-![13_image_1.png](img/13_image_1.png)
-
-![13_image_2.png](img/13_image_2.png)
-
-![13_image_4.png](img/13_image_4.png)
-
-![13_image_3.png](img/13_image_3.png)
-
-![13_image_5.png](img/13_image_5.png)
 
 # 8: 有多少百分比的美国人有足够的$400应急储蓄？
 
-![14_Image_0.Png](img/14_Image_0.Png)
+![](img/16-1.jpg)![](img/16-2.jpg)
 
 - 常被误引的统计数据。
 
 - 美国联邦储备委员会在2023年报告称，37%的美国人没有足够的
 
-![14_image_1.png](img/14_image_1.png)
-
-![14_image_2.png](img/14_image_2.png) 用现金储蓄来应对$400的紧急情况
-
-![14_image_3.png](img/14_image_3.png) 支出。
-
 - 实际调查问题揭示，13%的人表示他们无法通过其他方式应对紧急情况。
 
 - 流动性意味着在需要时能够接触到资金
 
-| 需要时 |                                                                 |
-| --- | --- |
-
-|---------------------|-----------------------------------------------------------------|
-
-| -                   | 不要低估流动性的价值。流动性很重要。 |
-| --- | --- |
 
 * https://www.federalreserve.gov/publications/2023-economic-well-being-of-us-households-in-2022-executive-summary.htm
 
 # 9: 你认为美国的中位收入是多少？
 
-![15_Image_0.Png](img/15_Image_0.Png)
 
-![15_Image_1.Png](img/15_Image_1.Png)
-
-![15_Image_2.Png](img/15_Image_2.Png)
+![](img/17-1.jpg)![](img/17-2.jpg)
 
 - 财务统计可能让人困惑，因为时间段、数据集和问题差异巨大。
 
 - 美国人口普查局报告称，2022年家庭中位收入为74,580美元。2021年为76,330美元。
 
 - 美国人口普查局报告称，2022年加利福尼亚州的家庭中位收入为85,300美元。
-
-![15_image_3.png](img/15_image_3.png)
 
 - 2022年，帕洛阿尔托（加利福尼亚州）的家庭中位收入为194,782美元。
 
@@ -600,27 +504,8 @@ DESIGNHACKS.CO · 分类由BUSTER BENSON提供 · 算法设计由JOHN MANOOGIAN 
 
 # 过度自信
 
-![40_Image_0.Png](img/40_Image_0.Png)
+![40_Image_0.Png](img/41-1.jpg)
 
-![40_Image_1.Png](img/40_Image_1.Png)
-
-![40_Image_2.Png](img/40_Image_2.Png)
-
-![40_Image_3.Png](img/40_Image_3.Png)
-
-![40_Image_4.Png](img/40_Image_4.Png)
-
-![40_Image_5.Png](img/40_Image_5.Png)
-
-![40_Image_6.Png](img/40_Image_6.Png)
-
-![40_Image_7.Png](img/40_Image_7.Png)
-
-![40_Image_8.Png](img/40_Image_8.Png)
-
-![40_Image_9.Png](img/40_Image_9.Png)
-
-![40_Image_10.Png](img/40_Image_10.Png)
 
 - 在《行为不端》(2016)一书中，74%的投资经理认为他们的业绩优于平均水平。
 
@@ -632,15 +517,8 @@ DESIGNHACKS.CO · 分类由BUSTER BENSON提供 · 算法设计由JOHN MANOOGIAN 
 
 # 近期与可得性偏差
 
-![41_Image_0.Png](img/41_Image_0.Png)
+![41_Image_0.Png](img/42-1.jpg)
 
-![41_Image_1.Png](img/41_Image_1.Png)
-
-![41_Image_2.Png](img/41_Image_2.Png)
-
-![41_Image_3.Png](img/41_Image_3.Png)
-
-![41_Image_4.Png](img/41_Image_4.Png)
 
 - **近期偏差**
 
@@ -662,17 +540,9 @@ DESIGNHACKS.CO · 分类由BUSTER BENSON提供 · 算法设计由JOHN MANOOGIAN 
 
 你有50%的机会获得$1,000，A有50%的机会获得$0。
 
-![42_image_0.png](img/42_image_0.png)
-
 或者
 
 B你有100%的机会获得$500。
-
-![42_image_1.png](img/42_image_1.png)
-
-![42_image_2.png](img/42_image_2.png)
-
-![42_image_3.png](img/42_image_3.png)
 
 # 现在，你有**$2,000**，必须选择以下一个游戏
 
