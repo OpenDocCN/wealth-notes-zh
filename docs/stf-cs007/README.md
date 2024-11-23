@@ -2,11 +2,11 @@
 
 CS 007: SESSION 1
 
-![0_image_0.png](0_image_0.png)
+![0_image_0.png](img/0_image_0.png)
 
 PERSONAL 
 
-![0_image_1.png](0_image_1.png)
+![0_image_1.png](img/0_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
@@ -22,7 +22,7 @@ STANFORD UNIVERSITY - COURSE MATERIAL - CS 007 - FALL 2023-4
 
 # Why Personal Finance?
 
-![2_Image_0.Png](2_Image_0.Png)
+![2_Image_0.Png](img/2_Image_0.Png)
 
 - Poorly covered in secondary school 
 & university curricula, even at top schools. 
@@ -35,15 +35,15 @@ STANFORD UNIVERSITY - COURSE MATERIAL - CS 007 - FALL 2023-4
 
 # Why For Engineers?
 
-![3_Image_0.Png](3_Image_0.Png)
+![3_Image_0.Png](img/3_Image_0.Png)
 
-![3_Image_1.Png](3_Image_1.Png)
+![3_Image_1.Png](img/3_Image_1.Png)
 
-![3_Image_2.Png](3_Image_2.Png)
+![3_Image_2.Png](img/3_Image_2.Png)
 
-![3_Image_3.Png](3_Image_3.Png)
+![3_Image_3.Png](img/3_Image_3.Png)
 
-![3_Image_4.Png](3_Image_4.Png)
+![3_Image_4.Png](img/3_Image_4.Png)
 
 - Engineers are typically well educated in math, and enjoy it. 
 
@@ -55,7 +55,7 @@ STANFORD UNIVERSITY - COURSE MATERIAL - CS 007 - FALL 2023-4
 
 # Real Questions, Real Data
 
-![4_Image_0.Png](4_Image_0.Png)
+![4_Image_0.Png](img/4_Image_0.Png)
 
 - Most adults do not feel comfortable talking about money & financial decisions with friends & colleagues. 
 
@@ -64,7 +64,7 @@ STANFORD UNIVERSITY - COURSE MATERIAL - CS 007 - FALL 2023-4
 
 # Social Contract: Build Trust
 
-![5_Image_0.Png](5_Image_0.Png)
+![5_Image_0.Png](img/5_Image_0.Png)
 
 - Students in this class come from a wide variety of financial situations 
 - We are lucky, because this diversity can help educate us on a broader set of potential financial decisions 
@@ -72,13 +72,13 @@ STANFORD UNIVERSITY - COURSE MATERIAL - CS 007 - FALL 2023-4
 - Do everything you can to earn & 
 deserve their trust
 
-![6_image_0.png](6_image_0.png)
+![6_image_0.png](img/6_image_0.png)
 
 # 1: What Year Are You?
 
-![7_Image_0.Png](7_Image_0.Png)
+![7_Image_0.Png](img/7_Image_0.Png)
 
-![7_Image_2.Png](7_Image_2.Png)
+![7_Image_2.Png](img/7_Image_2.Png)
 
 - This class is optimized for students who will be graduating soon. 
 
@@ -86,13 +86,13 @@ deserve their trust
 
 - My personal journey really started after my sophomore year, when I interned with Hewlett-Packard…
 
-![7_image_1.png](7_image_1.png)
+![7_image_1.png](img/7_image_1.png)
 
 * https://www.businessinsider.com/personal-finance/best-money-adam-nash-ever-spent-2015-4
 
 # 2: How Do You Define Wealth / Success?
 
-![8_Image_0.Png](8_Image_0.Png)
+![8_Image_0.Png](img/8_Image_0.Png)
 
 - Is there a "magic number?" - Expectations vary widely. - Some people find success focusing on goals, others on running up a score. 
 
@@ -100,13 +100,13 @@ deserve their trust
 
 Low: $10,000 
 
-![8_image_1.png](8_image_1.png) High: $1 Trillion 
+![8_image_1.png](img/8_image_1.png) High: $1 Trillion 
 
 # 3: How Much Do You Know About Your Parents
 
 - Many parents are conflicted about how to talk about money. 
 
-![9_image_0.png](9_image_0.png)
+![9_image_0.png](img/9_image_0.png)
 
 - This is not surprising, because money can be an uncomfortable reflection of values & behavior. 
 
@@ -114,11 +114,11 @@ Low: $10,000
 
 - This class could be an opportunity for you to learn with your family.
 
-![9_image_1.png](9_image_1.png)
+![9_image_1.png](img/9_image_1.png)
 
 # 4: Purchased Stock, Etf Or Mutual Fund?
 
-![10_Image_0.Png](10_Image_0.Png)
+![10_Image_0.Png](img/10_Image_0.Png)
 
 - 64% of American households have Amazon Prime, but only 52% own stocks. (Source: Gallup) 
 - The top 1% of households by wealth own 56% of all company shares. (Source: Goldman Sachs, FT) 
@@ -126,15 +126,15 @@ Low: $10,000
 
 - Investing in equities, ideally through an index fund, can be one of the best 
 
-![10_image_1.png](10_image_1.png)
+![10_image_1.png](img/10_image_1.png)
 
-![10_image_2.png](10_image_2.png)
+![10_image_2.png](img/10_image_2.png)
 
-![10_image_3.png](10_image_3.png) ways to build long term wealth.
+![10_image_3.png](img/10_image_3.png) ways to build long term wealth.
 
 # 5: Filed Your Own Taxes?
 
-![11_Image_0.Png](11_Image_0.Png)
+![11_Image_0.Png](img/11_Image_0.Png)
 
 - If you earn money from a job, you should be filing taxes. 
 
@@ -160,9 +160,9 @@ Low: $10,000
 32%
 38%
 
-![12_image_0.png](12_image_0.png)
+![12_image_0.png](img/12_image_0.png)
 
-![12_image_2.png](12_image_2.png)
+![12_image_2.png](img/12_image_2.png)
 
 * https://fred.stlouisfed.org/series/SLOAS
 *   https://www.nerdwallet.com/article/loans/student-loans/student-loan-debt
@@ -185,11 +185,11 @@ Less than $20K
 | 6 resp.   | 4.1%   |
 |-----------|--------|
 
-![12_image_1.png](12_image_1.png)
+![12_image_1.png](img/12_image_1.png)
 
 Between $50K - $100K
 
-![12_image_3.png](12_image_3.png)
+![12_image_3.png](img/12_image_3.png)
 
 # 7: What % Of Your Salary Should You Save?
 
@@ -205,7 +205,7 @@ Between $50K - $100K
 
 V
 
-![13_image_0.png](13_image_0.png)
+![13_image_0.png](img/13_image_0.png)
 
 When you graduate, what percentage of your salary do you believe you should save every month?
 
@@ -219,29 +219,29 @@ When you graduate, what percentage of your salary do you believe you should save
 | 0%   |
 |------|
 
-![13_image_1.png](13_image_1.png)
+![13_image_1.png](img/13_image_1.png)
 
-![13_image_2.png](13_image_2.png)
+![13_image_2.png](img/13_image_2.png)
 
-![13_image_4.png](13_image_4.png)
+![13_image_4.png](img/13_image_4.png)
 
-![13_image_3.png](13_image_3.png)
+![13_image_3.png](img/13_image_3.png)
 
-![13_image_5.png](13_image_5.png)
+![13_image_5.png](img/13_image_5.png)
 
 # 8: What % Of Americans Have $400 For Emergencies?
 
-![14_Image_0.Png](14_Image_0.Png)
+![14_Image_0.Png](img/14_Image_0.Png)
 
 - Commonly misquoted statistic. 
 
 - US Federal Reserve reported in 2023 that 37% of Americans do not have sufficient 
 
-![14_image_1.png](14_image_1.png)
+![14_image_1.png](img/14_image_1.png)
 
-![14_image_2.png](14_image_2.png) cash savings to cover a $400 emergency 
+![14_image_2.png](img/14_image_2.png) cash savings to cover a $400 emergency 
 
-![14_image_3.png](14_image_3.png) expense. 
+![14_image_3.png](img/14_image_3.png) expense. 
 
 - Actual survey question reveals the number is 13% that self-reported that they couldn't cover the emergency through other means. 
 
@@ -255,11 +255,11 @@ When you graduate, what percentage of your salary do you believe you should save
 
 # 9: What Do You Believe Is Median Income In Us?
 
-![15_Image_0.Png](15_Image_0.Png)
+![15_Image_0.Png](img/15_Image_0.Png)
 
-![15_Image_1.Png](15_Image_1.Png)
+![15_Image_1.Png](img/15_Image_1.Png)
 
-![15_Image_2.Png](15_Image_2.Png)
+![15_Image_2.Png](img/15_Image_2.Png)
 
 - Financial statistics can be confusing, because the time period, data set and questions vary dramatically. 
 
@@ -267,7 +267,7 @@ When you graduate, what percentage of your salary do you believe you should save
 
 - US Census reported median household income in California at $85,300 in 2022. 
 
-![15_image_3.png](15_image_3.png)
+![15_image_3.png](img/15_image_3.png)
 
 - Median household income in Palo Alto, CA was $194,782 in 2022.
 
@@ -277,19 +277,19 @@ When you graduate, what percentage of your salary do you believe you should save
 
 - Good news: we will cover most of them in the prepared sessions 
 
-![16_image_0.png](16_image_0.png)
+![16_image_0.png](img/16_image_0.png)
 
 - Lots of questions about stocks, investing, and options 
 - Additional Topics from Last Year 
 - Venture Capital / Private Equity - Derivatives - Crypto CS 007
 
-![17_image_0.png](17_image_0.png)
+![17_image_0.png](img/17_image_0.png)
 
 SYLLABUS
 
 # Administrative Details
 
-![18_Image_0.Png](18_Image_0.Png)
+![18_Image_0.Png](img/18_Image_0.Png)
 
 - Email: 
 adamnash@cs.stanford.edu
@@ -306,7 +306,7 @@ http://cs007.blog
 -  Behavioral Finance Cognitive Bias o
 - Impact on Financial Decisions
 
-![19_image_0.png](19_image_0.png)
+![19_image_0.png](img/19_image_0.png)
 
 DESIGNHACKS.CO · CATEGORIZATION BY BUSTER BENSON · ALGORITHMIC DESIGN BY JOHN MANOOGIAN III (JM3) · DATA BY WIKIPEDIA
 ©creative s
@@ -315,21 +315,21 @@ DESIGNHACKS.CO · CATEGORIZATION BY BUSTER BENSON · ALGORITHMIC DESIGN BY JOHN 
 
 # Week 3: Getting Paid
 
-![20_image_0.png](20_image_0.png)
+![20_image_0.png](img/20_image_0.png)
 
 # Week 4: Spend Less Than You Make
 
-![21_Image_0.Png](21_Image_0.Png)
+![21_Image_0.Png](img/21_Image_0.Png)
 
 - Income vs. Spending - Time frames - Budgets - Savings Rates - Personal Income Statement
 
 # Week 5: Your Financial Profile
 
-![22_image_0.png](22_image_0.png)
+![22_image_0.png](img/22_image_0.png)
 
 # Week 6: Credit & Debt. Digging Out.
 
-![23_Image_0.Png](23_Image_0.Png)
+![23_Image_0.Png](img/23_Image_0.Png)
 
 - Different types of Debt: 
 Student Loans, Auto, Credit Cards, Mortgage 
@@ -337,9 +337,9 @@ Student Loans, Auto, Credit Cards, Mortgage
 
 # Week 7: Good Investing Is Boring
 
-![24_Image_0.Png](24_Image_0.Png)
+![24_Image_0.Png](img/24_Image_0.Png)
 
-![24_Image_1.Png](24_Image_1.Png)
+![24_Image_1.Png](img/24_Image_1.Png)
 
 - The Magic of Compounding - How to Calculate Returns - Different Types of Investments: 
 Stocks, Bonds, Commodities, Real Estate 
@@ -347,7 +347,7 @@ Stocks, Bonds, Commodities, Real Estate
 
 # Week 8: Financial Goals
 
-![25_Image_0.Png](25_Image_0.Png)
+![25_Image_0.Png](img/25_Image_0.Png)
 
 - How to Plan for Financial Goals - Different Types of Goals: 
 Travel, Marriage, House, Children, College, Starting a Business, Retirement 
@@ -355,28 +355,28 @@ Travel, Marriage, House, Children, College, Starting a Business, Retirement
 
 # Week 9: Location, Location, Location
 
-![26_Image_0.Png](26_Image_0.Png)
+![26_Image_0.Png](img/26_Image_0.Png)
 
 - Real Estate - Rent vs. Buy - The Home as an Investment - Rental Properties / Passive Income - REITs & Partnerships - Tax Benefits
 
 # Week 10: People'S Choice
 
-![27_Image_0.Png](27_Image_0.Png)
+![27_Image_0.Png](img/27_Image_0.Png)
 
 - Student Selected Topics 
 - Derivatives - Venture Capital - Crypto! 
 
 - Final Thoughts - CS 007 Alumni CS 007 QUESTIONS
 
-![28_image_0.png](28_image_0.png)
+![28_image_0.png](img/28_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর CS 007: SESSION 2
 
-![29_image_0.png](29_image_0.png)
+![29_image_0.png](img/29_image_0.png)
 
 PERSONAL 
 
-![29_image_1.png](29_image_1.png)
+![29_image_1.png](img/29_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
@@ -384,9 +384,9 @@ CS 007 PREDICTABLY
 IRRATIONAL
 COGNITIVE BIAS CODEX
 
-![30_image_0.png](30_image_0.png)
+![30_image_0.png](img/30_image_0.png)
 
-![30_image_1.png](30_image_1.png)
+![30_image_1.png](img/30_image_1.png)
 
 DESIGNHACKS.CO · CATEGORIZATION BY BUSTER BENSON · ALGORITHMIC DESIGN BY JOHN MANOOGIAN III (JM3) · DATA BY WIKIPEDIA
 ලද්දි 1 mmons
@@ -399,35 +399,35 @@ How many of you think you are rational with your money?
 
 GAMBLER'S FALLACY
 
-![32_image_3.png](32_image_3.png)
+![32_image_3.png](img/32_image_3.png)
 
 ANCHORING MENTAL ACCOUNTING CONFIRMATION & 
 
-![32_image_2.png](32_image_2.png)
+![32_image_2.png](img/32_image_2.png)
 
 HINDSIGHT BIAS
 
-![32_image_0.png](32_image_0.png)
+![32_image_0.png](img/32_image_0.png)
 
 # You Are Not 
 
-![32_Image_1.Png](32_Image_1.Png) Rational
+![32_Image_1.Png](img/32_Image_1.Png) Rational
 
 HERD BEHAVIOR OVERCONFIDENCE OVERREACTION & 
 
-![32_image_4.png](32_image_4.png)
+![32_image_4.png](img/32_image_4.png)
 
 AVAILABILITY BIAS
 
-![32_image_5.png](32_image_5.png)
+![32_image_5.png](img/32_image_5.png)
 
 LOSS AVERSION
 
-![32_image_6.png](32_image_6.png)
+![32_image_6.png](img/32_image_6.png)
 
 # Why Behavioral Economics?
 
-![33_Image_0.Png](33_Image_0.Png)
+![33_Image_0.Png](img/33_Image_0.Png)
 
 - A number of economic frameworks assume that humans evaluate financial decisions consistently & rationally 
 - **Daniel Kahneman & Amos Tversky** 
@@ -437,7 +437,7 @@ LOSS AVERSION
 
 # Three Themes In Behavioral Economics
 
-![34_Image_0.Png](34_Image_0.Png)
+![34_Image_0.Png](img/34_Image_0.Png)
 
 - **Heuristics**
 Humans make a vast majority of their decisions using mental shortcuts or rules of thumb. 
@@ -449,7 +449,7 @@ Mis-pricing or non-rational decision making
 
 # Anchoring
 
-![35_Image_0.Png](35_Image_0.Png)
+![35_Image_0.Png](img/35_Image_0.Png)
 
 - People estimate answers to new & 
 novel problems with a bias towards reference points 
@@ -462,7 +462,7 @@ novel problems with a bias towards reference points
 
 # Mental Accounting
 
-![36_Image_0.Png](36_Image_0.Png)
+![36_Image_0.Png](img/36_Image_0.Png)
 
 - Money is fungible, but people put it into separate "mental accounts" 
 - Also known as "bucketing" - Example: Lost Movie Tickets - Example: "Found Money" - Real world problems: 
@@ -470,9 +470,9 @@ Vacation Fund & Credit Card Debt
 
 # Confirmation & Hindsight Bias
 
-![37_Image_0.Png](37_Image_0.Png)
+![37_Image_0.Png](img/37_Image_0.Png)
 
-![37_Image_1.Png](37_Image_1.Png)
+![37_Image_1.Png](img/37_Image_1.Png)
 
 - Very different biases, but often conflated with each other. 
 
@@ -487,7 +487,7 @@ We overestimate our ability to predict the future based on the "obviousness" of 
 
 # Gambler'S Fallacy
 
-![38_Image_0.Png](38_Image_0.Png)
+![38_Image_0.Png](img/38_Image_0.Png)
 
 - We see patterns in independent, random chains of events. 
 
@@ -499,7 +499,7 @@ We overestimate our ability to predict the future based on the "obviousness" of 
 
 # Herd Behavior
 
-![39_Image_0.Png](39_Image_0.Png)
+![39_Image_0.Png](img/39_Image_0.Png)
 
 - We have a tendency to mimic the actions of the larger group 
 - Example: Building Psych Experiment - Example: Empty Supermarket 
@@ -515,27 +515,27 @@ It gets harder, not easier.
 
 # Overconfidence
 
-![40_Image_0.Png](40_Image_0.Png)
+![40_Image_0.Png](img/40_Image_0.Png)
 
-![40_Image_1.Png](40_Image_1.Png)
+![40_Image_1.Png](img/40_Image_1.Png)
 
-![40_Image_2.Png](40_Image_2.Png)
+![40_Image_2.Png](img/40_Image_2.Png)
 
-![40_Image_3.Png](40_Image_3.Png)
+![40_Image_3.Png](img/40_Image_3.Png)
 
-![40_Image_4.Png](40_Image_4.Png)
+![40_Image_4.Png](img/40_Image_4.Png)
 
-![40_Image_5.Png](40_Image_5.Png)
+![40_Image_5.Png](img/40_Image_5.Png)
 
-![40_Image_6.Png](40_Image_6.Png)
+![40_Image_6.Png](img/40_Image_6.Png)
 
-![40_Image_7.Png](40_Image_7.Png)
+![40_Image_7.Png](img/40_Image_7.Png)
 
-![40_Image_8.Png](40_Image_8.Png)
+![40_Image_8.Png](img/40_Image_8.Png)
 
-![40_Image_9.Png](40_Image_9.Png)
+![40_Image_9.Png](img/40_Image_9.Png)
 
-![40_Image_10.Png](40_Image_10.Png)
+![40_Image_10.Png](img/40_Image_10.Png)
 
 - In "Behaving Badly" (2016), 74% of investment managers believed that they deliver above-average performance. 
 
@@ -547,15 +547,15 @@ It gets harder, not easier.
 
 # Recency & Availability Bias
 
-![41_Image_0.Png](41_Image_0.Png)
+![41_Image_0.Png](img/41_Image_0.Png)
 
-![41_Image_1.Png](41_Image_1.Png)
+![41_Image_1.Png](img/41_Image_1.Png)
 
-![41_Image_2.Png](41_Image_2.Png)
+![41_Image_2.Png](img/41_Image_2.Png)
 
-![41_Image_3.Png](41_Image_3.Png)
+![41_Image_3.Png](img/41_Image_3.Png)
 
-![41_Image_4.Png](41_Image_4.Png)
+![41_Image_4.Png](img/41_Image_4.Png)
 
 - **Recency Bias**
 We overreact to recent events 
@@ -573,16 +573,16 @@ We assume that the data we have been provided is representative of the entire da
 
 You have a 50% chance of gaining $1,000, and A a 50% chance of gaining $0. 
 
-![42_image_0.png](42_image_0.png)
+![42_image_0.png](img/42_image_0.png)
 
 OR
 B You have a 100% chance of gaining $500.
 
-![42_image_1.png](42_image_1.png)
+![42_image_1.png](img/42_image_1.png)
 
-![42_image_2.png](42_image_2.png)
+![42_image_2.png](img/42_image_2.png)
 
-![42_image_3.png](42_image_3.png)
+![42_image_3.png](img/42_image_3.png)
 
 # Now, You Have **$2,000** And You Must Pick One Of The Following Games
 
@@ -590,19 +590,19 @@ You have a 50% chance of losing $1,000, and a 50% chance of losing $0.
 
 OR
 
-![43_image_1.png](43_image_1.png)
+![43_image_1.png](img/43_image_1.png)
 
-![43_image_0.png](43_image_0.png)
+![43_image_0.png](img/43_image_0.png)
 
 You have a 100% chance of losing $500.
 
-![43_image_2.png](43_image_2.png)
+![43_image_2.png](img/43_image_2.png)
 
-![43_image_3.png](43_image_3.png)
+![43_image_3.png](img/43_image_3.png)
 
 # Loss Aversion (Prospect Theory)
 
-![44_Image_0.Png](44_Image_0.Png)
+![44_Image_0.Png](img/44_Image_0.Png)
 
 - **We hate losses more than we love winning** - Average loss aversion across multiple studies is between 2:1 and 3:1 
 - Affects our views on a wide range of situations, including career decisions, dating, purchasing, investing and taxes. 
@@ -612,50 +612,50 @@ You have a 100% chance of losing $500.
 - **Currently under debate!***
 * https://blogs.scientificamerican.com/observations/why-the-most-important-idea-in-behavioral-decision-making-is-a-fallacy/?amp IT'S OK TO NOT BE RATIONAL
 
-![45_image_0.png](45_image_0.png)
+![45_image_0.png](img/45_image_0.png)
 
 # It'S Ok To Not Be Rational
 
-![46_Image_0.Png](46_Image_0.Png)
+![46_Image_0.Png](img/46_Image_0.Png)
 
 - As Dan Ariely beautifully put it, the key is that humans are **predictably** irrational
 - Know your own flaws, and you can set up systems to help account for them 
 - Self awareness is key 
 (yes, my Mom is a psychologist)
 
-![46_image_1.png](46_image_1.png)
+![46_image_1.png](img/46_image_1.png)
 
 # Additional Courses & Material
 
-![47_Image_0.Png](47_Image_0.Png)
+![47_Image_0.Png](img/47_Image_0.Png)
 
 - Econ 178: Behavioral Economics - Econ 278: Behavioral & Experimental Economics 
 - ACCT 618 (GSB): Market Efficiency & 
 Informational Arbitrage 
 - Coursera / Duke: Behavioral Finance https://www.coursera.org/learn/duke-behavioral-finance CS 007 QUESTIONS
 
-![48_image_0.png](48_image_0.png)
+![48_image_0.png](img/48_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর
 
 # Next Week: Getting Paid
 
-![49_image_0.png](49_image_0.png)
+![49_image_0.png](img/49_image_0.png)
 
 CS 007: SESSION 3
 
-![50_image_0.png](50_image_0.png)
+![50_image_0.png](img/50_image_0.png)
 
 PERSONAL 
 
-![50_image_1.png](50_image_1.png)
+![50_image_1.png](img/50_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
 
 # Nobel Prize In Economics For 2017
 
-![51_Image_0.Png](51_Image_0.Png)
+![51_Image_0.Png](img/51_Image_0.Png)
 
 - Richard Thaler (@R_Thaler) 
 - Professor @ University of Chicago, "Nudge" 
@@ -667,13 +667,13 @@ business/nobel-economics-richard-thaler.html
 - https://www.vox.com/policy-and-politics/
 2017/10/9/16447752/richard-thaler-nobelexplained-economics
 
-![52_image_0.png](52_image_0.png)
+![52_image_0.png](img/52_image_0.png)
 
 Understanding how people are paid
 
-![53_image_0.png](53_image_0.png)
+![53_image_0.png](img/53_image_0.png)
 
-![53_image_1.png](53_image_1.png)
+![53_image_1.png](img/53_image_1.png)
 
 # Compensation Compensation
 
@@ -684,17 +684,17 @@ Understanding how people are paid
 - **Retain employees** by fairly matching their contribution to the company 
 - Compensation is only one part of culture, but it is a critical part.
 
-![54_image_0.png](54_image_0.png)
+![54_image_0.png](img/54_image_0.png)
 
 # Components
 
-![55_Image_0.Png](55_Image_0.Png)
+![55_Image_0.Png](img/55_Image_0.Png)
 
 - **Base Pay** - **Relocation / Signing Bonus** - **Annual Bonus** - **Equity Compensation** - **Financial Benefits** - Perks
 
 # Components: Base Pay
 
-![56_Image_0.Png](56_Image_0.Png)
+![56_Image_0.Png](img/56_Image_0.Png)
 
 - **Key factors:** Level, Function, Geography
 - **Market data** easily accessible by companies, increasingly available to individuals. 
@@ -703,7 +703,7 @@ Understanding how people are paid
 
 # Components: Bonus
 
-![57_Image_0.Png](57_Image_0.Png)
+![57_Image_0.Png](img/57_Image_0.Png)
 
 - **Signing Bonus / Relocation:** Money paid up-front, at first pay period, to help with move / relocation or to improve offer without affecting base salary. Be careful: usually has a clawback.
 
@@ -714,7 +714,7 @@ Typically a company wide program, fixed potential % based on level, based on bot
 
 # Components: Equity
 
-![58_Image_0.Png](58_Image_0.Png)
+![58_Image_0.Png](img/58_Image_0.Png)
 
 - Designed to align employee compensation with shareholder results.
 
@@ -728,7 +728,7 @@ stock options & restricted stock.
 
 # Components: Financial Benefits & Perks
 
-![59_Image_0.Png](59_Image_0.Png)
+![59_Image_0.Png](img/59_Image_0.Png)
 
 - Wide variety of benefits that either offer employees tax advantages or shift costs to employer. 
 
@@ -739,15 +739,15 @@ stock options & restricted stock.
 
 Understanding how people are paid
 
-![60_image_0.png](60_image_0.png)
+![60_image_0.png](img/60_image_0.png)
 
-![60_image_1.png](60_image_1.png)
+![60_image_1.png](img/60_image_1.png)
 
 EQUITY
 
 # What Is Equity?
 
-![61_Image_0.Png](61_Image_0.Png)
+![61_Image_0.Png](img/61_Image_0.Png)
 
 - Fancy name for the value of a share of ownership of the business. 
 
@@ -761,7 +761,7 @@ EQUITY
 
 # Public Companies
 
-![62_Image_0.Png](62_Image_0.Png)
+![62_Image_0.Png](img/62_Image_0.Png)
 
 - There are ~5.8 million employer businesses in the US. Fewer than 4,000 are publicly traded. 
 
@@ -777,7 +777,7 @@ EQUITY
 
 # Private Companies
 
-![63_Image_0.Png](63_Image_0.Png)
+![63_Image_0.Png](img/63_Image_0.Png)
 
 - Most businesses are private, but for graduating engineers most relevant form are venturebacked startups. 
 
@@ -808,13 +808,13 @@ EQUITY
 
 - **Intrinsic value** is market price - strike price. **Time value** adds the value of the option itself & the flexibility it provides.
 
-![64_image_0.png](64_image_0.png)
+![64_image_0.png](img/64_image_0.png)
 
 # Restricted Stock
 
-![65_Image_0.Png](65_Image_0.Png)
+![65_Image_0.Png](img/65_Image_0.Png)
 
-![65_Image_1.Png](65_Image_1.Png)
+![65_Image_1.Png](img/65_Image_1.Png)
 
 - Restricted stock is a broad term for shares in a company that have restriction on their ownership (example: vesting). 
 
@@ -847,18 +847,18 @@ became increasingly common at large private companies when strike price becomes 
 
 - Restricted stock is much easier to value in present day dollars.
 
-![66_image_0.png](66_image_0.png)
+![66_image_0.png](img/66_image_0.png)
 
 EVALUATING OFFERS
 Looking at real world offers from 2022-23
 
-![67_image_0.png](67_image_0.png)
+![67_image_0.png](img/67_image_0.png)
 
-![67_image_1.png](67_image_1.png)
+![67_image_1.png](img/67_image_1.png)
 
 # Four Offers: Titantech Public
 
-![68_Image_0.Png](68_Image_0.Png)
+![68_Image_0.Png](img/68_Image_0.Png)
 
 - Based on real offer data - **Size**: 10,000+ people 
 - **Market capitalization** of over $100B 
@@ -873,7 +873,7 @@ match of 100%
 
 # Four Offers: Unicorntech Private
 
-![69_Image_0.Png](69_Image_0.Png)
+![69_Image_0.Png](img/69_Image_0.Png)
 
 - Based on real offer data 
 - **Size**: 500+ people 
@@ -884,7 +884,7 @@ match of 100%
 
 # Four Offers: Nextbigthing
 
-![70_Image_0.Png](70_Image_0.Png)
+![70_Image_0.Png](img/70_Image_0.Png)
 
 - Based on real offer data - **Size:** 30 people 
 - **Market capitalization**: raised $15M Series A at 
@@ -897,7 +897,7 @@ of the company, vesting over 4 years
 
 # Four Offers: Toobigtofail Jumbobank
 
-![71_Image_0.Png](71_Image_0.Png)
+![71_Image_0.Png](img/71_Image_0.Png)
 
 - Based on real offer data 
 - **Size:** 100,000+ people 
@@ -913,7 +913,7 @@ compensation in 3-5 years.
 
 # It'S Never Just About Money
 
-![72_Image_0.Png](72_Image_0.Png)
+![72_Image_0.Png](img/72_Image_0.Png)
 
 - For equity, what is the potential for upside in the value of the company? Downside? 
 
@@ -928,7 +928,7 @@ Potential future roles.
 
 # Last Word: Negotiation
 
-![73_Image_0.Png](73_Image_0.Png)
+![73_Image_0.Png](img/73_Image_0.Png)
 
 - The market is fairly efficient, but companies vary significantly in their approach. 
 
@@ -944,35 +944,35 @@ Potential future roles.
 
 CS 007 QUESTIONS
 
-![74_image_0.png](74_image_0.png)
+![74_image_0.png](img/74_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর
 
 # Week 4: Spend Less Than You Make
 
-![75_Image_0.Png](75_Image_0.Png)
+![75_Image_0.Png](img/75_Image_0.Png)
 
 - Income vs. Spending - Time frames - Budgets - Savings Rates - Personal Income Statement CS 007: SESSION 4
 
-![76_image_0.png](76_image_0.png)
+![76_image_0.png](img/76_image_0.png)
 
 PERSONAL 
 
-![76_image_1.png](76_image_1.png)
+![76_image_1.png](img/76_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
 EVALUATING OFFERS
 
-![77_image_0.png](77_image_0.png)
+![77_image_0.png](img/77_image_0.png)
 
-![77_image_1.png](77_image_1.png)
+![77_image_1.png](img/77_image_1.png)
 
 Final Thoughts
 
 # Last Word: Negotiation
 
-![78_Image_0.Png](78_Image_0.Png)
+![78_Image_0.Png](img/78_Image_0.Png)
 
 - The market is fairly efficient, but companies vary significantly in their approach. 
 
@@ -988,21 +988,21 @@ Final Thoughts
 
 CS 007
 
-![79_image_0.png](79_image_0.png)
+![79_image_0.png](img/79_image_0.png)
 
 SAVING & BUDGETS
 
 # Income & Expenses
 
-![80_Image_0.Png](80_Image_0.Png)
+![80_Image_0.Png](img/80_Image_0.Png)
 
-![80_Image_1.Png](80_Image_1.Png)
+![80_Image_1.Png](img/80_Image_1.Png)
 
 Spend less than you make
 
 # Don'T Buy Stuff You Cannot Afford
 
-![81_Image_0.Png](81_Image_0.Png)
+![81_Image_0.Png](img/81_Image_0.Png)
 
 https://www.nbc.com/saturday-night-live/video/dont-buy-stuff/n12020
 
@@ -1017,13 +1017,13 @@ intelligence.
 
 - There is no amount of money that you can't spend. There are reasons 
 
-![82_image_0.png](82_image_0.png) why multi-millionaires go broke. 
+![82_image_0.png](img/82_image_0.png) why multi-millionaires go broke. 
 
 - Very easy to measure, few people do.
 
 # Why Is This Difficult?
 
-![83_Image_0.Png](83_Image_0.Png)
+![83_Image_0.Png](img/83_Image_0.Png)
 
 - Not all expenses happen in the same time frame as income. Paycheck every two weeks vs. monthly or annual bills. 
 
@@ -1036,7 +1036,7 @@ A budget of $300 for clothing per month turns into a license to spend more than 
 
 # Stop Keeping Up With The Joneses
 
-![84_Image_0.Png](84_Image_0.Png)
+![84_Image_0.Png](img/84_Image_0.Png)
 
 - Why do we do it? 
 
@@ -1047,13 +1047,13 @@ A budget of $300 for clothing per month turns into a license to spend more than 
 SAVINGS RATES
 How Much Should You Save?
 
-![85_image_0.png](85_image_0.png)
+![85_image_0.png](img/85_image_0.png)
 
-![85_image_1.png](85_image_1.png)
+![85_image_1.png](img/85_image_1.png)
 
 # Us Savings Rate
 
-![86_Image_0.Png](86_Image_0.Png)
+![86_Image_0.Png](img/86_Image_0.Png)
 
 - Actually a number that governments track as an important macroeconomic statistic. 
 
@@ -1062,13 +1062,13 @@ in August 2017, but 8.1% in August 2019. Now 14.1% due to 2020 crisis.
 
 - Savings = Income - Spending - Does not account for non-income value generation or for future 
 
-![86_image_1.png](86_image_1.png) liabilities
+![86_image_1.png](img/86_image_1.png) liabilities
 * https://tradingeconomics.com/united-states/personal-savings
 * https://ycharts.com/indicators/personal_saving_rate
 
 # What'S The Ideal Target?
 
-![87_Image_2.Png](87_Image_2.Png)
+![87_Image_2.Png](img/87_Image_2.Png)
 
 - Most common recommendations: 
 10% & 15% 
@@ -1082,15 +1082,15 @@ in August 2017, but 8.1% in August 2019. Now 14.1% due to 2020 crisis.
 
 - You increase the pool of capital to hit that goal.
 
-![87_image_0.png](87_image_0.png)
+![87_image_0.png](img/87_image_0.png)
 
-![87_image_1.png](87_image_1.png)
+![87_image_1.png](img/87_image_1.png)
 
-![87_image_3.png](87_image_3.png)
+![87_image_3.png](img/87_image_3.png)
 
 # Employer Benefits To Saving
 
-![88_Image_0.Png](88_Image_0.Png)
+![88_Image_0.Png](img/88_Image_0.Png)
 
 - Compensation structure can affect savings rates. - If you receive a 10% bonus and don't spend it, that boosts your savings rate. 
 
@@ -1102,15 +1102,15 @@ their expected bonus before they receive it.
 
 - Employer match (e.g. 401k) can contribute significantly to overall savings rates. (It's free money. Take it.) 
 
-![88_image_1.png](88_image_1.png)
+![88_image_1.png](img/88_image_1.png)
 
 - Health savings accounts (HSA) may contribute to savings as well, although empirical evidence is limited.
 
 # Mortgage As Forced Saving
 
-![89_Image_0.Png](89_Image_0.Png)
+![89_Image_0.Png](img/89_Image_0.Png)
 
-![89_Image_1.Png](89_Image_1.Png)
+![89_Image_1.Png](img/89_Image_1.Png)
 
 - 65.6% of Americans are homeowners 
 (as of Q1 2021) 
@@ -1124,7 +1124,7 @@ their expected bonus before they receive it.
 
 # The Benefits Of Automation
 
-![90_Image_0.Png](90_Image_0.Png)
+![90_Image_0.Png](img/90_Image_0.Png)
 
 - Pay Yourself First 
 - Build a budget, calculate your savings, automate the withdrawal, just like taxes. 
@@ -1140,13 +1140,13 @@ their expected bonus before they receive it.
 * https://www.census.gov/housing/hvs/files/currenthvspress.pdf BUDGETING
 Where Does Your Money Go
 
-![91_image_0.png](91_image_0.png)
+![91_image_0.png](img/91_image_0.png)
 
-![91_image_1.png](91_image_1.png)
+![91_image_1.png](img/91_image_1.png)
 
 # What Is A Budget
 
-![92_Image_0.Png](92_Image_0.Png)
+![92_Image_0.Png](img/92_Image_0.Png)
 
 - Breakdown of spending, by category - If you are settled, you can build a surprisingly accurate budget by looking at your spending for the last 3 months and averaging. 
 
@@ -1156,7 +1156,7 @@ Where Does Your Money Go
 
 # Tracking Empirical Vs. Ideal Results
 
-![93_Image_0.Png](93_Image_0.Png)
+![93_Image_0.Png](img/93_Image_0.Png)
 
 - Big difference between what you are spending in a category & what you need to spend in a category 
 - Comparables from colleagues / 
@@ -1167,7 +1167,7 @@ friends are valuable, but need to be taken in context
 
 # Needs / Wants / Savings & Debt
 
-![94_Image_0.Png](94_Image_0.Png)
+![94_Image_0.Png](img/94_Image_0.Png)
 
 - "All Your Worth" - Elizabeth Warren 
 (D) co-authored with her daughter 
@@ -1179,7 +1179,7 @@ friends are valuable, but need to be taken in context
 
 # You Can Make It Work
 
-![95_Image_0.Png](95_Image_0.Png)
+![95_Image_0.Png](img/95_Image_0.Png)
 
 - There are people who make less than you who manage to save 
 - There are people who make more than you who go bankrupt. 
@@ -1191,9 +1191,9 @@ friends are valuable, but need to be taken in context
 
 INCOME STATEMENT
 
-![96_image_0.png](96_image_0.png)
+![96_image_0.png](img/96_image_0.png)
 
-![96_image_1.png](96_image_1.png)
+![96_image_1.png](img/96_image_1.png)
 
 Pulling It All Together
 
@@ -1203,17 +1203,17 @@ Pulling It All Together
 
 · A personal income statement reviews a time period including income, expenses, and savings.
 
-![97_image_0.png](97_image_0.png)
+![97_image_0.png](img/97_image_0.png)
 
-![97_image_2.png](97_image_2.png)
+![97_image_2.png](img/97_image_2.png)
 
-![97_image_4.png](97_image_4.png)
+![97_image_4.png](img/97_image_4.png)
 
 Revenues
 
-![97_image_1.png](97_image_1.png)
+![97_image_1.png](img/97_image_1.png)
 
-![97_image_3.png](97_image_3.png)
+![97_image_3.png](img/97_image_3.png)
 
 | Merchandise Sales   | રે     | 24,800   |
 |---------------------|-------|----------|
@@ -1289,7 +1289,7 @@ Colleagues / Friends / Family
 
 # Ongoing Maintenance
 
-![99_Image_0.Png](99_Image_0.Png)
+![99_Image_0.Png](img/99_Image_0.Png)
 
 - **Quarterly** 
 - Check your progress, real vs. 
@@ -1303,39 +1303,39 @@ expected
 
 CS 007 QUESTIONS
 
-![100_image_0.png](100_image_0.png)
+![100_image_0.png](img/100_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর
 
 # Next Week: Your Financial Profile
 
-- Liquidity ![101_image_0.png](101_image_0.png)
+- Liquidity ![101_image_0.png](img/101_image_0.png)
 
 CS 007: SESSION 5
 
-![102_image_0.png](102_image_0.png)
+![102_image_0.png](img/102_image_0.png)
 
 PERSONAL 
 
-![102_image_1.png](102_image_1.png)
+![102_image_1.png](img/102_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
 CS 007
 
-![103_image_0.png](103_image_0.png)
+![103_image_0.png](img/103_image_0.png)
 
 ASSETS & NET WORTH
 LIQUIDITY
 access to money when you need it
 
-![104_image_0.png](104_image_0.png)
+![104_image_0.png](img/104_image_0.png)
 
-![104_image_1.png](104_image_1.png)
+![104_image_1.png](img/104_image_1.png)
 
 # What Is Liquidity?
 
-![105_Image_0.Png](105_Image_0.Png)
+![105_Image_0.Png](img/105_Image_0.Png)
 
 - How quickly can you get access to cash when you need it? 
 
@@ -1347,7 +1347,7 @@ access to money when you need it
 
 # Why Does Liquidity Matter?
 
-![106_Image_0.Png](106_Image_0.Png)
+![106_Image_0.Png](img/106_Image_0.Png)
 
 - Liquidity is the only thing that matters when you need to pay for something. 
 
@@ -1355,7 +1355,7 @@ access to money when you need it
 
 # Liquidity & Returns
 
-![107_Image_0.Png](107_Image_0.Png)
+![107_Image_0.Png](img/107_Image_0.Png)
 
 - Liquidity is typically **inversely** 
 correlated with returns 
@@ -1369,9 +1369,9 @@ correlated with returns
 
 a financial buffer to protect your goals
 
-![108_image_0.png](108_image_0.png)
+![108_image_0.png](img/108_image_0.png)
 
-![108_image_1.png](108_image_1.png)
+![108_image_1.png](img/108_image_1.png)
 
 # 8: What % Of Americans Have $400 For Emergencies?
 
@@ -1379,17 +1379,17 @@ a financial buffer to protect your goals
 
 - US Federal Reserve reported in 2023 that 37% of Americans do not have sufficient 
 
-![109_image_0.png](109_image_0.png)
+![109_image_0.png](img/109_image_0.png)
 
-![109_image_1.png](109_image_1.png)
+![109_image_1.png](img/109_image_1.png)
 
-![109_image_2.png](109_image_2.png) cash savings to cover a $400 emergency expense. 
+![109_image_2.png](img/109_image_2.png) cash savings to cover a $400 emergency expense. 
 
 - Actual survey question reveals the number is 13% that self-reported that they couldn't cover the emergency through other means. 
 
 - Liquidity means having access to money when you need it. 
 
-![109_image_3.png](109_image_3.png)
+![109_image_3.png](img/109_image_3.png)
 
 - Don't underestimate the value of liquidity. 
 
@@ -1399,7 +1399,7 @@ Liquidity matters.
 
 # Why Emergency Funds?
 
-![110_Image_0.Png](110_Image_0.Png)
+![110_Image_0.Png](img/110_Image_0.Png)
 
 - Practical outcome of need for liquidity 
 - Example of "mental accounting" used for financial health 
@@ -1407,7 +1407,7 @@ Liquidity matters.
 
 # How Large Should An Emergency Fund Be?
 
-![111_Image_0.Png](111_Image_0.Png)
+![111_Image_0.Png](img/111_Image_0.Png)
 
 - Standard recommendation is at least **3 months of living** expenses in cash or cashequivalents 
 - Calculated based on impact of losing employment 
@@ -1418,7 +1418,7 @@ based on your seniority.
 
 # Common Mistakes With Emergency Funds
 
-![112_Image_0.Png](112_Image_0.Png)
+![112_Image_0.Png](img/112_Image_0.Png)
 
 - Don't focus on investment return or opportunity cost. 
 
@@ -1431,13 +1431,13 @@ based on your seniority.
 ASSETS & LIABILITIES
 what you own & what you owe
 
-![113_image_0.png](113_image_0.png)
+![113_image_0.png](img/113_image_0.png)
 
-![113_image_1.png](113_image_1.png)
+![113_image_1.png](img/113_image_1.png)
 
 # What Is An Asset?
 
-![114_Image_0.Png](114_Image_0.Png)
+![114_Image_0.Png](img/114_Image_0.Png)
 
 - Any resource with economic value 
 - **Financial assets** are investments in cash, bonds, stocks, etc. 
@@ -1455,9 +1455,9 @@ what you own & what you owe
 
 # · Debt Owed To You
 
-![115_image_0.png](115_image_0.png)
+![115_image_0.png](img/115_image_0.png)
 
-![115_image_1.png](115_image_1.png)
+![115_image_1.png](img/115_image_1.png)
 
 U.S. Stocks
 16%
@@ -1474,7 +1474,7 @@ U.S. Stocks
 
 # What About Human Capital?
 
-![116_Image_0.Png](116_Image_0.Png)
+![116_Image_0.Png](img/116_Image_0.Png)
 
 - Easy to argue that your skills & capabilities are the largest asset you have. 
 
@@ -1486,7 +1486,7 @@ U.S. Stocks
 
 # What Are Liabilities?
 
-![117_Image_0.Png](117_Image_0.Png)
+![117_Image_0.Png](img/117_Image_0.Png)
 
 - A liability is a financial obligation, typically debt. 
 
@@ -1497,11 +1497,11 @@ U.S. Stocks
 
 # Different Types Of Liability
 
-![118_image_0.png](118_image_0.png)
+![118_image_0.png](img/118_image_0.png)
 
 # Credit Scores
 
-![119_Image_0.Png](119_Image_0.Png)
+![119_Image_0.Png](img/119_Image_0.Png)
 
 - Lenders report to 3 major centralized credit agencies when you apply for debt, receive debt, and when you pay off debt. 
 
@@ -1513,7 +1513,7 @@ U.S. Stocks
 
 # Is Debt A Bad Thing?
 
-![120_Image_0.Png](120_Image_0.Png)
+![120_Image_0.Png](img/120_Image_0.Png)
 
 - Modigliani-Miller market value is determined by earning power & risk of underlying assets, not by the method of financing. 
 
@@ -1522,7 +1522,7 @@ U.S. Stocks
 
 # Should I Pay Off All Of My Debt?
 
-![121_Image_0.Png](121_Image_0.Png)
+![121_Image_0.Png](img/121_Image_0.Png)
 
 - More debt = more risk - Not all debt is the same - Compounding is not your friend with debt, especially high interest debt. 
 
@@ -1535,15 +1535,15 @@ Mortgage, Student Loans)
 
 # Balance Sheet
 
-![122_Image_0.Png](122_Image_0.Png)
+![122_Image_0.Png](img/122_Image_0.Png)
 
-![122_Image_1.Png](122_Image_1.Png)
+![122_Image_1.Png](img/122_Image_1.Png)
 
 know your net worth
 
 # What Is Your Net Worth?
 
-![123_Image_0.Png](123_Image_0.Png)
+![123_Image_0.Png](img/123_Image_0.Png)
 
 - **Assets - Liabilities** - **Total net worth** includes all assets. 
 
@@ -1582,44 +1582,44 @@ shareholders' equity.
 · Asset Turnover
 · ROA (Return on Assets)
 
-![124_image_0.png](124_image_0.png)
+![124_image_0.png](img/124_image_0.png)
 
 Balance Sheet
 
 December 31, 2016
 
-![124_image_2.png](124_image_2.png)
+![124_image_2.png](img/124_image_2.png)
 
-![124_image_1.png](124_image_1.png)
+![124_image_1.png](img/124_image_1.png)
 
-![124_image_3.png](124_image_3.png)
+![124_image_3.png](img/124_image_3.png)
 
-![124_image_4.png](124_image_4.png) ![124_image_5.png](124_image_5.png)
+![124_image_4.png](img/124_image_4.png) ![124_image_5.png](img/124_image_5.png)
 
-![124_image_6.png](124_image_6.png)
+![124_image_6.png](img/124_image_6.png)
 
-![124_image_7.png](124_image_7.png)
+![124_image_7.png](img/124_image_7.png)
 
-![124_image_8.png](124_image_8.png)
+![124_image_8.png](img/124_image_8.png)
 
-![124_image_11.png](124_image_11.png)
+![124_image_11.png](img/124_image_11.png)
 
-![124_image_12.png](124_image_12.png)
+![124_image_12.png](img/124_image_12.png)
 
-![124_image_15.png](124_image_15.png)
+![124_image_15.png](img/124_image_15.png)
 
 Total liabilities & stockholders' equity
 $ 770,000
 
-![124_image_9.png](124_image_9.png)
+![124_image_9.png](img/124_image_9.png)
 
 400,000
 
-![124_image_10.png](124_image_10.png) 420,000 481,000
+![124_image_10.png](img/124_image_10.png) 420,000 481,000
 
-![124_image_13.png](124_image_13.png)
+![124_image_13.png](img/124_image_13.png)
 
-![124_image_14.png](124_image_14.png)
+![124_image_14.png](img/124_image_14.png)
 
 * http://www.investopedia.com/articles/04/031004.asp?ad=dirN&qo=investopediaSiteSearch&qsrc=0&o=40186 The notes to the sample balance sheet have been omitted.
 
@@ -1674,29 +1674,29 @@ $ 770,000
 
 CS 007 QUESTIONS
 
-![126_image_0.png](126_image_0.png)
+![126_image_0.png](img/126_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর
 
 # Week 6: Credit & Debt. Digging Out.
 
-![127_Image_0.Png](127_Image_0.Png)
+![127_Image_0.Png](img/127_Image_0.Png)
 
 - Different types of Debt: 
 Student Loans, Auto, Credit Cards, Mortgage 
 - Secured vs. Unsecured Loans - Loans & Rates - Credit Scores - Compounding in Reverse CS 007: SESSION 6
 
-![128_image_0.png](128_image_0.png)
+![128_image_0.png](img/128_image_0.png)
 
 PERSONAL 
 
-![128_image_1.png](128_image_1.png)
+![128_image_1.png](img/128_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
 CS 007
 
-![129_image_0.png](129_image_0.png)
+![129_image_0.png](img/129_image_0.png)
 
 ALL ABOUT DEBT
 
@@ -1704,13 +1704,13 @@ ALL ABOUT DEBT
 
 good for savings. bad for debt.
 
-![130_image_0.png](130_image_0.png)
+![130_image_0.png](img/130_image_0.png)
 
-![130_image_1.png](130_image_1.png)
+![130_image_1.png](img/130_image_1.png)
 
 # The Magic Of Compounding
 
-![131_Image_0.Png](131_Image_0.Png)
+![131_Image_0.Png](img/131_Image_0.Png)
 
 - Not convinced that Albert Einstein said it was the greatest force in the universe. 
 
@@ -1724,19 +1724,19 @@ good for savings. bad for debt.
 
 # Compounding Made Easy
 
-![132_Image_0.Png](132_Image_0.Png)
+![132_Image_0.Png](img/132_Image_0.Png)
 
-![132_Image_1.Png](132_Image_1.Png)
+![132_Image_1.Png](img/132_Image_1.Png)
 
-![132_Image_2.Png](132_Image_2.Png)
+![132_Image_2.Png](img/132_Image_2.Png)
 
-![132_Image_3.Png](132_Image_3.Png)
+![132_Image_3.Png](img/132_Image_3.Png)
 
 - Rule of 72 - For each year, just use 
 =POWER(1+rate, year)
 - 4% over 20 years is 2.19x - 8% over 20 years is 4.66x - Careful: it works on debt just as well as savings... in 
 
-![132_image_4.png](132_image_4.png) reverse!
+![132_image_4.png](img/132_image_4.png) reverse!
 
 # Annual Percentage Rate (Apr)
 
@@ -1768,15 +1768,15 @@ APR = Periodic Rate x Number of Periods in a Year APY = (1 + Periodic Rate) ^ Nu
 
 student loans, mortgage, auto, credit cards
 
-![135_image_0.png](135_image_0.png)
+![135_image_0.png](img/135_image_0.png)
 
-![135_image_1.png](135_image_1.png)
+![135_image_1.png](img/135_image_1.png)
 
 # 6: Student Loans That You Are Responsible For?
 
-![136_Image_0.Png](136_Image_0.Png)
+![136_Image_0.Png](img/136_Image_0.Png)
 
-![136_Image_1.Png](136_Image_1.Png)
+![136_Image_1.Png](img/136_Image_1.Png)
 
 - National student loan debt at: 
 $1.76 Trillion 
@@ -1786,9 +1786,9 @@ $1.76 Trillion
 - 53% of borrowers owe less than 
 $20,000 in student loan debt. 
 
-![136_image_2.png](136_image_2.png)
+![136_image_2.png](img/136_image_2.png)
 
-![136_image_3.png](136_image_3.png)
+![136_image_3.png](img/136_image_3.png)
 
 - … but that represents only 13% of the total $ amount of student debt!
 
@@ -1798,9 +1798,9 @@ $20,000 in student loan debt.
 
 # Student Loans
 
-![137_Image_0.Png](137_Image_0.Png)
+![137_Image_0.Png](img/137_Image_0.Png)
 
-![137_Image_1.Png](137_Image_1.Png)
+![137_Image_1.Png](img/137_Image_1.Png)
 
 - $1.76 Trillion in the US, and growing rapidly. * - Unsecured loan provided to fund education & 
 some related expenses 
@@ -1818,7 +1818,7 @@ no interest, rate limits, payment programs, loan waivers
 
 # Mortgages
 
-![138_Image_0.Png](138_Image_0.Png)
+![138_Image_0.Png](img/138_Image_0.Png)
 
 - $19.3 Trillion in the US. $13.4 Trillion for just family residences. 
 
@@ -1836,7 +1836,7 @@ property value, credit score
 
 # Auto Loans
 
-![139_Image_0.Png](139_Image_0.Png)
+![139_Image_0.Png](img/139_Image_0.Png)
 
 - $1.58 Trillion (as of Q2 2023) - Secured loan against a vehicle, typically acquired at purchase. 
 
@@ -1849,9 +1849,9 @@ property value, credit score
 
 # Credit Cards
 
-![140_Image_0.Png](140_Image_0.Png)
+![140_Image_0.Png](img/140_Image_0.Png)
 
-![140_Image_1.Png](140_Image_1.Png)
+![140_Image_1.Png](img/140_Image_1.Png)
 
 - $1.03 Trillion (Q2 2023) - Unsecured loan, paid on a revolving 30-day cycle 
 - Wide variety of terms. Interest rates are typically variable. 
@@ -1867,13 +1867,13 @@ property value, credit score
 
 your borrowing record & why it matters
 
-![141_image_0.png](141_image_0.png)
+![141_image_0.png](img/141_image_0.png)
 
-![141_image_1.png](141_image_1.png)
+![141_image_1.png](img/141_image_1.png)
 
 # What'S A Credit Score
 
-![142_Image_0.Png](142_Image_0.Png)
+![142_Image_0.Png](img/142_Image_0.Png)
 
 - Lenders report to 3 major centralized credit agencies when you apply for debt, receive debt, and when you pay off debt. 
 
@@ -1885,7 +1885,7 @@ your borrowing record & why it matters
 
 # Why Do Credit Scores Matter?
 
-![143_Image_0.Png](143_Image_0.Png)
+![143_Image_0.Png](img/143_Image_0.Png)
 
 - Critical component in qualifying for new loans and the rate they are set at. 
 
@@ -1899,7 +1899,7 @@ your borrowing record & why it matters
 
 # How Do I Get A Credit Score?
 
-![144_Image_0.Png](144_Image_0.Png)
+![144_Image_0.Png](img/144_Image_0.Png)
 
 - **Most common methods** 
 - Secured credit cards - Student credit cards - Store credit cards 
@@ -1911,24 +1911,24 @@ your borrowing record & why it matters
 
 how much will you owe?
 
-![145_image_0.png](145_image_0.png)
+![145_image_0.png](img/145_image_0.png)
 
-![145_image_1.png](145_image_1.png)
+![145_image_1.png](img/145_image_1.png)
 
 SIMPLE LOAN
 $12,000 AT 0% INTEREST FOR 1 YEAR
 $1,300.00
 
-![146_image_0.png](146_image_0.png)
+![146_image_0.png](img/146_image_0.png)
 
 SIMPLE LOAN
 $12,000 AT 12% INTEREST FOR 1 YEAR
 
-![147_image_0.png](147_image_0.png)
+![147_image_0.png](img/147_image_0.png)
 
 # Amortization
 
-![148_Image_0.Png](148_Image_0.Png)
+![148_Image_0.Png](img/148_Image_0.Png)
 
 - The process of reducing the value of a loan by a periodic amount. 
 
@@ -1938,32 +1938,32 @@ $12,000 AT 12% INTEREST FOR 1 YEAR
 
 # Sample Auto Loan $30,000 At 2.5% Interest For 3 Years
 
-![149_image_0.png](149_image_0.png)
+![149_image_0.png](img/149_image_0.png)
 
 PAYMENT = $865.84.19 PER MONTH. FIRST MONTH = $62.50 INTEREST.
 
 # Sample Auto Loan $30,000 At 8.5% Interest For 3 Years
 
-![150_image_0.png](150_image_0.png)
+![150_image_0.png](img/150_image_0.png)
 
 PAYMENT = $947.03 PER MONTH. FIRST MONTH = $212.50 INTEREST.
 
 # Sample Mortgage $800,000 At 4% Interest For 30 Years
 
-![151_image_0.png](151_image_0.png)
+![151_image_0.png](img/151_image_0.png)
 
 PAYMENT = $3,819.32 PER MONTH. FIRST MONTH = $2,666.67 INTEREST.
 # Paying Off Debt
 
 different strategies to dig out
 
-![152_image_0.png](152_image_0.png)
+![152_image_0.png](img/152_image_0.png)
 
-![152_image_1.png](152_image_1.png)
+![152_image_1.png](img/152_image_1.png)
 
 # The Dangers Of Debt
 
-![153_Image_0.Png](153_Image_0.Png)
+![153_Image_0.Png](img/153_Image_0.Png)
 
 - Bankruptcy is literally when you can't pay your debts. You can't go bankrupt if you don't have debt. 
 
@@ -2005,7 +2005,7 @@ payment amounts for the rate & period given.
 
 # Should I Pay Off All Of My Debt?
 
-![155_Image_0.Png](155_Image_0.Png)
+![155_Image_0.Png](img/155_Image_0.Png)
 
 - More debt = more risk - Not all debt is the same - Compounding is not your friend with debt, especially high interest debt. 
 
@@ -2018,31 +2018,31 @@ Mortgage, Student Loans)
 
 CS 007 QUESTIONS
 
-![156_image_0.png](156_image_0.png)
+![156_image_0.png](img/156_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর
 
 # Week 7: Good Investing Is Boring
 
-![157_Image_0.Png](157_Image_0.Png)
+![157_Image_0.Png](img/157_Image_0.Png)
 
-![157_Image_1.Png](157_Image_1.Png)
+![157_Image_1.Png](img/157_Image_1.Png)
 
 - The Magic of Compounding - How to Calculate Returns - Different Types of Investments: 
 Stocks, Bonds, Commodities, Real Estate 
 - Diversification - Modern Portfolio Construction - Taxes Matter CS 007: SESSION 7
 
-![158_image_0.png](158_image_0.png)
+![158_image_0.png](img/158_image_0.png)
 
 PERSONAL 
 
-![158_image_1.png](158_image_1.png)
+![158_image_1.png](img/158_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
 CS 007
 
-![159_image_0.png](159_image_0.png)
+![159_image_0.png](img/159_image_0.png)
 
 GOOD INVESTING IS BORING
 
@@ -2050,13 +2050,13 @@ GOOD INVESTING IS BORING
 
 good for savings. bad for debt.
 
-![160_image_0.png](160_image_0.png)
+![160_image_0.png](img/160_image_0.png)
 
-![160_image_1.png](160_image_1.png)
+![160_image_1.png](img/160_image_1.png)
 
 # The Magic Of Compounding
 
-![161_Image_0.Png](161_Image_0.Png)
+![161_Image_0.Png](img/161_Image_0.Png)
 
 - Not convinced that Albert Einstein said it was the greatest force in the universe. 
 
@@ -2070,19 +2070,19 @@ good for savings. bad for debt.
 
 # Compounding Made Easy
 
-![162_Image_0.Png](162_Image_0.Png)
+![162_Image_0.Png](img/162_Image_0.Png)
 
-![162_Image_1.Png](162_Image_1.Png)
+![162_Image_1.Png](img/162_Image_1.Png)
 
-![162_Image_2.Png](162_Image_2.Png)
+![162_Image_2.Png](img/162_Image_2.Png)
 
-![162_Image_3.Png](162_Image_3.Png)
+![162_Image_3.Png](img/162_Image_3.Png)
 
 - Rule of 72 - For each year, just use 
 =POWER(1+rate, year)
 - 4% over 20 years is 2.19x - 8% over 20 years is 4.66x - Careful: it works on debt just as well as savings... in 
 
-![162_image_4.png](162_image_4.png) reverse!
+![162_image_4.png](img/162_image_4.png) reverse!
 
 # Annual Percentage Rate (Apr)
 
@@ -2113,9 +2113,9 @@ APR = Periodic Rate x Number of Periods in a Year APY = (1 + Periodic Rate) ^ Nu
 CLASS SURVEY
 how do we feel about investing?
 
-![165_image_0.png](165_image_0.png)
+![165_image_0.png](img/165_image_0.png)
 
-![165_image_1.png](165_image_1.png)
+![165_image_1.png](img/165_image_1.png)
 
 # In Which Type Of Market Would You Prefer To Invest?
 
@@ -2125,9 +2125,9 @@ In which type of market would you prefer to invest?
 2 16 / 24%
 3 14 / 21%
 
-![166_image_0.png](166_image_0.png)
+![166_image_0.png](img/166_image_0.png)
 
-![166_image_1.png](166_image_1.png)
+![166_image_1.png](img/166_image_1.png)
 
 | A Rising Market    |
 |--------------------|
@@ -2144,7 +2144,7 @@ In which type of market would you prefer to sell your investments?
 | 2                                            | A Declining Market | 19 / 29% |
 | 3                                            | Either is Fine     | 16 / 24% |
 
-![167_image_0.png](167_image_0.png)
+![167_image_0.png](img/167_image_0.png)
 
 # In Which Type Of Market Would You Prefer To Sell?
 
@@ -2158,41 +2158,41 @@ Which investment would you prefer?
 | 2  | It doesn't matter                            | 24 / 36% |
 | 3  | The one that previously performed the worst  | 5 / 8%   |
 
-![168_image_3.png](168_image_3.png)
+![168_image_3.png](img/168_image_3.png)
 
-![168_image_4.png](168_image_4.png)
+![168_image_4.png](img/168_image_4.png)
 
-![168_image_5.png](168_image_5.png)
+![168_image_5.png](img/168_image_5.png)
 
-![168_image_6.png](168_image_6.png)
+![168_image_6.png](img/168_image_6.png)
 
-![168_image_7.png](168_image_7.png)
+![168_image_7.png](img/168_image_7.png)
 
-![168_image_9.png](168_image_9.png)
+![168_image_9.png](img/168_image_9.png)
 
-![168_image_11.png](168_image_11.png)
+![168_image_11.png](img/168_image_11.png)
 
-![168_image_12.png](168_image_12.png)
+![168_image_12.png](img/168_image_12.png)
 
-![168_image_13.png](168_image_13.png)
+![168_image_13.png](img/168_image_13.png)
 
-![168_image_14.png](168_image_14.png)
+![168_image_14.png](img/168_image_14.png)
 
-![168_image_15.png](168_image_15.png)
+![168_image_15.png](img/168_image_15.png)
 
-![168_image_16.png](168_image_16.png)
+![168_image_16.png](img/168_image_16.png)
 
-![168_image_17.png](168_image_17.png)
+![168_image_17.png](img/168_image_17.png)
 
-![168_image_0.png](168_image_0.png)
+![168_image_0.png](img/168_image_0.png)
 
-![168_image_1.png](168_image_1.png)
+![168_image_1.png](img/168_image_1.png)
 
-![168_image_2.png](168_image_2.png)
+![168_image_2.png](img/168_image_2.png)
 
-![168_image_8.png](168_image_8.png)
+![168_image_8.png](img/168_image_8.png)
 
-![168_image_10.png](168_image_10.png)
+![168_image_10.png](img/168_image_10.png)
 
 # How Do You Maintain The Right Risk/Reward Balance?
 
@@ -2207,41 +2207,41 @@ How do you maintain your ideal risk / reward balance?
 
 3 
 
-![169_image_5.png](169_image_5.png)
+![169_image_5.png](img/169_image_5.png)
 
-![169_image_6.png](169_image_6.png)
+![169_image_6.png](img/169_image_6.png)
 
-![169_image_7.png](169_image_7.png)
+![169_image_7.png](img/169_image_7.png)
 
-![169_image_8.png](169_image_8.png)
+![169_image_8.png](img/169_image_8.png)
 
-![169_image_9.png](169_image_9.png)
+![169_image_9.png](img/169_image_9.png)
 
-![169_image_16.png](169_image_16.png)
+![169_image_16.png](img/169_image_16.png)
 
 の 1000 000 000 000 000 000 000 000 000 000 000 000 
 
-![169_image_0.png](169_image_0.png)
+![169_image_0.png](img/169_image_0.png)
 
-![169_image_1.png](169_image_1.png)
+![169_image_1.png](img/169_image_1.png)
 
-![169_image_2.png](169_image_2.png)
+![169_image_2.png](img/169_image_2.png)
 
-![169_image_3.png](169_image_3.png)
+![169_image_3.png](img/169_image_3.png)
 
-![169_image_4.png](169_image_4.png)
+![169_image_4.png](img/169_image_4.png)
 
-![169_image_10.png](169_image_10.png)
+![169_image_10.png](img/169_image_10.png)
 
-![169_image_11.png](169_image_11.png)
+![169_image_11.png](img/169_image_11.png)
 
-![169_image_12.png](169_image_12.png)
+![169_image_12.png](img/169_image_12.png)
 
-![169_image_13.png](169_image_13.png)
+![169_image_13.png](img/169_image_13.png)
 
-![169_image_14.png](169_image_14.png)
+![169_image_14.png](img/169_image_14.png)
 
-![169_image_15.png](169_image_15.png)
+![169_image_15.png](img/169_image_15.png)
 
 # Which Investment Would You Prefer?
 
@@ -2250,27 +2250,27 @@ Which investment would you prefer?
 66 out of 66 people answered this question 1 Index fund with a 0.04% fee 43 / 65%
 2
 
-![170_image_0.png](170_image_0.png)
+![170_image_0.png](img/170_image_0.png)
 
 Great mutual fund with a 1% management fee
 
 | 23 / 35%   |
 |------------|
 
-![170_image_2.png](170_image_2.png)
+![170_image_2.png](img/170_image_2.png)
 
-![170_image_1.png](170_image_1.png)
+![170_image_1.png](img/170_image_1.png)
 
 TYPES OF INVESTMENTS
 stocks, bonds, commodities, real estate
 
-![171_image_0.png](171_image_0.png)
+![171_image_0.png](img/171_image_0.png)
 
-![171_image_1.png](171_image_1.png)
+![171_image_1.png](img/171_image_1.png)
 
 # Common Ways To Invest
 
-![172_Image_0.Png](172_Image_0.Png)
+![172_Image_0.Png](img/172_Image_0.Png)
 
 - We have aggregated over 200 years of data on the primary ways that people invest their money. 
 
@@ -2281,7 +2281,7 @@ stocks, bonds, commodities, real estate
 
 # Stocks / Equities
 
-![173_Image_0.Png](173_Image_0.Png)
+![173_Image_0.Png](img/173_Image_0.Png)
 
 - Stock is a security that represents ownership in a corporation. 
 
@@ -2296,13 +2296,13 @@ stocks, bonds, commodities, real estate
 
 Emerging Markets 
 
-![173_image_1.png](173_image_1.png)
+![173_image_1.png](img/173_image_1.png)
 
 - Growth vs. Value
 
 # Bonds
 
-![174_Image_0.Png](174_Image_0.Png)
+![174_Image_0.Png](img/174_Image_0.Png)
 
 - A bond is a debt investment representing a portion of a loan. 
 
@@ -2317,7 +2317,7 @@ interest income.
 
 # Commodities
 
-![175_Image_0.Png](175_Image_0.Png)
+![175_Image_0.Png](img/175_Image_0.Png)
 
 - A commodity is a basic good used in commerce. 
 
@@ -2326,7 +2326,7 @@ interest income.
 
 # Real Estate
 
-![176_Image_0.Png](176_Image_0.Png)
+![176_Image_0.Png](img/176_Image_0.Png)
 
 - Real estate is a combination of land & facilities that occupy that land. 
 
@@ -2341,13 +2341,13 @@ interest income.
 
 don't turn down a free lunch
 
-![177_image_0.png](177_image_0.png)
+![177_image_0.png](img/177_image_0.png)
 
-![177_image_1.png](177_image_1.png)
+![177_image_1.png](img/177_image_1.png)
 
 # Asset Classes: Volatility & Correlation
 
-![178_Image_0.Png](178_Image_0.Png)
+![178_Image_0.Png](img/178_Image_0.Png)
 
 - Asset classes vary in terms of historical return, but also vary in volatility 
 - Movements of different asset classes vary in correlation 
@@ -2357,7 +2357,7 @@ don't turn down a free lunch
 
 # Risk-Adjusted Return
 
-![179_Image_0.Png](179_Image_0.Png)
+![179_Image_0.Png](img/179_Image_0.Png)
 
 - Absolute return of an asset class isn't the only thing that matters. Volatility also matters. 
 
@@ -2373,17 +2373,17 @@ Nobel Prize.
 
 # - The Markowitz Bullet
 
-![180_image_0.png](180_image_0.png)
+![180_image_0.png](img/180_image_0.png)
 
 * https://en.wikipedia.org/wiki/Modern_portfolio_theory
 
 # Taxes Matter
 
-![181_Image_0.Png](181_Image_0.Png)
+![181_Image_0.Png](img/181_Image_0.Png)
 
-![181_Image_1.Png](181_Image_1.Png)
+![181_Image_1.Png](img/181_Image_1.Png)
 
-![181_Image_2.Png](181_Image_2.Png)
+![181_Image_2.Png](img/181_Image_2.Png)
 
 - Tax rates vary for interest, dividends & capital gains. 
 
@@ -2395,13 +2395,13 @@ Nobel Prize.
 * https://research.wealthfront.com/whitepapers/investment-methodology/
 what to do & why you do it
 
-![182_image_0.png](182_image_0.png)
+![182_image_0.png](img/182_image_0.png)
 
-![182_image_1.png](182_image_1.png)
+![182_image_1.png](img/182_image_1.png)
 
 # How To Invest Brokerage Accounts
 
-![183_Image_0.Png](183_Image_0.Png)
+![183_Image_0.Png](img/183_Image_0.Png)
 
 - In most countries, large banks provide brokerage services. 
 
@@ -2420,7 +2420,7 @@ $500,000. Covers when brokerages inappropriately endanger customer assets.
 
 # How Do You Measure Investment Return?
 
-![184_Image_0.Png](184_Image_0.Png)
+![184_Image_0.Png](img/184_Image_0.Png)
 
 - Alpha α is defined as excess return over the market rate of return. 
 
@@ -2433,7 +2433,7 @@ $500,000. Covers when brokerages inappropriately endanger customer assets.
 
 # Types Of Investment Approach
 
-![185_Image_0.Png](185_Image_0.Png)
+![185_Image_0.Png](img/185_Image_0.Png)
 
 - **Fundamental analysis** attempts to choose securities based on the business performance & valuation. 
 
@@ -2446,7 +2446,7 @@ $500,000. Covers when brokerages inappropriately endanger customer assets.
 
 # The Secular Rise Of Index Funds
 
-![186_Image_0.Png](186_Image_0.Png)
+![186_Image_0.Png](img/186_Image_0.Png)
 
 - **A Random Walk Down Wall Street** was published in 1973. 
 
@@ -2465,7 +2465,7 @@ otherwise, you are doing it wrong.
 
 # Good Investing Is Boring
 
-![188_Image_0.Png](188_Image_0.Png)
+![188_Image_0.Png](img/188_Image_0.Png)
 
 - No one wants to be average, but with investing, "average" is actually well above average. 
 
@@ -2476,7 +2476,7 @@ otherwise, you are doing it wrong.
 
 # A Random Walk Down Wall Street
 
-![189_Image_0.Png](189_Image_0.Png)
+![189_Image_0.Png](img/189_Image_0.Png)
 
 - Over 40 years old, by famous Princeton economist Burt Malkiel 
 - Most professionals fail to beat a simple market-weighted index, net of fees. 
@@ -2487,13 +2487,13 @@ otherwise, you are doing it wrong.
 
 - Keep your fees low by using index funds for each asset.
 
-![189_image_1.png](189_image_1.png)
+![189_image_1.png](img/189_image_1.png)
 
-![189_image_2.png](189_image_2.png)
+![189_image_2.png](img/189_image_2.png)
 
 # Retail Investors Do Worse Than The Pros
 
-![190_Image_0.Png](190_Image_0.Png)
+![190_Image_0.Png](img/190_Image_0.Png)
 
 - Dalbar publishes research annually covering 20 years of retail investor returns. 
 
@@ -2505,7 +2505,7 @@ otherwise, you are doing it wrong.
 
 # Market Timing Is Terrible
 
-![191_Image_0.Png](191_Image_0.Png)
+![191_Image_0.Png](img/191_Image_0.Png)
 
 - History of money flowing into equities shows how badly people do. 
 
@@ -2585,7 +2585,7 @@ TIP. AGG.
 
 # Rebalancing
 
-![193_Image_0.Png](193_Image_0.Png)
+![193_Image_0.Png](img/193_Image_0.Png)
 
 - Over long time periods, asset allocation will drift due to varied performance. 
 
@@ -2598,76 +2598,76 @@ TIP. AGG.
 FOUR KEYS TO GOOD INVESTING
 1 **Keep Saving**
 
-![194_image_1.png](194_image_1.png)
+![194_image_1.png](img/194_image_1.png)
 
-![194_image_2.png](194_image_2.png)
+![194_image_2.png](img/194_image_2.png)
 
-![194_image_0.png](194_image_0.png)
+![194_image_0.png](img/194_image_0.png)
 
 Stay Diversified 2 **Low Fees**
 
-![194_image_4.png](194_image_4.png)
+![194_image_4.png](img/194_image_4.png)
 
-![194_image_6.png](194_image_6.png)
+![194_image_6.png](img/194_image_6.png)
 
 4 **Minimize Taxes**
 
-![194_image_3.png](194_image_3.png)
+![194_image_3.png](img/194_image_3.png)
 
-![194_image_5.png](194_image_5.png)
+![194_image_5.png](img/194_image_5.png)
 
 IT'S A MARATHON, NOT A SPRINT.
 
 Investing is
 
-![195_image_0.png](195_image_0.png)
+![195_image_0.png](img/195_image_0.png)
 
 not easy.
 
 simple, but
 
-![195_image_1.png](195_image_1.png)
+![195_image_1.png](img/195_image_1.png)
 
 - Warren Buffett
 CS 007 QUESTIONS
 
-![196_image_0.png](196_image_0.png)
+![196_image_0.png](img/196_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর
 
 # Week 8: Financial Goals
 
-![197_Image_0.Png](197_Image_0.Png)
+![197_Image_0.Png](img/197_Image_0.Png)
 
 - How to Plan for Financial Goals - Different Types of Goals: 
 Travel, Marriage, House, Children, College, Starting a Business, Retirement 
 - Life Insurance - Couples & Financial Decisions CS 007: SESSION 8
 
-![198_image_0.png](198_image_0.png)
+![198_image_0.png](img/198_image_0.png)
 
 PERSONAL 
 
-![198_image_1.png](198_image_1.png)
+![198_image_1.png](img/198_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
 CS 007
 
-![199_image_0.png](199_image_0.png)
+![199_image_0.png](img/199_image_0.png)
 
 FINANCIAL 
 
-![199_image_1.png](199_image_1.png) PLANNING & GOALS
+![199_image_1.png](img/199_image_1.png) PLANNING & GOALS
 PLANNING
 how to set financial goals and meet them
 
-![200_image_0.png](200_image_0.png)
+![200_image_0.png](img/200_image_0.png)
 
-![200_image_1.png](200_image_1.png)
+![200_image_1.png](img/200_image_1.png)
 
 # What Is A Financial Plan?
 
-![201_Image_0.Png](201_Image_0.Png)
+![201_Image_0.Png](img/201_Image_0.Png)
 
 - Comprehensive evaluation of current & future financial state. 
 
@@ -2677,7 +2677,7 @@ how to set financial goals and meet them
 
 # Why Is Financial Planning Needed?
 
-![202_Image_0.Png](202_Image_0.Png)
+![202_Image_0.Png](img/202_Image_0.Png)
 
 - People tend to spend more than they need to, if they lack sufficient motivation for saving. 
 
@@ -2688,7 +2688,7 @@ how to set financial goals and meet them
 
 # What Are Financial Advisors?
 
-![203_Image_0.Png](203_Image_0.Png)
+![203_Image_0.Png](img/203_Image_0.Png)
 
 - Term can be used by anyone. Be extremely wary. - Two accreditations are well respected: 
 CFP & CFA. 
@@ -2705,7 +2705,7 @@ CFP & CFA.
 
 # Why Do Financial Advisors Charge So Much?
 
-![204_Image_0.Png](204_Image_0.Png)
+![204_Image_0.Png](img/204_Image_0.Png)
 
 - A financial advisor has a very small client base, typically between 50 - 75 clients. 
 
@@ -2720,13 +2720,13 @@ CFP & CFA.
 
 e.g. build an emergency fund, retire
 
-![205_image_0.png](205_image_0.png)
+![205_image_0.png](img/205_image_0.png)
 
-![205_image_1.png](205_image_1.png)
+![205_image_1.png](img/205_image_1.png)
 
 # What Are Financial Goals?
 
-![206_Image_0.Png](206_Image_0.Png)
+![206_Image_0.Png](img/206_Image_0.Png)
 
 - Any goal with significant financial requirements (assets / income) 
 - **Time frame matters.**
@@ -2787,16 +2787,16 @@ Short-term, medium-term, long-term, indeterminate & conditional goals.
 
 Simulated paths of the value of an asset using Monte Carlo
 
-![207_image_0.png](207_image_0.png)
+![207_image_0.png](img/207_image_0.png)
 
-![207_image_1.png](207_image_1.png)
+![207_image_1.png](img/207_image_1.png)
 
 Value ($)
 * https://fred.stlouisfed.org/series/T10YIE
 
 # Simple Goal: Emergency Fund
 
-![208_Image_0.Png](208_Image_0.Png)
+![208_Image_0.Png](img/208_Image_0.Png)
 
 - One of the most important short term goals. 
 
@@ -2808,7 +2808,7 @@ Value ($)
 
 # More Complex Goal: House
 
-![209_Image_0.Png](209_Image_0.Png)
+![209_Image_0.Png](img/209_Image_0.Png)
 
 - US Census: 65.4% homeownership rate 
 (as of Q3 2021) 
@@ -2827,7 +2827,7 @@ combination of beating inflation & leveraged investment.
 
 # More Complex Goal: College
 
-![210_Image_0.Png](210_Image_0.Png)
+![210_Image_0.Png](img/210_Image_0.Png)
 
 - Very expensive goal. Wealthfront estimates that sending my son to Stanford in 2027 will cost $358,942. Inflation adjusted! 
 
@@ -2858,25 +2858,25 @@ combination of beating inflation & leveraged investment.
 Your Risk Tolerance:  -  10.0  +
  Taxable Investment Mix Taxable individual, joint, and trust accounts Retirement Investment Mix IRAs & Rollover 401(k)s
 
-![211_image_0.png](211_image_0.png)
+![211_image_0.png](img/211_image_0.png)
 
 16%
  ୧୯
 
 5%
 
-![211_image_1.png](211_image_1.png)
+![211_image_1.png](img/211_image_1.png)
 
 | U.S. Stocks   | Foreign   | Emerging   | Dividend   | Real Estate   | Corporate   | Emerging   |
 |---------------|-----------|------------|------------|---------------|-------------|------------|
 | Stocks        | Markets   | Stocks     | Bonds      | Market        |             |            |
 |               | Bonds     |            |            |               |             |            |
 
-![211_image_2.png](211_image_2.png)
+![211_image_2.png](img/211_image_2.png)
 
 # Complex: Retirement
 
-![212_Image_0.Png](212_Image_0.Png)
+![212_Image_0.Png](img/212_Image_0.Png)
 
 - **Projecting Income**
 Can use wage inflation as a proxy 
@@ -2892,13 +2892,13 @@ Ensure you know the retirement plans of each partner, and have estimated timing 
 
 how financial planning changes with a partner
 
-![213_image_0.png](213_image_0.png)
+![213_image_0.png](img/213_image_0.png)
 
-![213_image_1.png](213_image_1.png)
+![213_image_1.png](img/213_image_1.png)
 
 # Planning For Two (Or More)
 
-![214_Image_0.Png](214_Image_0.Png)
+![214_Image_0.Png](img/214_Image_0.Png)
 
 - Financial planning is difficult. 
 
@@ -2926,9 +2926,9 @@ communication & values.
 
 PERSONAL 1 JOINT ACCOUNT PERSONAL 2
 
-![215_image_0.png](215_image_0.png)
+![215_image_0.png](img/215_image_0.png)
 
-![215_image_1.png](215_image_1.png)
+![215_image_1.png](img/215_image_1.png)
 
 # Couples: Saving & Investing
 
@@ -2943,19 +2943,19 @@ PERSONAL 1 JOINT ACCOUNT PERSONAL 2
 - Quality of benefits at different companies can vary significantly (e.g. Google 401(k) vs. a startup 401(k)) 
 - Likely needs to be revisited as situations adapt / change.
 
-![216_image_0.png](216_image_0.png)
+![216_image_0.png](img/216_image_0.png)
 
 # Life Insurance
 
 how does it work? when does it make sense?
 
-![217_image_0.png](217_image_0.png)
+![217_image_0.png](img/217_image_0.png)
 
-![217_image_1.png](217_image_1.png)
+![217_image_1.png](img/217_image_1.png)
 
 # Life Insurance: Why Does It Exist?
 
-![218_Image_0.Png](218_Image_0.Png)
+![218_Image_0.Png](img/218_Image_0.Png)
 
 ## - **Death Insurance**
 
@@ -2965,7 +2965,7 @@ how does it work? when does it make sense?
 
 - There is a fundamental economic benefit to pooling risk around uncertainty. When a person will die is the original actuarial case for adding value this way. 
 
-![218_image_1.png](218_image_1.png)
+![218_image_1.png](img/218_image_1.png)
 
 - Life insurance has several tax benefits. The owner is not taxed on the potential benefit size, and the beneficiary is not taxes on receipt.
 
@@ -2983,15 +2983,15 @@ how does it work? when does it make sense?
 
 - High expenses & fees, with punitive clauses for exiting agreements makes life insurance a poor financial product choice for long term investment. **Stick with term life** insurance.
 
-![219_image_0.png](219_image_0.png)
+![219_image_0.png](img/219_image_0.png)
 
 LEVEL DECREASING WHOLE UNIVERSAL **VARIABLE**
 
-![219_image_1.png](219_image_1.png)
+![219_image_1.png](img/219_image_1.png)
 
 # Life Insurance: How Much Do You Need?
 
-![220_Image_0.Png](220_Image_0.Png)
+![220_Image_0.Png](img/220_Image_0.Png)
 
 - Think of costs associated with death. - Think of dependents and expenses that require your income for funding. House. College. **Retirement**. 
 
@@ -3003,36 +3003,36 @@ LEVEL DECREASING WHOLE UNIVERSAL **VARIABLE**
 
 * 
 
-![220_image_1.png](220_image_1.png)
+![220_image_1.png](img/220_image_1.png)
 
-![220_image_2.png](220_image_2.png)
+![220_image_2.png](img/220_image_2.png)
 
-![220_image_3.png](220_image_3.png)
+![220_image_3.png](img/220_image_3.png)
 
-![220_image_4.png](220_image_4.png)
+![220_image_4.png](img/220_image_4.png)
 
-![220_image_5.png](220_image_5.png)
+![220_image_5.png](img/220_image_5.png)
 
 CS 007 QUESTIONS
 
-![221_image_0.png](221_image_0.png)
+![221_image_0.png](img/221_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর CS 007: SESSION 9
 
-![222_image_0.png](222_image_0.png)
+![222_image_0.png](img/222_image_0.png)
 
 PERSONAL 
 
-![222_image_1.png](222_image_1.png)
+![222_image_1.png](img/222_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
 
-![223_image_0.png](223_image_0.png)
+![223_image_0.png](img/223_image_0.png)
 
 # Why Does Real Estate Matter?
 
-![224_Image_0.Png](224_Image_0.Png)
+![224_Image_0.Png](img/224_Image_0.Png)
 
 - People need **a place to live** - The **largest financial** 
 commitment that most households in the US make. 
@@ -3047,15 +3047,15 @@ portion of their net worth.
 
 BUYING REAL ESTATE
 
-![225_image_0.png](225_image_0.png)
+![225_image_0.png](img/225_image_0.png)
 
-![225_image_1.png](225_image_1.png)
+![225_image_1.png](img/225_image_1.png)
 
 why & how
 
 # Why Do People Buy (Vs. Rent) Real Estate?
 
-![226_Image_0.Png](226_Image_0.Png)
+![226_Image_0.Png](img/226_Image_0.Png)
 
 - Need **a place to live** - They are looking for **control**
 over where they live for a long period of time. 
@@ -3067,9 +3067,9 @@ attachment to the idea of owning a place to live.
 
 # How Is Real Estate Bought & Sold?
 
-![227_Image_0.Png](227_Image_0.Png)
+![227_Image_0.Png](img/227_Image_0.Png)
 
-![227_Image_1.Png](227_Image_1.Png)
+![227_Image_1.Png](img/227_Image_1.Png)
 
 - Typically a brokered transaction. US 
 standard is 6% of the sales price is split between real estate agents. 
@@ -3087,7 +3087,7 @@ standard is 6% of the sales price is split between real estate agents.
 
 # What Are The Immediate Costs For Buyers?
 
-![228_Image_0.Png](228_Image_0.Png)
+![228_Image_0.Png](img/228_Image_0.Png)
 
 ## Direct Costs
 
@@ -3104,7 +3104,7 @@ expensive to access that capital once locked in.
 
 # What Are The Ongoing Costs For Buyers?
 
-![229_Image_0.Png](229_Image_0.Png)
+![229_Image_0.Png](img/229_Image_0.Png)
 
 - **Property Tax.** Varies by state / locality, typically ~1% of property value per yr. 
 
@@ -3118,7 +3118,7 @@ expensive to access that capital once locked in.
 
 # How Do You Get A Mortgage?
 
-![230_Image_0.Png](230_Image_0.Png)
+![230_Image_0.Png](img/230_Image_0.Png)
 
 - Most banks base **mortgage qualification** on two factors. 
 
@@ -3134,13 +3134,13 @@ expensive to access that capital once locked in.
 RENTING
  benefits & costs 
 
-![231_image_0.png](231_image_0.png)
+![231_image_0.png](img/231_image_0.png)
 
-![231_image_1.png](231_image_1.png)
+![231_image_1.png](img/231_image_1.png)
 
 # Why Do People Rent (Vs. Buy) Real Estate?
 
-![232_Image_0.Png](232_Image_0.Png)
+![232_Image_0.Png](img/232_Image_0.Png)
 
 - Need **a place to live** - They are looking for **flexibility**
 in where they live. 
@@ -3155,7 +3155,7 @@ flow is much simpler.
 
 # What Do You Need To Rent Real Estate?
 
-![233_Image_0.Png](233_Image_0.Png)
+![233_Image_0.Png](img/233_Image_0.Png)
 
 - Find a landlord with a property that meets your needs and is available for rent. 
 
@@ -3171,7 +3171,7 @@ flow is much simpler.
 
 # What Are The Major Costs For Renters?
 
-![234_Image_0.Png](234_Image_0.Png)
+![234_Image_0.Png](img/234_Image_0.Png)
 
 ## Immediate Costs
 
@@ -3186,13 +3186,13 @@ Ongoing Costs
 BUY VS. RENT
 one of largest financial decisions
 
-![235_image_0.png](235_image_0.png)
+![235_image_0.png](img/235_image_0.png)
 
-![235_image_1.png](235_image_1.png)
+![235_image_1.png](img/235_image_1.png)
 
 # Big Decision, Strong Emotions
 
-![236_Image_0.Png](236_Image_0.Png)
+![236_Image_0.Png](img/236_Image_0.Png)
 
 - Significant **non-financial** considerations. - High transaction costs mean purchasing real estate is very risky over short periods of time. 
 
@@ -3207,7 +3207,7 @@ schools significant.
 
 # Financial Benefits Of Renting
 
-![237_Image_0.Png](237_Image_0.Png)
+![237_Image_0.Png](img/237_Image_0.Png)
 
 - **Liquidity.** Your capital is not tied up in a large down payment, and you are not forced to make large principal payments. 
 
@@ -3222,7 +3222,7 @@ schools significant.
 
 # Financial Benefits Of Owning
 
-![238_Image_0.Png](238_Image_0.Png)
+![238_Image_0.Png](img/238_Image_0.Png)
 
 - **Leveraged Investment.** Most of the investment is made with an inexpensive loan, with leverage of 5x (or more). Gains accrue to the owner, not the bank. 
 
@@ -3271,7 +3271,7 @@ INTEREST & PROPERTY TAX MATTERS
 
 - **Capital Gain.** Need to project likely sale price, which has significant uncertainty.
 
-![240_image_0.png](240_image_0.png)
+![240_image_0.png](img/240_image_0.png)
 
 * https://www.zillow.com/palo-alto-ca/home-values/
 
@@ -3281,7 +3281,7 @@ INTEREST & PROPERTY TAX MATTERS
 
 - Down payment is locked away, cannot easily be spent. 
 
-![241_image_0.png](241_image_0.png)
+![241_image_0.png](img/241_image_0.png)
 
 - Principal payments in mortgage are a form of forced savings. 
 
@@ -3296,13 +3296,13 @@ INTEREST & PROPERTY TAX MATTERS
 INVESTING IN REAL ESTATE
 historical data, approaches, pros & cons
 
-![242_image_0.png](242_image_0.png)
+![242_image_0.png](img/242_image_0.png)
 
-![242_image_1.png](242_image_1.png)
+![242_image_1.png](img/242_image_1.png)
 
 # Real Estate
 
-![243_Image_0.Png](243_Image_0.Png)
+![243_Image_0.Png](img/243_Image_0.Png)
 
 - Real estate is a combination of land & facilities that occupy that land. 
 
@@ -3315,7 +3315,7 @@ historical data, approaches, pros & cons
 
 # Common Ways To Invest
 
-![244_Image_0.Png](244_Image_0.Png)
+![244_Image_0.Png](img/244_Image_0.Png)
 
 - With over 100 years of data, price trends on different asset classes are fairly clear. 
 
@@ -3376,7 +3376,7 @@ https://www.frbsf.org/economic-research/files/wp2017-25.pdf https://www.investop
 
 Figure 6: Trends in real returns on equity and housing
 
-![246_image_0.png](246_image_0.png)
+![246_image_0.png](img/246_image_0.png)
 
 https://www.frbsf.org/economic-research/files/wp2017-25.pdf
 
@@ -3387,18 +3387,18 @@ Figure 8: Risk and return of equity and housing
 Return and Risk
 Sharpe ratios
 
-![247_image_0.png](247_image_0.png)
+![247_image_0.png](img/247_image_0.png)
 
 https://www.frbsf.org/economic-research/files/wp2017-25.pdf RENTAL PROPERTIES
 rationale, financial costs & benefits
 
-![248_image_0.png](248_image_0.png)
+![248_image_0.png](img/248_image_0.png)
 
-![248_image_1.png](248_image_1.png)
+![248_image_1.png](img/248_image_1.png)
 
 # What Is A Rental Property?
 
-![249_Image_0.Png](249_Image_0.Png)
+![249_Image_0.Png](img/249_Image_0.Png)
 
 - Any property owned with the purpose of leasing to a tenant for income. 
 
@@ -3408,7 +3408,7 @@ rationale, financial costs & benefits
 
 # Financial Details For Rental Properties
 
-![250_Image_0.Png](250_Image_0.Png)
+![250_Image_0.Png](img/250_Image_0.Png)
 
 - Purchasing a rental property is similar to purchasing a property for occupancy. 
 
@@ -3420,7 +3420,7 @@ rationale, financial costs & benefits
 
 # Why Do People Love Rental Properties?
 
-![251_Image_0.Png](251_Image_0.Png)
+![251_Image_0.Png](img/251_Image_0.Png)
 
 - People are often very emotional about the benefits of owning rental properties. 
 
@@ -3439,7 +3439,7 @@ tangible vs. financial assets / markets.
 
 # Problems With Rental Properties
 
-![252_Image_0.Png](252_Image_0.Png)
+![252_Image_0.Png](img/252_Image_0.Png)
 
 - **Time.** This is another job. Unpredictable & 
 significant commitment at times. 
@@ -3457,13 +3457,13 @@ requirements around tenant rights. Eviction can be extremely difficult & expensi
 REAL ESTATE 
 TAX ADVANTAGES
 
-![253_image_0.png](253_image_0.png)
+![253_image_0.png](img/253_image_0.png)
 
-![253_image_1.png](253_image_1.png)
+![253_image_1.png](img/253_image_1.png)
 
 # Real Estate Has Significant Tax Advantages
 
-![254_Image_0.Png](254_Image_0.Png)
+![254_Image_0.Png](img/254_Image_0.Png)
 
 - **Primary Residence** 
 - Mortgage Interest Deduction - Property Tax Deduction - $250K Capital Gain Exclusion 
@@ -3472,30 +3472,30 @@ TAX ADVANTAGES
 - Mortgage Interest - Property Tax - Depreciation - Expenses 
 - **1031 Exchanges** - **Capital gains taxes only due on sale** - Step Up Cost Basis for Heirs CS 007 QUESTIONS
 
-![255_image_0.png](255_image_0.png)
+![255_image_0.png](img/255_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর
 
 # Week 10: People'S Choice
 
-![256_Image_0.Png](256_Image_0.Png)
+![256_Image_0.Png](img/256_Image_0.Png)
 
 - Student Selected Topics - Final Thoughts - CS 007 Alumni CS 007: SESSION 10
 
-![257_image_0.png](257_image_0.png)
+![257_image_0.png](img/257_image_0.png)
 
 PERSONAL 
 
-![257_image_1.png](257_image_1.png)
+![257_image_1.png](img/257_image_1.png)
 
 FINANCE FOR 
 ENGINEERS
 
-![258_image_0.png](258_image_0.png)
+![258_image_0.png](img/258_image_0.png)
 
 # Survey Results
 
-![259_Image_0.Png](259_Image_0.Png)
+![259_Image_0.Png](img/259_Image_0.Png)
 
 - Lot of agreement in the freeform entries on survey. 
 
@@ -3504,7 +3504,7 @@ ENGINEERS
 - The survey confirms: 
 VC/PE, Derivatives, Crypto
 
-![259_image_1.png](259_image_1.png)
+![259_image_1.png](img/259_image_1.png)
 
 VENTURE CAPITAL & 
 PRIVATE EQUITY
@@ -3512,7 +3512,7 @@ what are they, why do they exist
 
 # What Is Private Equity?
 
-![261_Image_0.Png](261_Image_0.Png)
+![261_Image_0.Png](img/261_Image_0.Png)
 
 - Private equity (PE) is composed of funds & investors that are not publicly traded that invest directly in private companies or buyout public companies. 
 
@@ -3526,7 +3526,7 @@ what are they, why do they exist
 
 # What Is Venture Capital?
 
-![262_Image_0.Png](262_Image_0.Png)
+![262_Image_0.Png](img/262_Image_0.Png)
 
 - Venture capital (VC) is a type of private equity focused on financing small, early-stage, emerging companies with high growth potential. 
 
@@ -3559,11 +3559,11 @@ They receive a special class of shares called "preferred" that have extra rights
 
 VC Firm Returns
 
-![263_image_0.png](263_image_0.png)
+![263_image_0.png](img/263_image_0.png)
 
-![263_image_1.png](263_image_1.png)
+![263_image_1.png](img/263_image_1.png)
 
-![263_image_2.png](263_image_2.png)
+![263_image_2.png](img/263_image_2.png)
 
 * https://blog.wealthfront.com/venture-capital-economics/ Biggest problem? You can't get your money into the Top 20 firms.
 
@@ -3574,7 +3574,7 @@ DERIVATIVES
 
 # What Is A Derivative?
 
-![265_Image_0.Png](265_Image_0.Png)
+![265_Image_0.Png](img/265_Image_0.Png)
 
 - A derivative is a security that is dependent upon one or more underlying assets. 
 
@@ -3589,7 +3589,7 @@ DERIVATIVES
 
 # What Is A Future?
 
-![266_Image_0.Png](266_Image_0.Png)
+![266_Image_0.Png](img/266_Image_0.Png)
 
 - A future is a contract for the future sale of a commodity at a predetermined time & price. 
 
@@ -3604,7 +3604,7 @@ shipping.
 
 # What Is An Option?
 
-![267_Image_0.Png](267_Image_0.Png)
+![267_Image_0.Png](img/267_Image_0.Png)
 
 - An option is the right to either buy or sell a security by a future date. 
 
@@ -3616,13 +3616,13 @@ shipping.
 
 # How Do You Value An Option?
 
-![268_Image_0.Png](268_Image_0.Png)
+![268_Image_0.Png](img/268_Image_0.Png)
 
 - There are multiple factors that affect the value of a stock option. 
 
 - Current stock price - Intrinsic value - Time to expiration - Volatility - Interest rates - Cash dividends 
 
-![268_image_1.png](268_image_1.png)
+![268_image_1.png](img/268_image_1.png)
 
 - Black-Scholes was developed in 1973 by Fischer Black, Robert Merton & Myron Scholes. 
 
@@ -3634,7 +3634,7 @@ shipping.
 
 STOCK CALL OPTION @ 10
 
-![269_image_0.png](269_image_0.png)
+![269_image_0.png](img/269_image_0.png)
 
 UNLIMITED UPSIDE, CAPPED DOWNSIDE (PREMIUM)
 
@@ -3642,25 +3642,25 @@ UNLIMITED UPSIDE, CAPPED DOWNSIDE (PREMIUM)
 
 STOCK PUT OPTION @ 10
 
-![270_image_0.png](270_image_0.png)
+![270_image_0.png](img/270_image_0.png)
 
 CAPPED UPSIDE (STOCK PRICE), CAPPED DOWNSIDE (PREMIUM)
 
 # Example: Selling A Call Option (Intrinsic Value)
 
-![271_image_0.png](271_image_0.png)
+![271_image_0.png](img/271_image_0.png)
 
 CAPPED UPSIDE (PREMIUM), UNLIMITED DOWNSIDE
 
 # Example: Selling A Put Option (Intrinsic Value)
 
-![272_image_0.png](272_image_0.png)
+![272_image_0.png](img/272_image_0.png)
 
 CAPPED UPSIDE (PREMIUM), CAPPED DOWNSIDE (STRIKE PRICE)
 
 # Combinations: A Zero Cost Collar (Intrinsic Value)
 
-![273_image_0.png](273_image_0.png)
+![273_image_0.png](img/273_image_0.png)
 
 ASSUME YOU HAVE STOCK YOU WANT TO HOLD, BUT PROTECT DOWNSIDE
 
@@ -3670,7 +3670,7 @@ ASSUME YOU HAVE STOCK YOU WANT TO HOLD, BUT PROTECT DOWNSIDE
 |----------------|---------|------------------|
 | $20 $15 $10 $5 |         |                  |
 
-![274_image_0.png](274_image_0.png)
+![274_image_0.png](img/274_image_0.png)
 
 $0 $5
 
@@ -3680,7 +3680,7 @@ $0 $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12 $13 $14 $15 $16 $17 $18 $19 $20 SELLIN
 
 STOCK SELL CALL @ 12 BUY PUT @ 8
 
-![275_image_0.png](275_image_0.png)
+![275_image_0.png](img/275_image_0.png)
 
 -$5
 -$10
@@ -3688,7 +3688,7 @@ $0 $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12 $13 $14 $15 $16 $17 $18 $19 $20 PUT GI
 STOCK SELL CALL @ 12 BUY PUT @ 8 TOTAL
 $20
 
-![276_image_0.png](276_image_0.png)
+![276_image_0.png](img/276_image_0.png)
 
 $0 $5
 $0 $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12 $13 $14 $15 $16 $17 $18 $19 $20 CAPPED UPSIDE (CALL STRIKE), CAPPED DOWNSIDE (PUT STRIKE)
@@ -3697,20 +3697,20 @@ $0 $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12 $13 $14 $15 $16 $17 $18 $19 $20 CAPPED
 
 STOCK SELL CALL @ 12 BUY PUT @ 8 TOTAL
 
-![277_image_0.png](277_image_0.png)
+![277_image_0.png](img/277_image_0.png)
 
-![277_image_1.png](277_image_1.png)
+![277_image_1.png](img/277_image_1.png)
 
 -$10
 $0 $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12 $13 $14 $15 $16 $17 $18 $19 $20 CAPPED UPSIDE (CALL STRIKE), CAPPED DOWNSIDE (PUT STRIKE)
 
-![278_image_0.png](278_image_0.png)
+![278_image_0.png](img/278_image_0.png)
 
 basics & common questions
 
 # What Is Bitcoin?
 
-![279_Image_0.Png](279_Image_0.Png)
+![279_Image_0.Png](img/279_Image_0.Png)
 
 - Bitcoin is a cryptocurrency, a digital asset designed to work as a medium of exchange. 
 
@@ -3727,7 +3727,7 @@ Scarcity is designed into the system.
 
 # Why Is Bitcoin Interesting?
 
-![280_Image_0.Png](280_Image_0.Png)
+![280_Image_0.Png](img/280_Image_0.Png)
 
 - Publicly transparent & uncensored distributed ledger for financial transactions. 
 
@@ -3740,7 +3740,7 @@ Scarcity is designed into the system.
 
 # What Is Ethereum?
 
-![281_Image_0.Png](281_Image_0.Png)
+![281_Image_0.Png](img/281_Image_0.Png)
 
 - Ethereum is a decentralized platform that runs smart contracts. 
 
@@ -3752,7 +3752,7 @@ Scarcity is designed into the system.
 
 # What Are Nfts?
 
-![282_Image_0.Png](282_Image_0.Png)
+![282_Image_0.Png](img/282_Image_0.Png)
 
 - NFTs (or "non-fungible tokens") are a special kind of cryptoasset in which each token is unique. 
 
@@ -3768,11 +3768,11 @@ Scarcity is designed into the system.
 
 # How Much Is Bitcoin Worth?
 
-![283_Image_0.Png](283_Image_0.Png)
+![283_Image_0.Png](img/283_Image_0.Png)
 
-![283_Image_1.Png](283_Image_1.Png)
+![283_Image_1.Png](img/283_Image_1.Png)
 
-![283_Image_6.Png](283_Image_6.Png)
+![283_Image_6.Png](img/283_Image_6.Png)
 
 - First bitcoin transaction was on May 22, 2010, purchasing two Papa John's pizzas for 10,000 BTC. 
 
@@ -3782,13 +3782,13 @@ $0.08, a gain of 1000%.
 - Bitcoin was less than $1,000 on 1/1/2017 
 - Bitcoin was $11,600 on 12/4/2017 - Bitcoin was $3,896 on 12/3/2018 - Bitcoin was $7,314 on 12/1/2019 - Bitcoin was $17,597 on 11/17/2020 - Bitcoin was $50,615 on 12/6/2021 - Bitcoin was $17,015 on 12/5/2022 - Bitcoin was $41,249 on 12/6/2023 
 
-![283_image_2.png](283_image_2.png)
+![283_image_2.png](img/283_image_2.png)
 
-![283_image_3.png](283_image_3.png)
+![283_image_3.png](img/283_image_3.png)
 
-![283_image_4.png](283_image_4.png)
+![283_image_4.png](img/283_image_4.png)
 
-![283_image_5.png](283_image_5.png)
+![283_image_5.png](img/283_image_5.png)
 
 - Is there a fundamental basis for valuing Bitcoin? 
 
@@ -3800,11 +3800,11 @@ How do you value an asset that generates no cash flow?
 
  - Global equity markets: ~$109T 
 
-![284_image_0.png](284_image_0.png) - Global bond markets: ~$127T 
+![284_image_0.png](img/284_image_0.png) - Global bond markets: ~$127T 
 - Bitcoin is currently valued at ~$866B
 - Bitwise Investments estimates** the correlation of Bitcoin to only 0.08 with 
 
-![284_image_1.png](284_image_1.png) Equities (VTI), 0.02 with Bonds (BND).
+![284_image_1.png](img/284_image_1.png) Equities (VTI), 0.02 with Bonds (BND).
 
 - Bitwise Investments*** has a portfolio simulator that allows you to view how your portfolio would have performed w/ either Bitcoin or the Bitwise 10 Index. 
 
@@ -3819,13 +3819,13 @@ How do you value an asset that generates no cash flow?
 
 how does it work? when does it make sense?
 
-![285_image_0.png](285_image_0.png)
+![285_image_0.png](img/285_image_0.png)
 
-![285_image_1.png](285_image_1.png)
+![285_image_1.png](img/285_image_1.png)
 
 # Life Insurance: Why Does It Exist?
 
-![286_Image_0.Png](286_Image_0.Png)
+![286_Image_0.Png](img/286_Image_0.Png)
 
 ## - Death Insurance
 
@@ -3835,7 +3835,7 @@ how does it work? when does it make sense?
 
 - There is a fundamental economic benefit to pooling risk around uncertainty. When a person will die is the original actuarial case for adding value this way. 
 
-![286_image_1.png](286_image_1.png)
+![286_image_1.png](img/286_image_1.png)
 
 - Life insurance has several tax benefits. The owner is not taxed on the potential benefit size, and the beneficiary is not taxes on receipt.
 
@@ -3853,15 +3853,15 @@ how does it work? when does it make sense?
 
 - High expenses & fees, with punitive clauses for exiting agreements makes life insurance a poor financial product choice for long term investment. Stick with term life insurance.
 
-![287_image_0.png](287_image_0.png)
+![287_image_0.png](img/287_image_0.png)
 
 LEVEL DECREASING WHOLE UNIVERSAL **VARIABLE**
 
-![287_image_1.png](287_image_1.png)
+![287_image_1.png](img/287_image_1.png)
 
 # Life Insurance: How Much Do You Need?
 
-![288_Image_0.Png](288_Image_0.Png)
+![288_Image_0.Png](img/288_Image_0.Png)
 
 - Think of costs associated with death. - Think of dependents and expenses that require your income for funding. House. College. Retirement. 
 
@@ -3873,19 +3873,19 @@ LEVEL DECREASING WHOLE UNIVERSAL **VARIABLE**
 
 * 
 
-![288_image_1.png](288_image_1.png)
+![288_image_1.png](img/288_image_1.png)
 
-![288_image_2.png](288_image_2.png)
+![288_image_2.png](img/288_image_2.png)
 
-![288_image_3.png](288_image_3.png)
+![288_image_3.png](img/288_image_3.png)
 
-![288_image_4.png](288_image_4.png)
+![288_image_4.png](img/288_image_4.png)
 
-![288_image_5.png](288_image_5.png)
+![288_image_5.png](img/288_image_5.png)
 
 CS 007 QUESTIONS
 
-![289_image_0.png](289_image_0.png)
+![289_image_0.png](img/289_image_0.png)
 
 ,但是一个人的一个人的一个人的一个人 র প্রায় বাংলাদেশ করে না করে না করে না করে না করে না করে না করে না করে আর কর FINAL THOUGHTS
 
@@ -3894,7 +3894,7 @@ CS 007 QUESTIONS
 
 # First Slide: Why Personal Finance?
 
-![291_Image_0.Png](291_Image_0.Png)
+![291_Image_0.Png](img/291_Image_0.Png)
 
 - Poorly covered in secondary school 
 & university curricula, even at top schools. 
@@ -3907,7 +3907,7 @@ CS 007 QUESTIONS
 
 # Last Slide: Things To Do After This Class
 
-![292_Image_0.Png](292_Image_0.Png)
+![292_Image_0.Png](img/292_Image_0.Png)
 
 - Keep thinking actively about your financial plans and decisions. 
 
