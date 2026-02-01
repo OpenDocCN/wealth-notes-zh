@@ -11,7 +11,7 @@
 +   [老方](docs/laofang/README.md)
 +   [老隋](docs/laosui/README.md)
 +   [生财有术知识星球整理 20190928](docs/scys201909/README.md)
-+   [赏味不足](docs/shangwei/README.md)
++   [赏味不足视频笔记](docs/shangwei/README.md)
 +   [守夜人总司令文章合集](docs/shouyeren/README.md)
 +   [数字游民博客](docs/shuziyoumin/README.md)
 +   [斯坦福 CS007 讲义](docs/stf-cs007/README.md)
