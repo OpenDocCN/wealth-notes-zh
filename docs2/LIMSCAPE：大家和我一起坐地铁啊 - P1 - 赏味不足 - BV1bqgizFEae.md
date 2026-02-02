@@ -8,53 +8,53 @@
 
 
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_1.png)
+
 
 这是个记录点吧，然后呢我往哪儿走呢，往这走了。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_3.png)
+
 
 哦他说让我选关卡是吧，这地方有点大了，看看是不是让我选关卡，他走的时候为什么会哎这个球是什么意思，怎么能跳进去呢，然后选第一关，默认房间模板怎么又多出来个库来，什么鬼东西啊，哦我知道了啊，我知道了。
 
 这个是那个嘶，这不是DIY呃。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_5.png)
+
 
 D l c，或者是那个叫什么可编叫叫叫叫叫叫叫叫叫，那我应该选这个咯，哦索得斯。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_7.png)
+
 
 卧槽卧槽，我不能动哦，不能动了，能动石河，这不是这这不是我在回头，他在回头。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_9.png)
+
 
 我我我就要下去，哎呦我去上先上去，然后我跳一跳上去哦，我还能真能跳上去啊，这游戏对牛逼的一把，Limina report，唉不，Report，Resort，我已经有点懵逼，有有手电筒了。
 
 
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_11.png)
+
 
 他刚刚那个操作，哎这他那个他刚刚那个教学里面没有手电筒。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_13.png)
+
 
 但每个每个地方给了个灯，就是池河嘛。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_15.png)
+
 
 这这可以跳，我知道哎。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_17.png)
+
 
 我已经懂了。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_19.png)
+
 
 这他妈有点大呀，我我先跟着跟着有亮光的地方走，哎这里有个钟，这里有个人，这里有个人，这人头上有个手，10。08手指向哪哦，指向上面，好家伙，再跳，嗯这里有个球，这球能动吗，卧槽还能动，What the。
 
 这是什么哦，只抱着她的娃，嗯这是什么寓意啊，哎这跳水池啊，我跳下去啊，哎哎呦，哎。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_21.png)
+
 
 有点东西的，哎可以的，他这个效果做的还是可以的，但是这是条死路啊，嘶这条死路我怎么玩啊，哦这，哎我我操，我他妈这就回来啦，那我往左边走，这么大个洞，卧槽这地图有点有点大呀，我要下去哦，我又要上去了。
 
@@ -64,164 +64,163 @@ D l c，或者是那个叫什么可编叫叫叫叫叫叫叫叫叫，那我应该
 
 
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_23.png)
+
 
 蜘蛛什么，诶这不就我刚我刚来的地方吗，what the 出去，出去，然后第二关我看看这一关是什么了哦，又要加载，让我先喝个霸王茶姬，卧槽这游戏一共就1。5个G。
 
 
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_25.png)
+
 
 你们敢信，所以我是从这个抽水马桶的洞里面出生的，出生点。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_27.png)
+
 
 卧槽这又是什么地方啊，呃呃呃，卧槽把我家猫吓了一跳。
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_29.png)
+
 
 这是什么鬼啦，哦地下250米，这个意思你不把我砸死，跳哎呦，我去我操我操我操我操，圣人的红光，让我拍张照，圣人的红光，让我拍张照，让我给我害怕的小伙伴拍个照。
 
 
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_31.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_32.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_33.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_34.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_35.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_36.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_37.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_38.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_39.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_40.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_41.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_42.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_43.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_44.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_45.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_46.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_47.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_48.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_49.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_50.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_51.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_52.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_53.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_54.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_55.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_56.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_57.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_58.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_59.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_60.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_61.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_62.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_63.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_64.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_65.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_66.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_67.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_68.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_69.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_70.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_71.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_72.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_73.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_74.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_75.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_76.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_77.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_78.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_79.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_80.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_81.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_82.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_83.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_84.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_85.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_86.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_87.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_88.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_89.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_90.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_91.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_92.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_93.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_94.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_95.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_96.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_97.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_98.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_99.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_100.png)
 
-![](img/9dbb46562f5888b8dc77aa8b547f5f08_101.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

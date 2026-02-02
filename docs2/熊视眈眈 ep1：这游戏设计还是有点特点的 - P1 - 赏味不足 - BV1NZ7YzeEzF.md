@@ -6,11 +6,11 @@ Today i m scared，And behave for so long，And i don't want to be here anymore�
 
 
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_1.png)
+
 
 Teddy。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_3.png)
+
 
 Can you see me，他他说的是一个盲人小姐姐跟泰迪，然后他游戏当中我看介绍，就他的视野都是通过这个熊来的，所以他是一个一视角跟二视角，RT是哪个了哦，这个是二。
 
@@ -18,11 +18,11 @@ Can be your eyes，and i'll get out这个画风，这个画风，但我觉得还
 
 我现在是全屏吗，哦可以可以可以可以啊。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_5.png)
+
 
 我看一下啊，哎这走不出去啊。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_7.png)
+
 
 什么意思啊，哦这这这这能跑吗，马桶i have to you down，哦把它放下，2rt3，Why you comfortable，长按RT抓取物件，长按RT，什么误解，这是蹲下长按RT。
 
@@ -40,7 +40,7 @@ Are you a miracle，哦出来了，出来了出来了，再蹲一下，卧槽他
 
 
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_9.png)
+
 
 Can you see a good place for you to set，Set，不是你就不能放地上吗，s not set啊，不能set，哦哦set这里，然后呢这里爬上去，这里再爬上去。
 
@@ -50,41 +50,41 @@ Can you see a good place for you to set，Set，不是你就不能放地上吗�
 
 卧槽什么声音，第三次，哎呦，就他爸还是他妈，还是他爸，嗯我操我操好家伙。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_11.png)
+
 
 这什么东西啊，钓鱼竿，椅子为什么这么高，我就算是个小姑娘，也不至于这么高啊。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_13.png)
+
 
 不是你开个门缝又不让我进。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_15.png)
+
 
 哦这。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_17.png)
+
 
 Dm，I hope she doesn't find this hand，这什么厨房，我可以长按LLB哦，哦把我举起来，然后呢扔这，把这个拉出来，我知道这个拉出来哦，推走，推走，然后呢爬上来不对啊。
 
 嘶诶哦，再帮我拿下去刷，诶。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_19.png)
+
 
 诶我没太懂啊，哦哦这黄颜色椅子可以，这黄颜色椅子可以爬上去，这样这样，然后，哎哦往下推卧槽，What is that you have to be quiet daddy，逃逃进去投进去。
 
 
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_21.png)
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_22.png)
+
+
 
 没啥事，爬上去，诶哦哦我不能拿着泰迪爬。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_24.png)
+
 
 哦原来这游戏是这样子，我不能拿着泰迪爬，那就这样子，然后走到这儿把我拎起来。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_26.png)
+
 
 我拎起来，然后跳下来，草为什么我这么矮呢，卧槽为什么这门这么高，这逻辑不太通啊，哎操是这么，过不去啊，呃，呃这儿，卧槽这房间里面这么通道这么多的，哎有人开门进来，No，这谁来，卧槽。
 
@@ -96,7 +96,7 @@ Soon soon soon，这是他爸妈吗，感觉，怎么又有人回我消息了，
 
 你有没有跑，给我个跑啊，哪个按键是跑，没有一个按键是跑，呜。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_28.png)
+
 
 这地方有光，What is this place，这他妈是你教的，啊你家他妈的什么地方，你不知道，Can we get out there，No，那你看你看你看，Oh sophie，Sophie。
 
@@ -104,7 +104,7 @@ They turn sophie is out of her，Room，Bring her to me，No，Yes，Yes，快�
 
 Teddy，Teddy，哎大哥，你能不能给我个跑的按钮。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_30.png)
+
 
 We need to keep moving now，Maybe we can get through that big window，这里还能keep moving的啊，你们也是。
 
@@ -112,43 +112,43 @@ If we can find it again，他们知道了，尝试从大窗户处逃走逃跑，
 
 妈的这房子很大，这房子里面全他妈是给你们，给你们逃跑的道路，诶呜呼。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_32.png)
+
 
 哦放泰迪的地方一般都是用个毯子就把它移开。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_34.png)
+
 
 一开先移到旁边去，What are we。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_36.png)
+
 
 我们在哪，我也想知道我们在哪，这什么地方啊，这他妈是家啊，有个动力装置过来。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_38.png)
+
 
 把泰迪放到这个毯子上了。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_40.png)
+
 
 这游戏提示还是很友好的，然后我他妈刚说好友好。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_42.png)
+
 
 对，然后走过来把这个推下去，哎诶呃。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_44.png)
+
 
 呃诶，哦把这个推过去，靠这推得过去啊，什么声音啊，Did we do it，好了好了，上去接我接我，嘶但这里有扇门哦，这个门是我们刚刚来的，柜子梳妆台，两个门一个门锁掉的，这是我了苏菲。
 
 I don't like this。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_46.png)
+
 
 Sophie。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_48.png)
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_49.png)
+
+
 
 我一直被夸，那你夸耀他呀，他为什么不能给我个快跑呢，保存中，啊teddy，泰迪，然后这边有个有个闸，是，拎出来拎到闸这边了，我猜是这样的，没有别的地方看，爬上去拿拿榔头哎，哦没推进去是吧，啊大哥。
 
@@ -156,7 +156,7 @@ Sophie。
 
 
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_51.png)
+
 
 哎这上面有个玩具，我看到这上面有个玩具在发光，嗯不是啊，你你就锁掉了，然后呢，我怎么玩呢，这游戏，这隐形倒是跟小小梦魇做的差不多，阿阿亚阿菲亚的机器人，不是我想知道，我想知道，然后呢嘶哦他不会让我。
 
@@ -164,13 +164,13 @@ Sophie。
 
 一双鞋子，这什么香烟，嘶呃，某人已经越狱了，诶哦这个门这个门没开。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_53.png)
+
 
 Will find you，I will find you，闪灵啊，You're not getting away，It's okay，To be scared，Te be quiet。
 
 Or they will find us。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_55.png)
+
 
 左边没有，I don't know be nice，Where we are，I don't know where we are，哎呦什么情况，这不是可以这可以拉的，你说拉我自己可还行。
 
@@ -180,17 +180,17 @@ You're only making it，Worse by yourself，这他妈是你们的房子吗，这
 
 
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_57.png)
+
 
 这门是竟然可以进的，土豆锅，储藏室了，就是，门关掉了，把灯开了，哎这里可以进去，这里的。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_59.png)
+
 
 没人呀，卧槽老鼠，老鼠come out，Come out，Wherever，You are，He's going to lock me up，对，所以刚刚那房间关的。
 
 就这小姑娘escape this time，哦泰迪。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_61.png)
+
 
 泰迪嗯，我蹲下蹲下蹲下，They can't even see anything，哦还有红颜色是他的吗，你看搜索的活又得我来干，他这个逃已经不是第一次逃了，还没睡呢，诶哦门已经开了。
 
@@ -198,23 +198,23 @@ Time was close，There must be a way to get back up for now，这里有个什么
 
 
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_63.png)
+
 
 啊呃椅子黄色，我知道大概知道，It smells ha，把这个拉过来，拉过来上去再到这，过来拿我，不对啊，不要拿我，然后呢，等一下等一下，不对不对不对不对。
 
 
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_65.png)
+
 
 啊这不能走呀，这镜子里，踩在这上面啊，哦哦我知道我正好从这边走吧，拿上我之后往下跳吧，哎呦也不对啊，能说我往上跳也不对，嘶哦我知道我知道我知道了，我知道了我知道了，我知道了，我知道了，我知道了。
 
 但这个打开的门是哪个门。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_67.png)
+
 
 你打开的门是哪扇，哦这个门这个门哦，跑跑跑跑跑跑，不是你往哪跑，快拿我拿我拿我过来，快过来拿我来。
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_69.png)
+
 
 哎呦好近啊好近来，Emm，Can i think that left to get up，嘶呃，卧槽这什么玩意，这把我升上去，Wait for me ted，这个两个要一起压住，这也上不去了呀，这里。
 
@@ -224,7 +224,7 @@ Time was close，There must be a way to get back up for now，这里有个什么
 
 
 
-![](img/4551eafaf24115f55273f9a43d00c2fe_71.png)
+
 
 好像，靠他妈我了，可把太极放，这大哥先不放，太极钥匙呢，开门，There we go，拿熊拿熊，拿熊拿熊，走了走了走了，We made up，我们上来啦上来啦，这家他妈就就靠这样想了吧。
 

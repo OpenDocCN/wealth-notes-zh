@@ -54,7 +54,7 @@ Maybe we could head down there，Yeah，过不去啊，这地方，怎么过去�
 
 Cut down right over here，太他妈狗了，啧这地方不适合躲啊。
 
-![](img/140476f8b86a808febd5b5baace63e7a_1.png)
+
 
 看看到我没看到我没看到我哈，Hear that，没看到没看到，让我拿个棒子，棒子哎，Hey came in the store，他看到我了，我操操操操操操，They duck over there e。
 
@@ -70,7 +70,7 @@ Cut down right over here，太他妈狗了，啧这地方不适合躲啊。
 
 
 
-![](img/140476f8b86a808febd5b5baace63e7a_3.png)
+
 
 哎哎哎我操，卧槽经典躲猫猫，Must be around somewhere，嗯啊，没了呀，你别跟我说，二楼还有人啊，这些都可搜刮了，都搜光了，啊已满了，什么地方哦，这就刚过不来的那个地方，Ok。
 

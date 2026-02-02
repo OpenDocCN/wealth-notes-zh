@@ -8,13 +8,13 @@ In such cases immediately，Take your prescribed medication。
 
 
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_1.png)
+
 
 现在很安静，没有声音，也没有影子，这种时候应该可以开门吧，嘶他这个太暗了，他能不能把亮度调到那个点，哦啊啊啊啊啊啊啊啊，我看看啊，玩法1。4ENGLISH，视频这个吗，哦对对。
 
 
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_3.png)
+
 
 应用好好好好诶，可以可以可以这样量多了量多了，这是个仓库啊，这里有个婴儿的，如果幻觉消失或恢复正正常，就可以安全开门，如果幻觉没有消失，就改吃药，这什么啊，Visitors，我每天饱受幻觉折磨。
 
@@ -28,11 +28,11 @@ In such cases immediately，Take your prescribed medication。
 
 
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_5.png)
+
 
 然后你要坚持八天，看看啊嘶嗯，卧槽这什么了，操这什么啦，哎呦。
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_7.png)
+
 
 吃吃吃吃吃吃药吃药，如果幻觉消失，看下啊，Breaking news，Multiple severely，Mutilated bodies。
 
@@ -54,13 +54,13 @@ As more information becomes available about this case，we will further update y
 
 鱼缸，哎呦这什么什么什么什么院长，首尔市，哟我操，变绳子了。
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_9.png)
+
 
 卧槽第五天了，已经，看看不要靠的太近，不要靠太近，什么东西啊，这什么啦，搜集品，不要靠得太近，什么东西不要靠太近啊，哎哟卧槽。
 
 
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_11.png)
+
 
 这边有什么收集品吗，看看，没有没有，嗯行行可以了，操徐永清徐永鑫，这个叫什么，这热搜无敌啦，他妈热搜全是他，先开开电视，冰箱没问题，苹果没问题啊，这个柜子也没有哦，这窗帘这窗帘不是这个颜色的。
 
@@ -68,15 +68,15 @@ As more information becomes available about this case，we will further update y
 
 
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_13.png)
+
 
 树莓。
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_15.png)
+
 
 啧好，我看看啊，如果换一声哎，药都不带我去。
 
-![](img/d1feca4eb214c027c8e24cf2408d95df_17.png)
+
 
 卧槽第八天了，同学们第八天了，看看如果幻觉消失，哎这个太明显了太明显了，画他妈的都到了，看看有什么可以搜集的吧，说不定跟踪狂我家离酒吧很近，暂时先去我那边住吧，卧槽这感觉是那个吧，是这个罪犯在引诱他吧。
 
