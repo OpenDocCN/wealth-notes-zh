@@ -1,6 +1,6 @@
-![](img/07e5e4193d1f21fcbe7d96bbe2dbd69f_0.png)
-
 # 课程 P1：生意思维与避免亏损 💰
+
+![](img/07e5e4193d1f21fcbe7d96bbe2dbd69f_0.png)
 
 ![](img/07e5e4193d1f21fcbe7d96bbe2dbd69f_2.png)
 

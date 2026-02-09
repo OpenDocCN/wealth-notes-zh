@@ -1,6 +1,6 @@
-![](img/2cc42dde7deb419dd5afa9ce19635d22_1.png)
-
 # 课程：重新认识乐观与悲观 🧠 - 第1课
+
+![](img/2cc42dde7deb419dd5afa9ce19635d22_1.png)
 
 ![](img/2cc42dde7deb419dd5afa9ce19635d22_3.png)
 

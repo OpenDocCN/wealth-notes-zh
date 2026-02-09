@@ -1,10 +1,10 @@
+# 课程 P1：ChatGPT线下活动分享与思考 🤖
+
 ![](img/efd46abafa3d44738229bae97f9977d5_0.png)
 
 ![](img/efd46abafa3d44738229bae97f9977d5_2.png)
 
 ![](img/efd46abafa3d44738229bae97f9977d5_4.png)
-
-# 课程 P1：ChatGPT线下活动分享与思考 🤖
 
 ![](img/efd46abafa3d44738229bae97f9977d5_6.png)
 

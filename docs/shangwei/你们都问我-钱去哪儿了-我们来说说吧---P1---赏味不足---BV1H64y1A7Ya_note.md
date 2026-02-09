@@ -1,6 +1,6 @@
-![](img/be738af43abdc0ee0a6404b2ff26bfb3_0.png)
-
 # 课程一：钱去哪儿了？—— 资金流动与价值创造浅析 💰
+
+![](img/be738af43abdc0ee0a6404b2ff26bfb3_0.png)
 
 ![](img/be738af43abdc0ee0a6404b2ff26bfb3_2.png)
 

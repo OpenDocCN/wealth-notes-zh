@@ -1,6 +1,6 @@
-![](img/c99ca5fcadcfe7c66c61f88d64b70bf3_1.png)
-
 # 课程 P1：产业落地的核心价值 💡
+
+![](img/c99ca5fcadcfe7c66c61f88d64b70bf3_1.png)
 
 ![](img/c99ca5fcadcfe7c66c61f88d64b70bf3_3.png)
 

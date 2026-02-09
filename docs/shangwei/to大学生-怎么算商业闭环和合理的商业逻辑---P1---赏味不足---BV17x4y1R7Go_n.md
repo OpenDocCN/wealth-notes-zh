@@ -1,8 +1,8 @@
+# 商业思维入门课 P1：如何定义商业闭环与合理的商业逻辑 💡
+
 ![](img/4cc6b252c94afaa1694fecc602f754ca_1.png)
 
 ![](img/4cc6b252c94afaa1694fecc602f754ca_3.png)
-
-# 商业思维入门课 P1：如何定义商业闭环与合理的商业逻辑 💡
 
 ![](img/4cc6b252c94afaa1694fecc602f754ca_5.png)
 

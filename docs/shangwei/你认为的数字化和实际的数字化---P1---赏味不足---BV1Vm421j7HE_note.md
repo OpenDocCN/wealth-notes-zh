@@ -1,6 +1,6 @@
-![](img/d9e4dded8e9472cb6da4c858d2e8cc18_0.png)
-
 # 课程 P1：你认为的数字化和实际的数字化 📊
+
+![](img/d9e4dded8e9472cb6da4c858d2e8cc18_0.png)
 
 ![](img/d9e4dded8e9472cb6da4c858d2e8cc18_2.png)
 

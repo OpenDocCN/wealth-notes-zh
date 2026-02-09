@@ -1,6 +1,6 @@
-![](img/c02c11620e8ff7fa00f9cdf2cef455cf_1.png)
-
 # 商业副业规划指南 P1：关联度与全职选择 🧭
+
+![](img/c02c11620e8ff7fa00f9cdf2cef455cf_1.png)
 
 ![](img/c02c11620e8ff7fa00f9cdf2cef455cf_3.png)
 

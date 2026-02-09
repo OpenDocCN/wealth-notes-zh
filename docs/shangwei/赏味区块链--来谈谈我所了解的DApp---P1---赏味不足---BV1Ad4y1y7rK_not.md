@@ -1,6 +1,6 @@
-![](img/fbd51e6d2db24cd7bea08eb178edb5d3_1.png)
-
 # 赏味区块链课程 01：初识去中心化应用 (DApp) 🚀
+
+![](img/fbd51e6d2db24cd7bea08eb178edb5d3_1.png)
 
 在本节课中，我们将要学习什么是去中心化应用（DApp），探讨其与Web2应用的核心区别，并分析当前DApp生态的现状与挑战。
 

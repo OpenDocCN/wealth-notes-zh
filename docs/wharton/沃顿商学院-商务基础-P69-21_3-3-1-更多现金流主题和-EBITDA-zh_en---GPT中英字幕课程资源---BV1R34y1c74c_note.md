@@ -1,6 +1,6 @@
-![](img/2c94ac770b25466cb8a412e98fb60ac1_1.png)
-
 # 沃顿商学院《商务基础》课程 P69：更多现金流主题与 EBITDA 💰
+
+![](img/2c94ac770b25466cb8a412e98fb60ac1_1.png)
 
 ![](img/2c94ac770b25466cb8a412e98fb60ac1_3.png)
 

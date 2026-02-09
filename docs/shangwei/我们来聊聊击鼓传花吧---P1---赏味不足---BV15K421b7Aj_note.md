@@ -1,8 +1,8 @@
+# 击鼓传花解析 - 课程P1 🥁
+
 ![](img/88c0b23a4a98c77afa9fa9ef81db18aa_1.png)
 
 ![](img/88c0b23a4a98c77afa9fa9ef81db18aa_3.png)
-
-# 击鼓传花解析 - 课程P1 🥁
 
 ![](img/88c0b23a4a98c77afa9fa9ef81db18aa_5.png)
 

@@ -1,6 +1,6 @@
-![](img/dd80a290d0e12aaf7f4a6cc18e48c6a2_0.png)
-
 # 课程01：如何高效获取活动资源 🎯
+
+![](img/dd80a290d0e12aaf7f4a6cc18e48c6a2_0.png)
 
 ![](img/dd80a290d0e12aaf7f4a6cc18e48c6a2_2.png)
 

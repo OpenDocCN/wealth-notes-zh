@@ -1,10 +1,10 @@
+# 课程 P48：违规行为的本质 🧩
+
 ![](img/ee8f2110c142a5d7cc7c75ddb07d0ce9_1.png)
 
 ![](img/ee8f2110c142a5d7cc7c75ddb07d0ce9_2.png)
 
 ![](img/ee8f2110c142a5d7cc7c75ddb07d0ce9_3.png)
-
-# 课程 P48：违规行为的本质 🧩
 
 ![](img/ee8f2110c142a5d7cc7c75ddb07d0ce9_5.png)
 

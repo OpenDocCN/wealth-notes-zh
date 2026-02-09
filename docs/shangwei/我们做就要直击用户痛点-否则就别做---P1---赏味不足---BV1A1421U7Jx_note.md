@@ -1,6 +1,6 @@
-![](img/1b82f1aaf86b1fdda0bc38d82996d1ff_0.png)
-
 # 创业实战课 01：直击用户痛点 💡
+
+![](img/1b82f1aaf86b1fdda0bc38d82996d1ff_0.png)
 
 ![](img/1b82f1aaf86b1fdda0bc38d82996d1ff_2.png)
 

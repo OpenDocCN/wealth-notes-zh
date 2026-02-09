@@ -1,6 +1,6 @@
-![](img/a404994dacdaa97a9efa40e4b50edace_0.png)
-
 # 课程：导致失业或就业率低的原因分析（绝非AI） - P1
+
+![](img/a404994dacdaa97a9efa40e4b50edace_0.png)
 
 ![](img/a404994dacdaa97a9efa40e4b50edace_2.png)
 

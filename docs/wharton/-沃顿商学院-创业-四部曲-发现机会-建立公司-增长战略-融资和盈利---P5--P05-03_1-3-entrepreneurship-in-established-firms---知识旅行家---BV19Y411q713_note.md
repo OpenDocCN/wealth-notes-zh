@@ -1,6 +1,6 @@
-![](img/1f663faff94d5d9f99864edfefe58aab_0.png)
-
 # 创业课程 第五讲：老牌企业中的创业精神 🏢
+
+![](img/1f663faff94d5d9f99864edfefe58aab_0.png)
 
 ![](img/1f663faff94d5d9f99864edfefe58aab_2.png)
 

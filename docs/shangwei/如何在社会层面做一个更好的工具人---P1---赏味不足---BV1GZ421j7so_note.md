@@ -1,10 +1,10 @@
+# 课程：如何在社会层面做一个更好的工具人 - P1 🛠️
+
 ![](img/003cb8fc7bcbb0629ea8847cda49b75a_0.png)
 
 ![](img/003cb8fc7bcbb0629ea8847cda49b75a_2.png)
 
 ![](img/003cb8fc7bcbb0629ea8847cda49b75a_4.png)
-
-# 课程：如何在社会层面做一个更好的工具人 - P1 🛠️
 
 ![](img/003cb8fc7bcbb0629ea8847cda49b75a_6.png)
 

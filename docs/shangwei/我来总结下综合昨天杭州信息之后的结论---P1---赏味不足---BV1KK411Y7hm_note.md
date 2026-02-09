@@ -1,10 +1,10 @@
-![](img/39811e12d318634759a5deedeb93fecb_1.png)
-
 # 课程名称：杭州信息综合分析与未来方向探讨 - 课程01
 
-![](img/39811e12d318634759a5deedeb93fecb_3.png)
+![](img/39811e12d318634759a5deedeb93fecb_1.png)
 
 ## 概述
+
+![](img/39811e12d318634759a5deedeb93fecb_3.png)
 
 ![](img/39811e12d318634759a5deedeb93fecb_5.png)
 

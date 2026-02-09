@@ -1,6 +1,6 @@
-![](img/c2b9e9c9a8bf136ecf215babbfb8b7a6_1.png)
-
 # 课程一：普通人商业避坑指南 - 从天真到现实的蜕变之路 🚧
+
+![](img/c2b9e9c9a8bf136ecf215babbfb8b7a6_1.png)
 
 ![](img/c2b9e9c9a8bf136ecf215babbfb8b7a6_3.png)
 

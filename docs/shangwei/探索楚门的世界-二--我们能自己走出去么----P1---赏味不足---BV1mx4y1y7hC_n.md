@@ -1,8 +1,8 @@
+# 课程二：探索楚门的世界（二）🚪——我们能自己走出去吗？
+
 ![](img/9dab2bec86785cb0738edb049bffc65d_0.png)
 
 ![](img/9dab2bec86785cb0738edb049bffc65d_2.png)
-
-# 课程二：探索楚门的世界（二）🚪——我们能自己走出去吗？
 
 ![](img/9dab2bec86785cb0738edb049bffc65d_4.png)
 

@@ -1,6 +1,6 @@
-![](img/68eec4de285fcbfceaebef60006d5035_1.png)
-
 # 沃顿商学院《商务基础》课程 P53：借贷记账法 II 📚
+
+![](img/68eec4de285fcbfceaebef60006d5035_1.png)
 
 ![](img/68eec4de285fcbfceaebef60006d5035_3.png)
 

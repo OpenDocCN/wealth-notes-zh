@@ -1,6 +1,6 @@
-![](img/f75ddc7e948b8cc1f7c5feee384215cb_0.png)
-
 # 充电篇 P1：一些钱我们不赚，并不会省下来 💰
+
+![](img/f75ddc7e948b8cc1f7c5feee384215cb_0.png)
 
 ![](img/f75ddc7e948b8cc1f7c5feee384215cb_2.png)
 

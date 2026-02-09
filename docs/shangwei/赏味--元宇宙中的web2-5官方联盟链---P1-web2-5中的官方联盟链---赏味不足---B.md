@@ -1,6 +1,6 @@
-![](img/d5a8713482dfffb5c463ca2c8b7ca2d6_0.png)
-
 # 赏味——元宇宙中的Web2.5官方联盟链 - P1：Web2.5中的官方联盟链 🧐
+
+![](img/d5a8713482dfffb5c463ca2c8b7ca2d6_0.png)
 
 ## 概述
 

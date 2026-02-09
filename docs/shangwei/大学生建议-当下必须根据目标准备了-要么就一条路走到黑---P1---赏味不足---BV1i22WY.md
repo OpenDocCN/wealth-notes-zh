@@ -1,6 +1,6 @@
-![](img/5ac533bd349f3f73eaef5f5ef4e0bd3d_0.png)
-
 # 大学生建议课程 P1：目标导向与即刻行动 🎯
+
+![](img/5ac533bd349f3f73eaef5f5ef4e0bd3d_0.png)
 
 ![](img/5ac533bd349f3f73eaef5f5ef4e0bd3d_2.png)
 

@@ -1,6 +1,6 @@
-![](img/d6fae5be3dd1b142ecb27388fabe60da_1.png)
-
 # 课程 P1：拆解“努力就有回报” 🎯
+
+![](img/d6fae5be3dd1b142ecb27388fabe60da_1.png)
 
 ![](img/d6fae5be3dd1b142ecb27388fabe60da_3.png)
 

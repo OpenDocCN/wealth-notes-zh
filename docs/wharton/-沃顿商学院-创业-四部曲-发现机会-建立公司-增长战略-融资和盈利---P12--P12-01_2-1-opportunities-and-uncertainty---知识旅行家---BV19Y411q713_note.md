@@ -1,6 +1,6 @@
-![](img/cda0a505ee40190c5dd3ce91a8dafcf5_0.png)
-
 # 🚀 沃顿商学院创业四部曲 P12：机会与不确定性
+
+![](img/cda0a505ee40190c5dd3ce91a8dafcf5_0.png)
 
 ![](img/cda0a505ee40190c5dd3ce91a8dafcf5_2.png)
 

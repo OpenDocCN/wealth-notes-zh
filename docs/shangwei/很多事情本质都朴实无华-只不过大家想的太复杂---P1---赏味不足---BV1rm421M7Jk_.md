@@ -1,6 +1,6 @@
-![](img/20dc8cafd05f0581ede6fc2468f2c3dd_1.png)
-
 # 课程 P1：洞察事物本质 🧠
+
+![](img/20dc8cafd05f0581ede6fc2468f2c3dd_1.png)
 
 ![](img/20dc8cafd05f0581ede6fc2468f2c3dd_3.png)
 

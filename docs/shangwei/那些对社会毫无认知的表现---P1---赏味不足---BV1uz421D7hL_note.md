@@ -1,8 +1,8 @@
+# 课程：社会认知入门 - P1 🔍
+
 ![](img/37a30efaa6e05eec1dedbab9c0447607_0.png)
 
 ![](img/37a30efaa6e05eec1dedbab9c0447607_2.png)
-
-# 课程：社会认知入门 - P1 🔍
 
 ![](img/37a30efaa6e05eec1dedbab9c0447607_4.png)
 

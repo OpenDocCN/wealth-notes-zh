@@ -1,6 +1,6 @@
-![](img/c14ede8743af8637edd84443364aaf6e_1.png)
-
 # 数字经济中的Token分类 🪙 - 课程P1
+
+![](img/c14ede8743af8637edd84443364aaf6e_1.png)
 
 ![](img/c14ede8743af8637edd84443364aaf6e_3.png)
 

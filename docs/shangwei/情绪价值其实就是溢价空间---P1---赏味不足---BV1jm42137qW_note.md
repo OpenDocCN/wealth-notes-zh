@@ -1,8 +1,8 @@
+# 课程 P1：理解情绪价值与溢价空间 💰
+
 ![](img/4263bdc9bcb5fbd07e47cd596d39b51b_0.png)
 
 ![](img/4263bdc9bcb5fbd07e47cd596d39b51b_2.png)
-
-# 课程 P1：理解情绪价值与溢价空间 💰
 
 ![](img/4263bdc9bcb5fbd07e47cd596d39b51b_4.png)
 

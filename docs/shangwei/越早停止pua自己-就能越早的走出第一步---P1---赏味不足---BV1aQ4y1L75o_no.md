@@ -1,6 +1,6 @@
-![](img/0d1b1f3dbca7eb14f5fb83e848a7e86a_0.png)
-
 # 课程01：停止自我PUA，迈出改变第一步 🚫
+
+![](img/0d1b1f3dbca7eb14f5fb83e848a7e86a_0.png)
 
 ![](img/0d1b1f3dbca7eb14f5fb83e848a7e86a_2.png)
 

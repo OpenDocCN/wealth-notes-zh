@@ -1,8 +1,8 @@
+# 课程 P1：如何判断自己是否适合闯荡？🚀
+
 ![](img/67fac6e2023ce1bacccb2b7b17a66415_0.png)
 
 ![](img/67fac6e2023ce1bacccb2b7b17a66415_2.png)
-
-# 课程 P1：如何判断自己是否适合闯荡？🚀
 
 ![](img/67fac6e2023ce1bacccb2b7b17a66415_4.png)
 

@@ -1,6 +1,6 @@
-![](img/226814d4d2cbcd568fcc956751d63ef8_0.png)
-
 # 沃顿商学院创业课 P56：创业中的偏见与任人唯贤 🧠
+
+![](img/226814d4d2cbcd568fcc956751d63ef8_0.png)
 
 ![](img/226814d4d2cbcd568fcc956751d63ef8_2.png)
 

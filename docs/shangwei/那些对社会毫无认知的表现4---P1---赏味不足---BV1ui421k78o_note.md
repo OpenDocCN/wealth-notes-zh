@@ -1,6 +1,6 @@
-![](img/79eaed01efcfc36f2e47a8e4a1b9e9b6_1.png)
-
 # 课程名称：对社会毫无认知的表现（四）- 第1部分 🧠
+
+![](img/79eaed01efcfc36f2e47a8e4a1b9e9b6_1.png)
 
 ![](img/79eaed01efcfc36f2e47a8e4a1b9e9b6_3.png)
 

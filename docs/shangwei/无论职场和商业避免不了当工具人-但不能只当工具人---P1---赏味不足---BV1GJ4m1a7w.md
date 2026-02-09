@@ -1,6 +1,6 @@
-![](img/8bc51eaab3ab61deb50a1592fccd4d0e_1.png)
-
 # 课程 P1：职场与商业中如何避免成为“纯工具人” 🧠
+
+![](img/8bc51eaab3ab61deb50a1592fccd4d0e_1.png)
 
 ![](img/8bc51eaab3ab61deb50a1592fccd4d0e_3.png)
 

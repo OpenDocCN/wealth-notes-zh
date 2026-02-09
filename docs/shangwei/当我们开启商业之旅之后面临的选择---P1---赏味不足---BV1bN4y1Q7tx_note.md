@@ -1,8 +1,8 @@
+# 商业入门课 P1：开启商业之旅后的路径选择 🧭
+
 ![](img/1e6b63dce85e873eb4c0100ec7ac092a_1.png)
 
 ![](img/1e6b63dce85e873eb4c0100ec7ac092a_3.png)
-
-# 商业入门课 P1：开启商业之旅后的路径选择 🧭
 
 ![](img/1e6b63dce85e873eb4c0100ec7ac092a_5.png)
 

@@ -1,6 +1,6 @@
-![](img/3a5ac82eb6ef48c06575fefe1659dfb4_1.png)
-
 # 格局篇1：知道自己要什么 🧭
+
+![](img/3a5ac82eb6ef48c06575fefe1659dfb4_1.png)
 
 ![](img/3a5ac82eb6ef48c06575fefe1659dfb4_3.png)
 

@@ -1,6 +1,6 @@
-![](img/1ae97cf0d729558dd015d312ebcdde89_0.png)
-
 # 课程 P1：赚钱是第一优先级 🎯
+
+![](img/1ae97cf0d729558dd015d312ebcdde89_0.png)
 
 ![](img/1ae97cf0d729558dd015d312ebcdde89_2.png)
 

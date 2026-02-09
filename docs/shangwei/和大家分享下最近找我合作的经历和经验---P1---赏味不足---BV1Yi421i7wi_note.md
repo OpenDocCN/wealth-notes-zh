@@ -1,8 +1,8 @@
+# 课程一：创作者合作避坑指南 🚫
+
 ![](img/6960b07cd7bfcce786b9c8d35ee31cfb_0.png)
 
 ![](img/6960b07cd7bfcce786b9c8d35ee31cfb_2.png)
-
-# 课程一：创作者合作避坑指南 🚫
 
 ![](img/6960b07cd7bfcce786b9c8d35ee31cfb_4.png)
 

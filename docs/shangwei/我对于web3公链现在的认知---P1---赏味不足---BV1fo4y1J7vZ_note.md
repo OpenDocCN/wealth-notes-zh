@@ -1,8 +1,8 @@
+# Web3公链认知课程 - P1 🧠
+
 ![](img/556abdb5e8c81bebec629f486e7c3301_0.png)
 
 ![](img/556abdb5e8c81bebec629f486e7c3301_2.png)
-
-# Web3公链认知课程 - P1 🧠
 
 ![](img/556abdb5e8c81bebec629f486e7c3301_4.png)
 

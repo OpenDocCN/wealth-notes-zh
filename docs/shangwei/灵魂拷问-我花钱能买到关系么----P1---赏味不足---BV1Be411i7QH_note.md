@@ -1,6 +1,6 @@
-![](img/ffb14c187acacef46f12882bae0bf039_1.png)
-
 # 课程一：金钱能否买到关系？💰 - P1
+
+![](img/ffb14c187acacef46f12882bae0bf039_1.png)
 
 ![](img/ffb14c187acacef46f12882bae0bf039_3.png)
 

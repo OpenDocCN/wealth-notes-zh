@@ -1,6 +1,6 @@
-![](img/ee91d0cb4e486c9e063cd174e50a1121_1.png)
-
 # 职场生存课 01：别让责任心压垮自己 ⚠️
+
+![](img/ee91d0cb4e486c9e063cd174e50a1121_1.png)
 
 ![](img/ee91d0cb4e486c9e063cd174e50a1121_3.png)
 

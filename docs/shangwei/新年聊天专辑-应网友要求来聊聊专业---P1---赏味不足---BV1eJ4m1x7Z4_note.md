@@ -1,6 +1,6 @@
-![](img/352b3b4bc3dfb1b6c1be9ca07ac8c526_1.png)
-
 # 新年聊天专辑：专业选择与赚钱思维 💼 - P1
+
+![](img/352b3b4bc3dfb1b6c1be9ca07ac8c526_1.png)
 
 ![](img/352b3b4bc3dfb1b6c1be9ca07ac8c526_3.png)
 

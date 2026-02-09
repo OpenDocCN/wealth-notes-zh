@@ -1,6 +1,6 @@
-![](img/f1ff5d727ad9fda5f81c8bbc96f01fad_0.png)
-
 # 课程 P1：想象需求 vs. 真实需求 🎯
+
+![](img/f1ff5d727ad9fda5f81c8bbc96f01fad_0.png)
 
 ![](img/f1ff5d727ad9fda5f81c8bbc96f01fad_2.png)
 

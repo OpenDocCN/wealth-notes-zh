@@ -1,12 +1,12 @@
+# 课程名称：为什么你看别人赚钱总是那么好赚 - P1
+
 ![](img/5d2e6447c0ca8d6d9cfa4a21e90afb62_0.png)
 
-# 课程名称：为什么你看别人赚钱总是那么好赚 - P1
+## 概述
 
 ![](img/5d2e6447c0ca8d6d9cfa4a21e90afb62_2.png)
 
 ![](img/5d2e6447c0ca8d6d9cfa4a21e90afb62_4.png)
-
-## 概述
 
 ![](img/5d2e6447c0ca8d6d9cfa4a21e90afb62_6.png)
 

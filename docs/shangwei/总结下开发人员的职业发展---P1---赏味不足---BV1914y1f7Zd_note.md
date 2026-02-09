@@ -1,6 +1,6 @@
-![](img/3ff2caad8ff2d14a6291945b98336e6d_1.png)
-
 # 开发人员职业发展指南 - P1 📈
+
+![](img/3ff2caad8ff2d14a6291945b98336e6d_1.png)
 
 ![](img/3ff2caad8ff2d14a6291945b98336e6d_3.png)
 

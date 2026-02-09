@@ -1,6 +1,6 @@
-![](img/8bd63fd1f3cef2e345f9a1aaa26775c5_0.png)
-
 # 课程 P1：哪个行业值得我们深耕？ 🤔
+
+![](img/8bd63fd1f3cef2e345f9a1aaa26775c5_0.png)
 
 ![](img/8bd63fd1f3cef2e345f9a1aaa26775c5_2.png)
 

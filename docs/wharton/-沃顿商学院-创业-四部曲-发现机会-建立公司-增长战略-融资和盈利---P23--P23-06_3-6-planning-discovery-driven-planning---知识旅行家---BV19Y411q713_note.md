@@ -1,8 +1,8 @@
+# 🧭 创业课程 P23：探索驱动规划 (Discovery-Driven Planning)
+
 ![](img/a3959bf16a943472ae69a151ddcc479b_0.png)
 
 ![](img/a3959bf16a943472ae69a151ddcc479b_2.png)
-
-# 🧭 创业课程 P23：探索驱动规划 (Discovery-Driven Planning)
 
 ![](img/a3959bf16a943472ae69a151ddcc479b_4.png)
 

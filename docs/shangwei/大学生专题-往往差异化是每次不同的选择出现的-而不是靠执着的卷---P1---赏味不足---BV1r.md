@@ -1,6 +1,6 @@
-![](img/e68ea26bcabc92b477edd2b94c1cc63c_1.png)
-
 # 大学生专题：差异化选择与个人发展路径探索 - P1 🧭
+
+![](img/e68ea26bcabc92b477edd2b94c1cc63c_1.png)
 
 ![](img/e68ea26bcabc92b477edd2b94c1cc63c_3.png)
 

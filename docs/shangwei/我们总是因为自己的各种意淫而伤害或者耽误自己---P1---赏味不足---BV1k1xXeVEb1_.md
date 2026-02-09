@@ -1,6 +1,6 @@
-![](img/ae87edba2289bdf8ca79d22bb8ac038e_1.png)
-
 # 课程一：识破“意淫”陷阱，避免自我伤害与耽误 🧠
+
+![](img/ae87edba2289bdf8ca79d22bb8ac038e_1.png)
 
 ![](img/ae87edba2289bdf8ca79d22bb8ac038e_3.png)
 

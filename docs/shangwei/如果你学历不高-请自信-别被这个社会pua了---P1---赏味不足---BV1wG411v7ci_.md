@@ -1,6 +1,6 @@
-![](img/f8c166dbdf8dd5c2d37e13e981f0f767_1.png)
-
 # 课程01：学历与自信 - 拒绝社会PUA 🛡️
+
+![](img/f8c166dbdf8dd5c2d37e13e981f0f767_1.png)
 
 ![](img/f8c166dbdf8dd5c2d37e13e981f0f767_3.png)
 

@@ -1,8 +1,8 @@
+# 数字经济篇4：人工智能AIGC的商业逻辑分析 🧠
+
 ![](img/45fa012c7174aab99f1fbc1490786ef1_1.png)
 
 ![](img/45fa012c7174aab99f1fbc1490786ef1_3.png)
-
-# 数字经济篇4：人工智能AIGC的商业逻辑分析 🧠
 
 ![](img/45fa012c7174aab99f1fbc1490786ef1_5.png)
 

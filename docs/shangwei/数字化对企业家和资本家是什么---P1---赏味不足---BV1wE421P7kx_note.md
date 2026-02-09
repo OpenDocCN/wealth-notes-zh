@@ -1,8 +1,8 @@
+# 数字化对企业家和资本家是什么 - P1 📊
+
 ![](img/85c0ec6c0d4de3ac07f88d9fcd44d30e_0.png)
 
 ![](img/85c0ec6c0d4de3ac07f88d9fcd44d30e_2.png)
-
-# 数字化对企业家和资本家是什么 - P1 📊
 
 ![](img/85c0ec6c0d4de3ac07f88d9fcd44d30e_4.png)
 

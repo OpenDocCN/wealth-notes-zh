@@ -1,10 +1,10 @@
+# 新年聊天专辑：发财案例与风口洞察 🧧 - P1
+
 ![](img/21fa3cdbf9e93bbe1ffc961a717ffcba_1.png)
 
 ![](img/21fa3cdbf9e93bbe1ffc961a717ffcba_3.png)
 
 ![](img/21fa3cdbf9e93bbe1ffc961a717ffcba_5.png)
-
-# 新年聊天专辑：发财案例与风口洞察 🧧 - P1
 
 ![](img/21fa3cdbf9e93bbe1ffc961a717ffcba_7.png)
 

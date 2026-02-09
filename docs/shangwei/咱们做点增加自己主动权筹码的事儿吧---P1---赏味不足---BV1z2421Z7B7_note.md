@@ -1,8 +1,8 @@
+# 课程01：掌握人生主动权 🎯
+
 ![](img/a746aa81237ab7e0e8a0a1bbe2c1baff_0.png)
 
 ![](img/a746aa81237ab7e0e8a0a1bbe2c1baff_2.png)
-
-# 课程01：掌握人生主动权 🎯
 
 ![](img/a746aa81237ab7e0e8a0a1bbe2c1baff_4.png)
 

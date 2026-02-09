@@ -1,6 +1,6 @@
-![](img/70be740cdb196f6f7d99e68dfc4ecf81_1.png)
-
 # 📊 沃顿商学院《商务基础》｜第10课：数据驱动的商业模式
+
+![](img/70be740cdb196f6f7d99e68dfc4ecf81_1.png)
 
 ![](img/70be740cdb196f6f7d99e68dfc4ecf81_2.png)
 

@@ -1,6 +1,6 @@
-![](img/e8098d7eaebfce2ef214bdfd14227fb5_1.png)
-
 # 课程：AI取代绘画与文字工作的本质剖析 - P1 🧠
+
+![](img/e8098d7eaebfce2ef214bdfd14227fb5_1.png)
 
 ![](img/e8098d7eaebfce2ef214bdfd14227fb5_3.png)
 

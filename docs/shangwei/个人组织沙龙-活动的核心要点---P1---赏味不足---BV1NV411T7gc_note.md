@@ -1,8 +1,8 @@
+# 个人组织沙龙/活动的核心要点 - P1 🎯
+
 ![](img/a8b04462f49c149d3f2a3c98fca50dbb_1.png)
 
 ![](img/a8b04462f49c149d3f2a3c98fca50dbb_3.png)
-
-# 个人组织沙龙/活动的核心要点 - P1 🎯
 
 ![](img/a8b04462f49c149d3f2a3c98fca50dbb_5.png)
 

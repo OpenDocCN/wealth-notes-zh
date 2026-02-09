@@ -1,6 +1,6 @@
-![](img/06d8c6b653854e40fbdc2d13a1b26c2c_1.png)
-
 # 沃顿商学院《商务基础》｜Business Foundations Specialization｜ 课程笔记 P107：5_APR 和 EAR 📊
+
+![](img/06d8c6b653854e40fbdc2d13a1b26c2c_1.png)
 
 在本节课中，我们将学习利率的报价惯例，特别是年利率（APR）和有效年利率（EAR）的区别与联系。我们将了解如何计算非年度复利情况下的现值和终值，并掌握在不同时间单位下进行计算的技巧。
 

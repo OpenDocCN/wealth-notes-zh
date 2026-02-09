@@ -1,8 +1,8 @@
+# 保姆式教学 P1：做投入产出比明确的事情 💡
+
 ![](img/b14c0e0c345394b7540d8ccee6cfe97d_0.png)
 
 ![](img/b14c0e0c345394b7540d8ccee6cfe97d_2.png)
-
-# 保姆式教学 P1：做投入产出比明确的事情 💡
 
 ![](img/b14c0e0c345394b7540d8ccee6cfe97d_4.png)
 

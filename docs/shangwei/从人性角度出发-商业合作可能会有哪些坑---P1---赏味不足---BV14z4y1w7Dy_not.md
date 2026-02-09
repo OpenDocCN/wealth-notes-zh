@@ -1,6 +1,6 @@
-![](img/d476cd301f0f75f6cbc6b2e33dcc49f7_1.png)
-
 # 商业合作避坑指南（一）：人性视角下的常见陷阱 🕳️
+
+![](img/d476cd301f0f75f6cbc6b2e33dcc49f7_1.png)
 
 ![](img/d476cd301f0f75f6cbc6b2e33dcc49f7_3.png)
 

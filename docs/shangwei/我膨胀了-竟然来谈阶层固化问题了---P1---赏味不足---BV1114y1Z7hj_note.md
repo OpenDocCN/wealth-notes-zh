@@ -1,10 +1,10 @@
+# 社会阶层分析入门 01：理解固化的现实与个体应对 🧱
+
 ![](img/32cf6f4ff8e1dc20a2bffa50b6a2a3ff_1.png)
 
 ![](img/32cf6f4ff8e1dc20a2bffa50b6a2a3ff_3.png)
 
 ![](img/32cf6f4ff8e1dc20a2bffa50b6a2a3ff_5.png)
-
-# 社会阶层分析入门 01：理解固化的现实与个体应对 🧱
 
 ![](img/32cf6f4ff8e1dc20a2bffa50b6a2a3ff_7.png)
 

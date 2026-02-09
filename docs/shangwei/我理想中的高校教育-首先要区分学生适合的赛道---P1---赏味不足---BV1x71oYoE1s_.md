@@ -1,6 +1,6 @@
-![](img/4b0a264fc20ecb29238df5a4fcf47d6e_0.png)
-
 # 课程 P1：理想高校教育之赛道区分 🎯
+
+![](img/4b0a264fc20ecb29238df5a4fcf47d6e_0.png)
 
 ![](img/4b0a264fc20ecb29238df5a4fcf47d6e_2.png)
 

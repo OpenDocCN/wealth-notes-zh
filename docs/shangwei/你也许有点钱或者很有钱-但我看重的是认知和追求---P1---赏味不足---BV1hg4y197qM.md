@@ -1,6 +1,6 @@
-![](img/64694af42cf7c6432daefff6b98bc14e_1.png)
-
 # 课程 P1：认知与追求比金钱更重要 💡
+
+![](img/64694af42cf7c6432daefff6b98bc14e_1.png)
 
 ![](img/64694af42cf7c6432daefff6b98bc14e_3.png)
 

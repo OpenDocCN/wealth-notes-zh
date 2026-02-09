@@ -1,6 +1,6 @@
-![](img/c7c3e6b501f3c2ff3fa45e0fb9fcedd4_0.png)
-
 # 🚀 创业四部曲 P39：迈出关键一步——辞去日常工作
+
+![](img/c7c3e6b501f3c2ff3fa45e0fb9fcedd4_0.png)
 
 ![](img/c7c3e6b501f3c2ff3fa45e0fb9fcedd4_2.png)
 

@@ -1,6 +1,6 @@
-![](img/ee3fb292ef52dcac1ffbdff4075e357e_0.png)
-
 # 应届生商业专题：什么是商业操守 - P1 📚
+
+![](img/ee3fb292ef52dcac1ffbdff4075e357e_0.png)
 
 ![](img/ee3fb292ef52dcac1ffbdff4075e357e_2.png)
 

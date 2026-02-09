@@ -1,6 +1,6 @@
-![](img/b8dc6d7594f560afdad28eb6aa83cbea_1.png)
-
 # 职场与商业中的红黑脸策略 🎭 - 课程01
+
+![](img/b8dc6d7594f560afdad28eb6aa83cbea_1.png)
 
 ![](img/b8dc6d7594f560afdad28eb6aa83cbea_3.png)
 

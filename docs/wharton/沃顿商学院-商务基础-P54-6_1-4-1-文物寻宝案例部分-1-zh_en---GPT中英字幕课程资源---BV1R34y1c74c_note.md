@@ -1,6 +1,6 @@
-![](img/f4f37ad4c6bfa8d1dc6b823a6fcfcb53_1.png)
-
 # 沃顿商学院《商务基础》课程 P54：文物寻宝案例（第一部分）📚
+
+![](img/f4f37ad4c6bfa8d1dc6b823a6fcfcb53_1.png)
 
 ![](img/f4f37ad4c6bfa8d1dc6b823a6fcfcb53_3.png)
 

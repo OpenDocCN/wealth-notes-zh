@@ -1,6 +1,6 @@
-![](img/e8bf77855d8ecdd50d035d37b21fec8a_1.png)
-
 # 沃顿商学院《商务基础》｜Business Foundations Specialization｜（中英字幕） - P110：8_自由现金流 📊
+
+![](img/e8bf77855d8ecdd50d035d37b21fec8a_1.png)
 
 ## 课程概述
 

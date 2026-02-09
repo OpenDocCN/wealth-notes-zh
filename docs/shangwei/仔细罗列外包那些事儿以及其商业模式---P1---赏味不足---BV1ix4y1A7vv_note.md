@@ -1,10 +1,10 @@
+# 课程P1：详解外包行业及其商业模式 📋
+
 ![](img/7686e26cd34afca62ce8adeef3743bbd_1.png)
 
 ![](img/7686e26cd34afca62ce8adeef3743bbd_3.png)
 
 ![](img/7686e26cd34afca62ce8adeef3743bbd_5.png)
-
-# 课程P1：详解外包行业及其商业模式 📋
 
 ![](img/7686e26cd34afca62ce8adeef3743bbd_7.png)
 

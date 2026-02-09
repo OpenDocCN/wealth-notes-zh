@@ -1,6 +1,6 @@
-![](img/f049f8bfa8eeed1d4cbfab2c720df879_1.png)
-
 # 课程5：探索楚门的世界 - 学历的用途 📚
+
+![](img/f049f8bfa8eeed1d4cbfab2c720df879_1.png)
 
 ![](img/f049f8bfa8eeed1d4cbfab2c720df879_3.png)
 

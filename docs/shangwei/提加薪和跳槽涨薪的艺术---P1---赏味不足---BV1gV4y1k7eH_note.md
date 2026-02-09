@@ -1,6 +1,6 @@
-![](img/d3129cc96c430cf5298dc10af7ff52dc_1.png)
-
 # 职场薪资谈判的艺术 - 第1课 💰
+
+![](img/d3129cc96c430cf5298dc10af7ff52dc_1.png)
 
 ![](img/d3129cc96c430cf5298dc10af7ff52dc_3.png)
 

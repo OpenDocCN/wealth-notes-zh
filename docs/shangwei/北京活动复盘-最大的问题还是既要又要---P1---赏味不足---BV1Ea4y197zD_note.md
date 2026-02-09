@@ -1,6 +1,6 @@
-![](img/61bb64bdcd6045c1a41ce2dc0c25a5b0_1.png)
-
 # 课程名称：独立开发者与商业思维精讲 第01课：北京活动复盘与核心问题剖析 🧠
+
+![](img/61bb64bdcd6045c1a41ce2dc0c25a5b0_1.png)
 
 ![](img/61bb64bdcd6045c1a41ce2dc0c25a5b0_3.png)
 

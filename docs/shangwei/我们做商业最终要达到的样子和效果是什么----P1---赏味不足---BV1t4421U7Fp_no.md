@@ -1,6 +1,6 @@
-![](img/9ef94bdfd2eeac630aa8b52b1d546f69_0.png)
-
 # 商业的终极形态是什么？💰 - 课程 P1
+
+![](img/9ef94bdfd2eeac630aa8b52b1d546f69_0.png)
 
 ![](img/9ef94bdfd2eeac630aa8b52b1d546f69_2.png)
 

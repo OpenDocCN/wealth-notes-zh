@@ -1,6 +1,6 @@
-![](img/96a2a85ba3abe1b105240da2cc4aadc3_0.png)
-
 # 课程 P1：数字经济中的权益Token 🪙
+
+![](img/96a2a85ba3abe1b105240da2cc4aadc3_0.png)
 
 ![](img/96a2a85ba3abe1b105240da2cc4aadc3_2.png)
 

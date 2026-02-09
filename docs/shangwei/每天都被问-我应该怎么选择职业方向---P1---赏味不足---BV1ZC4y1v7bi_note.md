@@ -1,6 +1,6 @@
-![](img/cb10fafbba3d1e7e7dae3943b8255dbc_0.png)
-
 # 职业选择指南 P1：如何找到你的方向？🤔
+
+![](img/cb10fafbba3d1e7e7dae3943b8255dbc_0.png)
 
 ![](img/cb10fafbba3d1e7e7dae3943b8255dbc_2.png)
 

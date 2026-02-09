@@ -1,6 +1,6 @@
-![](img/79abe16e9b904a26bd5cb38ee1ac7d6f_1.png)
-
 # 课程：象牙塔内外对风口的认识与误解 - P1 🏛️💨
+
+![](img/79abe16e9b904a26bd5cb38ee1ac7d6f_1.png)
 
 ![](img/79abe16e9b904a26bd5cb38ee1ac7d6f_3.png)
 

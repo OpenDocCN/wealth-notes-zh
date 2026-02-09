@@ -1,8 +1,8 @@
+# 职场避坑指南 P1：识别不靠谱企业的核心特征 🚩
+
 ![](img/3c85d168cfba13b06dec100eca760d20_0.png)
 
 ![](img/3c85d168cfba13b06dec100eca760d20_2.png)
-
-# 职场避坑指南 P1：识别不靠谱企业的核心特征 🚩
 
 ![](img/3c85d168cfba13b06dec100eca760d20_4.png)
 

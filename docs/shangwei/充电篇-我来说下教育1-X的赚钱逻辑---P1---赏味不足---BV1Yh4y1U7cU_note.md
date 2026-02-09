@@ -1,6 +1,6 @@
-![](img/beaa3f83b86e2ffead8b52e7b8699aec_1.png)
-
 # 课程一：教育1+X项目核心逻辑与盈利模式解析 💡
+
+![](img/beaa3f83b86e2ffead8b52e7b8699aec_1.png)
 
 ![](img/beaa3f83b86e2ffead8b52e7b8699aec_3.png)
 
