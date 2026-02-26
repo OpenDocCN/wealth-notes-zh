@@ -1,4 +1,4 @@
-# 创业课程 01：Hiroki Takeuchi 的创业四课 🚀
+#  3：Hiroki Takeuchi 的创业四课 🚀
 
 在本节课中，我们将跟随 GoCardless 联合创始人兼 CEO Hiroki Takeuchi 的分享，学习他从创业历程中总结出的四个核心经验。这些经验并非来自单一事件，而是贯穿其创业始终的深刻领悟。
 

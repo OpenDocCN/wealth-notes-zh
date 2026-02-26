@@ -1,4 +1,4 @@
-# 创业经验分享课程 #1：从LinkExchange到Zappos的旅程 🚀
+#  2：从LinkExchange到Zappos的旅程 🚀
 
 在本节课中，我们将跟随红杉资本合伙人阿尔弗雷德·林（Alfred Lin）的分享，了解他早期在LinkExchange和Zappos的创业经历。我们将探讨如何从零开始创业、应对资金挑战、建立公司文化，以及最终成功退出的关键决策。
 
