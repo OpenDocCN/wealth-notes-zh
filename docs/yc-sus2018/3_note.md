@@ -1,4 +1,4 @@
-# 创业课 01：与 Paul Graham 的对话 🎙️
+#  3：与 Paul Graham 的对话 🎙️
 
 在本节课中，我们将一起学习 Paul Graham 分享的创业核心经验。Paul Graham 是 Y Combinator 的联合创始人，也是一位成功的创业者和投资人。通过他与 Geoff Ralston 的对话，我们将了解创业想法的诞生、团队组建、产品开发以及创始人应具备的特质。
 
