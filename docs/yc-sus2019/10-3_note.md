@@ -1,4 +1,4 @@
-# 📘 课程一：Geoff Ralston的创业建议
+#  3：Geoff Ralston的创业建议
 
 在本节课中，我们将学习Y Combinator总裁Geoff Ralston分享的核心创业建议。课程将涵盖如何找到自己的创业道路、应对挑战以及建立一家成功且健康的公司。
 
