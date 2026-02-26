@@ -1,4 +1,4 @@
-# 创业课 01：Instacart创始人Apoorva Mehta的创业历程与心得 🛒
+#  1：Instacart创始人Apoorva Mehta的创业历程与心得 🛒
 
 在本节课中，我们将学习Instacart创始人兼CEO Apoorva Mehta在2014年纽约创业学校分享的创业故事。我们将了解他从产生创业想法、经历多次失败，到最终创立Instacart并获得成功的关键历程与核心经验。课程将重点解析其创业过程中的重要决策、遇到的挑战以及学到的宝贵教训。
 
