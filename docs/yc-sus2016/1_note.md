@@ -1,4 +1,4 @@
-# 创业教程 01：从零到一，Ben Silbermann的Pinterest创业之路 🚀
+#  1：从零到一，Ben Silbermann的Pinterest创业之路 🚀
 
 在本节课中，我们将一起学习Pinterest联合创始人兼CEO Ben Silbermann的创业故事。我们将了解他如何从一个非技术背景的创业者，通过不断尝试、学习和坚持，最终打造出全球知名的产品。课程将涵盖从寻找灵感、组建团队、获取早期用户到构建公司文化的全过程。
 

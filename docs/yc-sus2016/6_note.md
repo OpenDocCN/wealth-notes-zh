@@ -1,4 +1,4 @@
-# 创业学校SV 2016：与Paul Buchheit和Sam Altman的融资演讲练习课 🎤
+#  6：与Paul Buchheit和Sam Altman的融资演讲练习课 🎤
 
 在本节课中，我们将学习如何向投资者进行有效的融资演讲。我们将通过分析2016年创业学校上Paul Buchheit和Sam Altman与两位初创公司创始人的真实演练，来拆解演讲的核心要素、常见陷阱以及改进方法。
 
