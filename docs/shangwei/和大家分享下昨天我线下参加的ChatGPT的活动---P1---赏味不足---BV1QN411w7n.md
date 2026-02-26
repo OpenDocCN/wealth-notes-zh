@@ -1,4 +1,4 @@
-# 课程 P1：ChatGPT线下活动分享与思考 🤖
+# 和大家分享下昨天我线下参加的ChatGPT的活动---P1---赏味不足---BV1QN411w7n
 
 ![](img/efd46abafa3d44738229bae97f9977d5_0.png)
 
