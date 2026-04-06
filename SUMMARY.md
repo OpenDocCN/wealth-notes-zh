@@ -34,3 +34,4 @@
 +   [YC 创业课 2019 中文笔记](docs/yc-sus2019/README.md)
 +   [中国社会阶层调查研究](docs/zhongguo-shehui-diaocha-yanjiu/README.md)
 +   [资本主义个人反抗指南](docs/zibenzhuyi-geren-fankang-zhinan/README.md)
++   [知识星球整理 2025](docs/zsxq2025/README.md)
