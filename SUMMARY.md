@@ -9,6 +9,7 @@
 +   [红杉汇创业知识手册 V2.0 版](docs/hsh-stup-v2/README.md)
 +   [记忆承载文章合集](docs/jiyichengzai/README.md)
 +   [跨年演讲](docs/kuanian-yanjiang/README.md)
++   [懒人群分享 202406](docs/lanrenqun-202406/README.md)
 +   [老方](docs/laofang/README.md)
 +   [老隋](docs/laosui/README.md)
 +   [生财有术知识星球整理 20190928](docs/scys201909/README.md)
