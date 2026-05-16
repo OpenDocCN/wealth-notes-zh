@@ -14,6 +14,7 @@
 +   [懒人群分享 202408](docs/lanrenqun-202408/README.md)
 +   [懒人群分享 202409](docs/lanrenqun-202409/README.md)
 +   [懒人群分享 202412](docs/lanrenqun-202412/README.md)
++   [懒人群分享 202503](docs/lanrenqun-202503/README.md)
 +   [老方](docs/laofang/README.md)
 +   [老隋](docs/laosui/README.md)
 +   [生财有术知识星球整理 20190928](docs/scys201909/README.md)
