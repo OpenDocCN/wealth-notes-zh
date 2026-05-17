@@ -19,6 +19,7 @@
 +   [懒人群分享 202501](docs/lanrenqun-202501/README.md)
 +   [懒人群分享 202503](docs/lanrenqun-202503/README.md)
 +   [懒人群分享 202505](docs/lanrenqun-202505/README.md)
++   [懒人群分享 202508](docs/lanrenqun-202508/README.md)
 +   [懒人群分享 202512](docs/lanrenqun-202512/README.md)
 +   [老方](docs/laofang/README.md)
 +   [老隋](docs/laosui/README.md)
