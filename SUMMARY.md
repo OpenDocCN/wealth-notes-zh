@@ -38,6 +38,7 @@
 +   [斯坦福 CS183c 闪电式扩张中文笔记](docs/stf-cs183c/README.md)
 +   [斯坦福 CS183f YC 创业课 2017 中文笔记](docs/stf-cs183f/README.md)
 +   [培训机构分析报告（TI Analysis）](docs/ti-analysis/README.md)
++   [天涯神帖](docs/tianya/README.md)
 +   [挖矿指南](docs/wakuang/README.md)
 +   [通往财富自由之路精细笔记](docs/wealfree/README.md)
 +   [沃顿商学院全套笔记](docs/wharton/README.md)
